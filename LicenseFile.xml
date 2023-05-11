@@ -1,1 +1,6 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<UserList>
+  <UserData Name="" NickName="" Paypal="" AionServer="AionEmpire">
+    <LicenceData ActivationData="2022-09-18 00:10:52,531" LicenseDurationDay="2" IgnoreMacAddress="True" UniqueId="Gigabyte Technology Co., Ltd.-H410M S2 V2-BFEBFBFF000A0653-B8DFC7B8-18C04DF9271E" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDQxME0gUzIgVjItQkZFQkZCRkYwMDBBMDY1My1COERGQzdCOC0xOEMwNERGOTI3MUUtNTAwMjZCNzc4NDAyNzg4Rg" LicenseType="Advanced"></LicenceData>
+  </UserData>
+</UserList>
