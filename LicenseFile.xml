@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <UserList>
-  <UserData Name="" NickName="" Paypal="" AionServer="AionEmpire">
-    <LicenceData ActivationData="2022-09-18 00:10:52,531" LicenseDurationDay="2" IgnoreMacAddress="True" UniqueId="Gigabyte Technology Co., Ltd.-H410M S2 V2-BFEBFBFF000A0653-B8DFC7B8-18C04DF9271E" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDQxME0gUzIgVjItQkZFQkZCRkYwMDBBMDY1My1COERGQzdCOC0xOEMwNERGOTI3MUUtNTAwMjZCNzc4NDAyNzg4Rg" LicenseType="Advanced"></LicenceData>
+  <!-- Desktop --> 
+    <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionEmpire,AionClassic,AionClassicKorea,LeagueOfAion,AionGameCoast,EuroAion,AionClassicJapan,AionClassicTaiwan,AionClassicChina,AionAmerica">
+    <LicenceData ActivationData="2023-05-11 14:40:52,531" LicenseDurationDay="180" IgnoreMacAddress="true" UniqueId="ASRock-B450M Pro4-178BFBFF00870F10-6456C869-7085C2FEE92D" UniqueIdSha512="QVNSb2NrLUI0NTBNIFBybzQtMTc4QkZCRkYwMDg3MEYxMC02NDU2Qzg2OS03MDg1QzJGRUU5MkQtSEJTRTM5MjkwMTAwMTI1ICAgICBfMDAwMDAwMDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Desktop --> 
+    <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionEmpire,AionClassic,AionClassicKorea,LeagueOfAion,AionGameCoast,EuroAion,AionClassicJapan,AionClassicTaiwan,AionClassicChina,AionAmerica">
+    <LicenceData ActivationData="2023-05-11 14:40:52,531" LicenseDurationDay="180" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z370-A-BFEBFBFF000906EA-881D6F52-B06EBFBA67B3" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFozNzAtQS1CRkVCRkJGRjAwMDkwNkVBLTg4MUQ2RjUyLUIwNkVCRkJBNjdCMy0wMDI1XzM4NTNfOTFCM182RDFFLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Desktop --> 
+    <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionEmpire,AionClassic,AionClassicKorea,LeagueOfAion,AionGameCoast,EuroAion,AionClassicJapan,AionClassicTaiwan,AionClassicChina,AionAmerica">
+    <LicenceData ActivationData="2023-05-11 14:40:52,531" LicenseDurationDay="180" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B650-PLUS-178BFBFF00A60F12-F49992AA-020A82E6D157" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEI2NTAtUExVUy0xNzhCRkJGRjAwQTYwRjEyLUY0OTk5MkFBLTAyMEE4MkU2RDE1Ny0wMDI1XzM4QjhfMjFBMV8wRDM0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Desktop --> 
+    <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionEmpire,AionClassic,AionClassicKorea,LeagueOfAion,AionGameCoast,EuroAion,AionClassicJapan,AionClassicTaiwan,AionClassicChina,AionAmerica">
+    <LicenceData ActivationData="2023-05-11 14:40:52,531" LicenseDurationDay="180" IgnoreMacAddress="true" UniqueId="ASRock-B450M Pro4-178BFBFF00800F82-1261AC5D-A8A1590983CD" UniqueIdSha512="QVNSb2NrLUI0NTBNIFBybzQtMTc4QkZCRkYwMDgwMEY4Mi0xMjYxQUM1RC1BOEExNTkwOTgzQ0QtTUNEMjM4UjAwMDI2OQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData> 
+  <!-- Desktop --> 
+    <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionEmpire,AionClassic,AionClassicKorea,LeagueOfAion,AionGameCoast,EuroAion,AionClassicJapan,AionClassicTaiwan,AionClassicChina,AionAmerica">
+    <LicenceData ActivationData="2023-05-11 14:40:52,531" LicenseDurationDay="180" IgnoreMacAddress="true" UniqueId="ECS-H61H2-M12-BFEBFBFF000306A9-91626FE0-1078D24BB866" UniqueIdSha512="RUNTLUg2MUgyLU0xMi1CRkVCRkJGRjAwMDMwNkE5LTkxNjI2RkUwLTEwNzhEMjRCQjg2Ni01MDAyNkI3NjgyQjMzQzFC" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData> 
 </UserList>
