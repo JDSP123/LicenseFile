@@ -32,4 +32,8 @@
     <UserData Name="" NickName="Funpay" Paypal="xKiRiKx" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-12 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-P8Z77-V PRO-BFEBFBFF000206A7-7AAFF439-10BF487E84DE" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVA4Wjc3LVYgUFJPLUJGRUJGQkZGMDAwMjA2QTctN0FBRkY0MzktMTBCRjQ4N0U4NERFLVNOMjA0NjA4OTA5NjQ3" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE--> 
+    <UserData Name="" NickName="" Paypal="ba951236ba@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-12 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="Dell Inc.-0J8D23-BFEBFBFF000806EA-4256F684-A4FC773344EF" UniqueIdSha512="RGVsbCBJbmMuLTBKOEQyMy1CRkVCRkJGRjAwMDgwNkVBLTQyNTZGNjg0LUE0RkM3NzMzNDRFRi0gICAgICAgIDE5MTEyMTRDOEVBRg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
