@@ -19,5 +19,9 @@
   <!-- Desktop --> 
     <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionEmpire,AionClassic,AionClassicKorea,LeagueOfAion,AionGameCoast,EuroAion,AionClassicJapan,AionClassicTaiwan,AionClassicChina,AionAmerica">
     <LicenceData ActivationData="2023-05-11 14:40:52,531" LicenseDurationDay="180" IgnoreMacAddress="true" UniqueId="ECS-H61H2-M12-BFEBFBFF000306A9-91626FE0-1078D24BB866" UniqueIdSha512="RUNTLUg2MUgyLU0xMi1CRkVCRkJGRjAwMDMwNkE5LTkxNjI2RkUwLTEwNzhEMjRCQjg2Ni01MDAyNkI3NjgyQjMzQzFC" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="" Paypal="wickedz187@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z370-P-BFEBFBFF000906EA-A6FA1EE3-B06EBFC55219" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFozNzAtUC1CRkVCRkJGRjAwMDkwNkVBLUE2RkExRUUzLUIwNkVCRkM1NTIxOS0xNzQ0Mjk0MjEwODE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData> 
 </UserList>
