@@ -59,5 +59,9 @@
   <!-- Aion Classic Japan Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="1747324384@qq.com" AionServer="AionClassicJapan">
     <LicenceData ActivationData="2023-05-12 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B760M GAMING AC DDR4-BFEBFBFF000B06F2-9EA8DFFE-B48C9D9F7729" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjc2ME0gR0FNSU5HIEFDIEREUjQtQkZFQkZCRkYwMDBCMDZGMi05RUE4REZGRS1CNDhDOUQ5Rjc3MjktICAgICAgICAgICAgWk4xUjZLTkE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="" Paypal="rtayl98@yahoo.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-02 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME X299-A-BFEBFBFF00050654-9C086BBC-B06EBF38694A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFgyOTktQS1CRkVCRkJGRjAwMDUwNjU0LTlDMDg2QkJDLUIwNkVCRjM4Njk0QS1TMURCTlNBRjcwNTcxMEs" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>   
 </UserList>
