@@ -99,5 +99,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="ilgiovy86@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-13 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX B360-G GAMING-BFEBFBFF000906EC-10632352-04D9F5AFE173" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBCMzYwLUcgR0FNSU5HLUJGRUJGQkZGMDAwOTA2RUMtMTA2MzIzNTItMDREOUY1QUZFMTczLTEyMDU4MjAxMDAwMDA5ODkwMUUw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="Funpay, Discord: ana. " Paypal="random52" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME X370-A-178BFBFF00800F82-6C1D0E73-88D7F6C954E9" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFgzNzAtQS0xNzhCRkJGRjAwODAwRjgyLTZDMUQwRTczLTg4RDdGNkM5NTRFOS01MDAyNkI3Nzg0NzAyRUMy" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>           
 </UserList>
