@@ -95,5 +95,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="ginodank@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-13 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG MAXIMUS XII HERO (WI-FI)-BFEBFBFF000A0655-D06CCAA9-D45D64D26464" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBNQVhJTVVTIFhJSSBIRVJPIChXSS1GSSktQkZFQkZCRkYwMDBBMDY1NS1EMDZDQ0FBOS1ENDVENjREMjY0NjQtMjAxODEyMTIwMDAwMDE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="ilgiovy86@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-13 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX B360-G GAMING-BFEBFBFF000906EC-10632352-04D9F5AFE173" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBCMzYwLUcgR0FNSU5HLUJGRUJGQkZGMDAwOTA2RUMtMTA2MzIzNTItMDREOUY1QUZFMTczLTEyMDU4MjAxMDAwMDA5ODkwMUUw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>           
 </UserList>
