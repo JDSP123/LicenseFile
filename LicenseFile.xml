@@ -91,5 +91,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="soufianeelhardouze@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-13 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z370 AORUS Gaming 7-BFEBFBFF000906EA-DA247010-E0D55E61423D" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjM3MCBBT1JVUyBHYW1pbmcgNy1CRkVCRkJGRjAwMDkwNkVBLURBMjQ3MDEwLUUwRDU1RTYxNDIzRC1TM0Q0TlgwSjcwOTk1MVg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>          
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
+    <UserData Name="" NickName="" Paypal="ginodank@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-13 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG MAXIMUS XII HERO (WI-FI)-BFEBFBFF000A0655-D06CCAA9-D45D64D26464" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBNQVhJTVVTIFhJSSBIRVJPIChXSS1GSSktQkZFQkZCRkYwMDBBMDY1NS1EMDZDQ0FBOS1ENDVENjREMjY0NjQtMjAxODEyMTIwMDAwMDE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>           
 </UserList>
