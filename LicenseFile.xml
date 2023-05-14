@@ -167,5 +167,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="vasileios.sgouros@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B450 GAMING PRO CARBON MAX WIFI (MS-7B85)-178BFBFF00A20F10-6AAA57EC-347DF6726E7E" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDUwIEdBTUlORyBQUk8gQ0FSQk9OIE1BWCBXSUZJIChNUy03Qjg1KS0xNzhCRkJGRjAwQTIwRjEwLTZBQUE1N0VDLTM0N0RGNjcyNkU3RS0wMDI2X0I3NjhfNDUzMF9FODY1Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                      
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="wonderfulpuzzles@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-990XA-UD3-178BFBFF00600F20-02964D76-FCAA149D306C" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tOTkwWEEtVUQzLTE3OEJGQkZGMDA2MDBGMjAtMDI5NjRENzYtRkNBQTE0OUQzMDZDLUMyNzYwNzVCMTNFRTAyMjYyNTMw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="Strinity00230@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-P8H61-I R2.0-BFEBFBFF000206A7-F6469643-E03F494B1AAE" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVA4SDYxLUkgUjIuMC1CRkVCRkJGRjAwMDIwNkE3LUY2NDY5NjQzLUUwM0Y0OTRCMUFBRS0gICAgICAgICAgICBaNFpCTDZONw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                        
 </UserList>
