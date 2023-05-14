@@ -110,7 +110,7 @@
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation --> 
     <UserData Name="" NickName="Funpay" Paypal="allisemorte" AionServer="AionClassic">
-    <LicenceData ActivationData="2023-05-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MAG B660M MORTAR DDR4 (MS-7D42)-BFEBFBFF00090675-521F6C96-047C164359A9" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NQUcgQjY2ME0gTU9SVEFSIEREUjQgKE1TLTdENDIpLUJGRUJGQkZGMDAwOTA2NzUtNTIxRjZDOTYtMDQ3QzE2NDM1OUE5LVM0QkZOSjBOMTI1MTY0Ug" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+    <LicenceData ActivationData="2023-05-13 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MAG B660M MORTAR DDR4 (MS-7D42)-BFEBFBFF00090675-521F6C96-047C164359A9" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NQUcgQjY2ME0gTU9SVEFSIEREUjQgKE1TLTdENDIpLUJGRUJGQkZGMDAwOTA2NzUtNTIxRjZDOTYtMDQ3QzE2NDM1OUE5LVM0QkZOSjBOMTI1MTY0Ug" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation --> 
     <UserData Name="" NickName="Funpay" Paypal="FunniTradeWTF" AionServer="AionClassic">
@@ -175,5 +175,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="Strinity00230@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-P8H61-I R2.0-BFEBFBFF000206A7-F6469643-E03F494B1AAE" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVA4SDYxLUkgUjIuMC1CRkVCRkJGRjAwMDIwNkE3LUY2NDY5NjQzLUUwM0Y0OTRCMUFBRS0gICAgICAgICAgICBaNFpCTDZONw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="Funpay" Paypal="baksina" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MPG Z590 GAMING PLUS (MS-7D07)-BFEBFBFF000A0671-2AA6B6C4-D8BBC1435BF1" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUEcgWjU5MCBHQU1JTkcgUExVUyAoTVMtN0QwNyktQkZFQkZCRkYwMDBBMDY3MS0yQUE2QjZDNC1EOEJCQzE0MzVCRjEtICAgICBXRC1XQ0M2TjNQRkVaWFA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                        
 </UserList>
