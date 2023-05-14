@@ -159,5 +159,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="petrunevvi@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="MSI-H87-G41 PC Mate(MS-7850)-BFEBFBFF000306C3-B2ACEDEA-448A5B5DCBDF" UniqueIdSha512="TVNJLUg4Ny1HNDEgUEMgTWF0ZShNUy03ODUwKS1CRkVCRkJGRjAwMDMwNkMzLUIyQUNFREVBLTQ0OEE1QjVEQ0JERi0gICAgICAgICAgICA0TFMwNzI4WA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                     
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE--> 
+    <UserData Name="" NickName="" Paypal="jay.bumi1997@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-B450MX-S-178BFBFF00860F01-542D9A2F-F4B520510B61" UniqueIdSha512="QklPU1RBUiBHcm91cC1CNDUwTVgtUy0xNzhCRkJGRjAwODYwRjAxLTU0MkQ5QTJGLUY0QjUyMDUxMEI2MS1SV0syMjEwMTIwMDYxNQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                      
 </UserList>
