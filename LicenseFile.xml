@@ -183,5 +183,9 @@
   <!-- Aion Classic NA/EU Temporal activation Trial extension before buying at funpay.ru--> 
     <UserData Name="" NickName="Rexon13" Paypal="sefagamex@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Dell Inc.-0FG47G-BFEBFBFF00090672-6CB366DB-7486E239EB6B" UniqueIdSha512="RGVsbCBJbmMuLTBGRzQ3Ry1CRkVCRkJGRjAwMDkwNjcyLTZDQjM2NkRCLTc0ODZFMjM5RUI2Qi0wMDAwXzAwMDBfMDAwMF8wMDAwXzhDRTNfOEUxMF8wMDlFXzBGREEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="classichesap8080@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450M-HDV R4.0-178BFBFF00A20F12-BA09ED4F-A8A1593083EC" UniqueIdSha512="QVNSb2NrLUI0NTBNLUhEViBSNC4wLTE3OEJGQkZGMDBBMjBGMTItQkEwOUVENEYtQThBMTU5MzA4M0VDLTAwMjVfMzg1N18yMUIxXzM0MzIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                        
 </UserList>
