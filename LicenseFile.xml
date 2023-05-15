@@ -160,10 +160,6 @@
     <UserData Name="" NickName="" Paypal="petrunevvi@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="MSI-H87-G41 PC Mate(MS-7850)-BFEBFBFF000306C3-B2ACEDEA-448A5B5DCBDF" UniqueIdSha512="TVNJLUg4Ny1HNDEgUEMgTWF0ZShNUy03ODUwKS1CRkVCRkJGRjAwMDMwNkMzLUIyQUNFREVBLTQ0OEE1QjVEQ0JERi0gICAgICAgICAgICA0TFMwNzI4WA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
-  <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE--> 
-    <UserData Name="" NickName="" Paypal="jay.bumi1997@gmail.com" AionServer="AionClassic">
-    <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-B450MX-S-178BFBFF00860F01-542D9A2F-F4B520510B61" UniqueIdSha512="QklPU1RBUiBHcm91cC1CNDUwTVgtUy0xNzhCRkJGRjAwODYwRjAxLTU0MkQ5QTJGLUY0QjUyMDUxMEI2MS1SV0syMjEwMTIwMDYxNQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="vasileios.sgouros@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B450 GAMING PRO CARBON MAX WIFI (MS-7B85)-178BFBFF00A20F10-6AAA57EC-347DF6726E7E" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDUwIEdBTUlORyBQUk8gQ0FSQk9OIE1BWCBXSUZJIChNUy03Qjg1KS0xNzhCRkJGRjAwQTIwRjEwLTZBQUE1N0VDLTM0N0RGNjcyNkU3RS0wMDI2X0I3NjhfNDUzMF9FODY1Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
@@ -195,5 +191,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="job.lucas@free.fr" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-AB350-Gaming 3-CF-178BFBFF00800F11-3EF2318C-1C1B0DEC17B3" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQUIzNTAtR2FtaW5nIDMtQ0YtMTc4QkZCRkYwMDgwMEYxMS0zRUYyMzE4Qy0xQzFCMERFQzE3QjMtUzI0Nko5RkI4MDIyNDkgICAgICA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE--> 
+    <UserData Name="" NickName="" Paypal="jay.bumi1997@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="MSI-H110M PRO-VH PLUS (MS-7A15)-BFEBFBFF000906E9-F432747A-4CCC6AFACDFF" UniqueIdSha512="TVNJLUgxMTBNIFBSTy1WSCBQTFVTIChNUy03QTE1KS1CRkVCRkJGRjAwMDkwNkU5LUY0MzI3NDdBLTRDQ0M2QUZBQ0RGRi01MUE5MDcxODE3RUIwMDI4MjE1NA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                        
 </UserList>
