@@ -251,5 +251,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="alexpatsex23@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-Z170-K-BFEBFBFF000506E3-B27F903C-D017C2CEDABD" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVoxNzAtSy1CRkVCRkJGRjAwMDUwNkUzLUIyN0Y5MDNDLUQwMTdDMkNFREFCRC0gICAgICAgICAgIFg0QkxXUFpGUw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                              
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation USER WAITING FOR UNIQUE ID CHANGE--> 
+    <UserData Name="" NickName="" Paypal="skullsheron@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME X670-P-178BFBFF00A60F12-8EDAFF86-C87F545169C1" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFg2NzAtUC0xNzhCRkJGRjAwQTYwRjEyLThFREFGRjg2LUM4N0Y1NDUxNjlDMS1TM1oyTkIwSzc2NTI4OVI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                               
 </UserList>
