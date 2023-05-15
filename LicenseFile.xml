@@ -255,5 +255,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation USER WAITING FOR UNIQUE ID CHANGE--> 
     <UserData Name="" NickName="" Paypal="skullsheron@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME X670-P-178BFBFF00A60F12-8EDAFF86-C87F545169C1" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFg2NzAtUC0xNzhCRkJGRjAwQTYwRjEyLThFREFGRjg2LUM4N0Y1NDUxNjlDMS1TM1oyTkIwSzc2NTI4OVI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="daniel.hardtke@freenet.de" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-Z690M Phantom Gaming 4-BFEBFBFF00090675-E617ADC3-A8A159AC4EB0" UniqueIdSha512="QVNSb2NrLVo2OTBNIFBoYW50b20gR2FtaW5nIDQtQkZFQkZCRkYwMDA5MDY3NS1FNjE3QURDMy1BOEExNTlBQzRFQjAtMDAyNV8zODVDXzExQjBfMTc1OS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                               
 </UserList>
