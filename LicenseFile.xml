@@ -207,5 +207,13 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="inessaismyname@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Dell Inc.-05K0D2-BFEBFBFF000906EA-24D2E4A5-D8D0901551A4" UniqueIdSha512="RGVsbCBJbmMuLTA1SzBEMi1CRkVCRkJGRjAwMDkwNkVBLTI0RDJFNEE1LUQ4RDA5MDE1NTFBNC1GRjczMDc3NjFCMDgwMDM0ODk3Ng" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="adelsonmagos@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H81M-S1-BFEBFBFF000306C3-04645A1B-FCAA14FB9019" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDgxTS1TMS1CRkVCRkJGRjAwMDMwNkMzLTA0NjQ1QTFCLUZDQUExNEZCOTAxOS01MDAyNkI3NzgzRkRBN0FB" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="fryking@126.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B75M-D3V-BFEBFBFF000306A9-0C5A5D83-94DE80A4A4C3" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjc1TS1EM1YtQkZFQkZCRkYwMDAzMDZBOS0wQzVBNUQ4My05NERFODBBNEE0QzMtMjAxNDAwMzIyNjEwQw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                         
 </UserList>
