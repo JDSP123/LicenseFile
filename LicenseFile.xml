@@ -187,5 +187,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="classichesap8080@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450M-HDV R4.0-178BFBFF00A20F12-BA09ED4F-A8A1593083EC" UniqueIdSha512="QVNSb2NrLUI0NTBNLUhEViBSNC4wLTE3OEJGQkZGMDBBMjBGMTItQkEwOUVENEYtQThBMTU5MzA4M0VDLTAwMjVfMzg1N18yMUIxXzM0MzIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
+    <UserData Name="" NickName="" Paypal="rocketdad40@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG MAXIMUS XII FORMULA-BFEBFBFF000A0655-F84FDB47-244BFE4A43BB" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBNQVhJTVVTIFhJSSBGT1JNVUxBLUJGRUJGQkZGMDAwQTA2NTUtRjg0RkRCNDctMjQ0QkZFNEE0M0JCLTAwMjVfMzg1OF8wMTQyXzE0QkUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
+    <UserData Name="" NickName="" Paypal="job.lucas@free.fr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-AB350-Gaming 3-CF-178BFBFF00800F11-3EF2318C-1C1B0DEC17B3" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQUIzNTAtR2FtaW5nIDMtQ0YtMTc4QkZCRkYwMDgwMEYxMS0zRUYyMzE4Qy0xQzFCMERFQzE3QjMtUzI0Nko5RkI4MDIyNDkgICAgICA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                        
 </UserList>
