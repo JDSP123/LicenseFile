@@ -179,5 +179,9 @@
   <!-- Aion Classic NA/EU Temporal activation --> 
     <UserData Name="" NickName="Funpay" Paypal="baksina" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MPG Z590 GAMING PLUS (MS-7D07)-BFEBFBFF000A0671-2AA6B6C4-D8BBC1435BF1" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUEcgWjU5MCBHQU1JTkcgUExVUyAoTVMtN0QwNyktQkZFQkZCRkYwMDBBMDY3MS0yQUE2QjZDNC1EOEJCQzE0MzVCRjEtICAgICBXRC1XQ0M2TjNQRkVaWFA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation Trial extension before buying at funpay.ru--> 
+    <UserData Name="" NickName="Rexon13" Paypal="sefagamex@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Dell Inc.-0FG47G-BFEBFBFF00090672-6CB366DB-7486E239EB6B" UniqueIdSha512="RGVsbCBJbmMuLTBGRzQ3Ry1CRkVCRkJGRjAwMDkwNjcyLTZDQjM2NkRCLTc0ODZFMjM5RUI2Qi0wMDAwXzAwMDBfMDAwMF8wMDAwXzhDRTNfOEUxMF8wMDlFXzBGREEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                        
 </UserList>
