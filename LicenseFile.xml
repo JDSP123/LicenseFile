@@ -219,5 +219,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="fryking@126.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Onda Technology Corporation-ONDA H61C Ver:6.00-BFEBFBFF000306A9-0C5A5D83-00E066C38E63" UniqueIdSha512="T25kYSBUZWNobm9sb2d5IENvcnBvcmF0aW9uLU9OREEgSDYxQyBWZXI6Ni4wMC1CRkVCRkJGRjAwMDMwNkE5LTBDNUE1RDgzLTAwRTA2NkMzOEU2My0yMDEzMTEyMUMwODQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay" Paypal="Countzz" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450 Pro4-178BFBFF00800F82-D4DF125D-7085C2A4C1E2" UniqueIdSha512="QVNSb2NrLUI0NTAgUHJvNC0xNzhCRkJGRjAwODAwRjgyLUQ0REYxMjVELTcwODVDMkE0QzFFMi0wMDI1XzM4NTZfODFCMl84NTE2Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                           
 </UserList>
