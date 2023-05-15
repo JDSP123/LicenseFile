@@ -215,5 +215,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="fryking@126.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B75M-D3V-BFEBFBFF000306A9-0C5A5D83-94DE80A4A4C3" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjc1TS1EM1YtQkZFQkZCRkYwMDAzMDZBOS0wQzVBNUQ4My05NERFODBBNEE0QzMtMjAxNDAwMzIyNjEwQw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                         
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="fryking@126.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Onda Technology Corporation-ONDA H61C Ver:6.00-BFEBFBFF000306A9-0C5A5D83-00E066C38E63" UniqueIdSha512="T25kYSBUZWNobm9sb2d5IENvcnBvcmF0aW9uLU9OREEgSDYxQyBWZXI6Ni4wMC1CRkVCRkJGRjAwMDMwNkE5LTBDNUE1RDgzLTAwRTA2NkMzOEU2My0yMDEzMTEyMUMwODQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                           
 </UserList>
