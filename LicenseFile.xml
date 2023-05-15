@@ -223,5 +223,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay" Paypal="Countzz" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450 Pro4-178BFBFF00800F82-D4DF125D-7085C2A4C1E2" UniqueIdSha512="QVNSb2NrLUI0NTAgUHJvNC0xNzhCRkJGRjAwODAwRjgyLUQ0REYxMjVELTcwODVDMkE0QzFFMi0wMDI1XzM4NTZfODFCMl84NTE2Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                           
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay" Paypal="Lavenda" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-STRIX Z270F GAMING-BFEBFBFF000906E9-3CFBA56C-90DE802E471B" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVNUUklYIFoyNzBGIEdBTUlORy1CRkVCRkJGRjAwMDkwNkU5LTNDRkJBNTZDLTkwREU4MDJFNDcxQi0gICAgIFdELVdNQVNZMzQzNjI3NA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                            
 </UserList>
