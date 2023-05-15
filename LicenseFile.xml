@@ -227,5 +227,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay" Paypal="Lavenda" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-STRIX Z270F GAMING-BFEBFBFF000906E9-3CFBA56C-90DE802E471B" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVNUUklYIFoyNzBGIEdBTUlORy1CRkVCRkJGRjAwMDkwNkU5LTNDRkJBNTZDLTkwREU4MDJFNDcxQi0gICAgIFdELVdNQVNZMzQzNjI3NA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                            
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay" Paypal="DustyTTV" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-Z97M-PLUS-BFEBFBFF000306C3-6E31390C-F079596304C6" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVo5N00tUExVUy1CRkVCRkJGRjAwMDMwNkMzLTZFMzEzOTBDLUYwNzk1OTYzMDRDNi0gICAgICAgICAgICBXREVTTDVLQg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                             
 </UserList>
