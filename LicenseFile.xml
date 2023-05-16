@@ -267,5 +267,17 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="jmrodas1@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z690 UD AX DDR4-BFEBFBFF00090672-D0A89489-D85ED38B0F9B" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY5MCBVRCBBWCBERFI0LUJGRUJGQkZGMDAwOTA2NzItRDBBODk0ODktRDg1RUQzOEIwRjlCLTAwMDBfMDAwMF8wMDAwXzAwMDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                               
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="rovonn2013@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-X570 AORUS MASTER-178BFBFF00870F10-0866D673-18C04D0F80BF" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWDU3MCBBT1JVUyBNQVNURVItMTc4QkZCRkYwMDg3MEYxMC0wODY2RDY3My0xOEMwNEQwRjgwQkYtMDAwMDAwMDAxNTMx" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="larsottsen@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASRock-Z590 Extreme-BFEBFBFF000A0655-FC68FB19-A8A1598386B8" UniqueIdSha512="QVNSb2NrLVo1OTAgRXh0cmVtZS1CRkVCRkJGRjAwMEEwNjU1LUZDNjhGQjE5LUE4QTE1OTgzODZCOC0wMDI2X0I3NjhfNDVGN185M0Q1Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="faizalibro@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-H61MGC-BFEBFBFF000206A7-32F8585E-90610CA5EC3D" UniqueIdSha512="QklPU1RBUiBHcm91cC1INjFNR0MtQkZFQkZCRkYwMDAyMDZBNy0zMkY4NTg1RS05MDYxMENBNUVDM0QtQUEyMDIyMDgwMjMyMjc" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                   
 </UserList>
