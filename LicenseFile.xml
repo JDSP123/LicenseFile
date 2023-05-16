@@ -327,5 +327,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay" Paypal="daemer" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-0F88T1-BFEBFBFF000206D7-1057799B-90B11C8F9F69" UniqueIdSha512="RGVsbCBJbmMuLTBGODhUMS1CRkVCRkJGRjAwMDIwNkQ3LTEwNTc3OTlCLTkwQjExQzhGOUY2OS1ZUzIwMjAxMDUxODUyMUhQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                 
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="m.duda1995@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MAG B550 TOMAHAWK (MS-7C91)-178BFBFF00A20F10-C02971AE-984827A27771" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NQUcgQjU1MCBUT01BSEFXSyAoTVMtN0M5MSktMTc4QkZCRkYwMEEyMEYxMC1DMDI5NzFBRS05ODQ4MjdBMjc3NzEtNjQ3OV9BNzU5X0MwMDBfMDAyNC4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="pit65@gmx.de" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-H81I-PLUS-BFEBFBFF000306C3-6483E7D1-503EAAB99793" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUg4MUktUExVUy1CRkVCRkJGRjAwMDMwNkMzLTY0ODNFN0QxLTUwM0VBQUI5OTc5My0zNTMxMzkzMjMxMzAzMDM0MzIzNTM3MzQyMDIwMjAyMDIwMjAyMDIw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                  
 </UserList>
