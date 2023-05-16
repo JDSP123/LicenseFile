@@ -303,5 +303,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Binance" Paypal="Discord:bimbaloid" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Notebook                        -W740SU                          -BFEBFBFF00040661-86974D60-D05349F0CE4F" UniqueIdSha512="Tm90ZWJvb2sgICAgICAgICAgICAgICAgICAgICAgICAtVzc0MFNVICAgICAgICAgICAgICAgICAgICAgICAgICAtQkZFQkZCRkYwMDA0MDY2MS04Njk3NEQ2MC1EMDUzNDlGMENFNEYtICAgICAgICAxNDM4MEQ0Qzc5NjI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="cicofolle@tim.it" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z270-Gaming K3-BFEBFBFF000906E9-68154A30-329705C547A8" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjI3MC1HYW1pbmcgSzMtQkZFQkZCRkYwMDA5MDZFOS02ODE1NEEzMC0zMjk3MDVDNTQ3QTgtUzJSNk5YMEo5NzA0NzNQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                        
 </UserList>
