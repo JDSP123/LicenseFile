@@ -323,5 +323,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Amazon Giftcard" Paypal="Rexon13" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-0FG47G-BFEBFBFF00090672-6CB366DB-7486E239EB6B" UniqueIdSha512="RGVsbCBJbmMuLTBGRzQ3Ry1CRkVCRkJGRjAwMDkwNjcyLTZDQjM2NkRCLTc0ODZFMjM5RUI2Qi0wMDAwXzAwMDBfMDAwMF8wMDAwXzhDRTNfOEUxMF8wMDlFXzBGREEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay" Paypal="daemer" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-0F88T1-BFEBFBFF000206D7-1057799B-90B11C8F9F69" UniqueIdSha512="RGVsbCBJbmMuLTBGODhUMS1CRkVCRkJGRjAwMDIwNkQ3LTEwNTc3OTlCLTkwQjExQzhGOUY2OS1ZUzIwMjAxMDUxODUyMUhQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                 
 </UserList>
