@@ -319,5 +319,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="marcelo.seixas@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-A320M-H-CF-178BFBFF00800F82-949B27FE-B42E99F1AB5B" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQTMyME0tSC1DRi0xNzhCRkJGRjAwODAwRjgyLTk0OUIyN0ZFLUI0MkU5OUYxQUI1Qi0gICAgIFdELVdDQzZZMFpYSDZaNQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                              
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Amazon Giftcard" Paypal="Rexon13" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-0FG47G-BFEBFBFF00090672-6CB366DB-7486E239EB6B" UniqueIdSha512="RGVsbCBJbmMuLTBGRzQ3Ry1CRkVCRkJGRjAwMDkwNjcyLTZDQjM2NkRCLTc0ODZFMjM5RUI2Qi0wMDAwXzAwMDBfMDAwMF8wMDAwXzhDRTNfOEUxMF8wMDlFXzBGREEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                 
 </UserList>
