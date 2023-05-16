@@ -299,5 +299,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="o.schelenberg@yahoo.de" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-X570 AORUS ELITE-178BFBFF00A20F10-E42A99F1-18C04D97F35A" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWDU3MCBBT1JVUyBFTElURS0xNzhCRkJGRjAwQTIwRjEwLUU0MkE5OUYxLTE4QzA0RDk3RjM1QS1XWEQyREIxQUMyQTMgICAg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                       
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance" Paypal="Discord:bimbaloid" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Notebook-W740SU-BFEBFBFF00040661-86974D60-D05349F0CE4F" UniqueIdSha512="Tm90ZWJvb2sgICAgICAgICAgICAgICAgICAgICAgICAtVzc0MFNVICAgICAgICAgICAgICAgICAgICAgICAgICAtQkZFQkZCRkYwMDA0MDY2MS04Njk3NEQ2MC1EMDUzNDlGMENFNEYtICAgICAgICAxNDM4MEQ0Qzc5NjI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                        
 </UserList>
