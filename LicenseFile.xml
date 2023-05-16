@@ -279,5 +279,17 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="faizalibro@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-H61MGC-BFEBFBFF000206A7-32F8585E-90610CA5EC3D" UniqueIdSha512="QklPU1RBUiBHcm91cC1INjFNR0MtQkZFQkZCRkYwMDAyMDZBNy0zMkY4NTg1RS05MDYxMENBNUVDM0QtQUEyMDIyMDgwMjMyMjc" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                   
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
+    <UserData Name="" NickName="" Paypal="job.lucas@free.fr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Dell Inc.-0GDKXP-BFEBFBFF000806EC-3EF40A34-C809A8852DDE" UniqueIdSha512="RGVsbCBJbmMuLTBHREtYUC1CRkVCRkJGRjAwMDgwNkVDLTNFRjQwQTM0LUM4MDlBODg1MkRERS1DRDlDTjU0NjkxMDEwQ0w1RyAgIF8wMDAwMDAwMS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
+    <UserData Name="" NickName="" Paypal="rsemenov9107@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99-BD4-BFEBFBFF000306F2-002F8ADB-14EBB6530AD9" UniqueIdSha512="SFVBTkFOWkhJLVg5OS1CRDQtQkZFQkZCRkYwMDAzMDZGMi0wMDJGOEFEQi0xNEVCQjY1MzBBRDktMjM1Njc4QzIxOENB" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
+    <UserData Name="" NickName="" Paypal="kurumionelove147586@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z270-HD3P-CF-BFEBFBFF000906E9-1D3E3003-E0D55E0FF1EC" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjI3MC1IRDNQLUNGLUJGRUJGQkZGMDAwOTA2RTktMUQzRTMwMDMtRTBENTVFMEZGMUVDLTE3MzkxNTgwMTAwMSAgICAgICAg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                       
 </UserList>
