@@ -263,5 +263,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation USER WAITING FOR UNIQUE ID CHANGE--> 
     <UserData Name="" NickName="" Paypal="Pking2.0" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-15 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MAG B550M MORTAR (MS-7C94)-178BFBFF00870F10-66BA6969-001F1DC56E9D" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NQUcgQjU1ME0gTU9SVEFSIChNUy03Qzk0KS0xNzhCRkJGRjAwODcwRjEwLTY2QkE2OTY5LTAwMUYxREM1NkU5RC0gICAgIFdELVdDQzZZNVBWRTVQWg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="jmrodas1@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z690 UD AX DDR4-BFEBFBFF00090672-D0A89489-D85ED38B0F9B" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY5MCBVRCBBWCBERFI0LUJGRUJGQkZGMDAwOTA2NzItRDBBODk0ODktRDg1RUQzOEIwRjlCLTAwMDBfMDAwMF8wMDAwXzAwMDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                               
 </UserList>
