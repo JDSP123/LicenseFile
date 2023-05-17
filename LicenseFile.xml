@@ -347,5 +347,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="pyraneas@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-MAXIMUS IX HERO-BFEBFBFF000906E9-542E3010-704D7BB5C769" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLU1BWElNVVMgSVggSEVSTy1CRkVCRkJGRjAwMDkwNkU5LTU0MkUzMDEwLTcwNEQ3QkI1Qzc2OS0xNjUwNzkzMTAwMDEyMTA2MTFDMF8wMDAwMDAwMS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                  
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="rexjinlx@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-17 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G15CK-BFEBFBFF000A0655-DECA2D10-244BFE059BF0" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUcxNUNLLUJGRUJGQkZGMDAwQTA2NTUtREVDQTJEMTAtMjQ0QkZFMDU5QkYwLTAwMDAwMDAwMTIwOQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="gurskid@outlook.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF GAMING B450M-PRO II-178BFBFF00A50F00-809A13EC-50EBF62B7527" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgQjQ1ME0tUFJPIElJLTE3OEJGQkZGMDBBNTBGMDAtODA5QTEzRUMtNTBFQkY2MkI3NTI3LTAwMDBfMDAwMF8wMTAwXzAwMDBfMDBFMF80QzY2XzE4RkNfRTJDQy4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                     
 </UserList>
