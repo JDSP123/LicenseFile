@@ -363,5 +363,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="ston17123@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 GAMING X V2-178BFBFF00A20F12-A05089FE-74563C661DEB" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBHQU1JTkcgWCBWMi0xNzhCRkJGRjAwQTIwRjEyLUEwNTA4OUZFLTc0NTYzQzY2MURFQi0gICAgIFdELVdDQzNGNlNEMEhKOQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
+    <UserData Name="" NickName="" Paypal="baturinamon@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-17 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000906ED-5660F6D5-D8F883ACE57C" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwOTA2RUQtNTY2MEY2RDUtRDhGODgzQUNFNTdDLUU4MjNfOEZBNl9CRjUzXzAwMDFfMDAxQl80NDhCXzQ5OTdfOTdGMS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                      
 </UserList>
