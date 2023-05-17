@@ -387,5 +387,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="ailycubanita@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-17 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX B450-F GAMING-178BFBFF00870F10-467265B8-D45D64D675AE" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBCNDUwLUYgR0FNSU5HLTE3OEJGQkZGMDA4NzBGMTAtNDY3MjY1QjgtRDQ1RDY0RDY3NUFFLTIwMjc0QzgwMTc5NA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                       
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="pernatui1@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="INTEL-X79-BFEBFBFF000206D7-DADDF4B8-00E05B68073F" UniqueIdSha512="SU5URUwtWDc5LUJGRUJGQkZGMDAwMjA2RDctREFEREY0QjgtMDBFMDVCNjgwNzNGLTUwMDI2Qjc3ODQyNTA3Q0E" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="jmatacas.1995@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-X570 GAMING X-178BFBFF00870F10-8E00B88C-18C04DD96C5B" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWDU3MCBHQU1JTkcgWC0xNzhCRkJGRjAwODcwRjEwLThFMDBCODhDLTE4QzA0REQ5NkM1Qi02NDc5X0E3NEFfMDBDMF8wQTk0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                         
 </UserList>
