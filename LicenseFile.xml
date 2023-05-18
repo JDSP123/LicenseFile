@@ -419,5 +419,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="v-ns@live.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-18 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF GAMING Z690-PLUS WIFI D4-BFEBFBFF00090672-7626E9BA-04421A95B2FA" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgWjY5MC1QTFVTIFdJRkkgRDQtQkZFQkZCRkYwMDA5MDY3Mi03NjI2RTlCQS0wNDQyMUE5NUIyRkEtMDAyNV8zOEIxXzIxNDBfQzE3Qy4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="tn86@live.se" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-18 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-Z370 GAMING PRO CARBON (MS-7B45)-BFEBFBFF000906EA-C6108438-309C23A5ADF1" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1aMzcwIEdBTUlORyBQUk8gQ0FSQk9OIChNUy03QjQ1KS1CRkVCRkJGRjAwMDkwNkVBLUM2MTA4NDM4LTMwOUMyM0E1QURGMS0gICAgICAgICAgICBaNFo5WTYwOA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                  
 </UserList>
