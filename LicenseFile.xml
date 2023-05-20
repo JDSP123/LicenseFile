@@ -435,5 +435,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="pyraneas@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG MAXIMUS XII FORMULA-BFEBFBFF000A0655-F84FDB47-244BFE4A43BB" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBNQVhJTVVTIFhJSSBGT1JNVUxBLUJGRUJGQkZGMDAwQTA2NTUtRjg0RkRCNDctMjQ0QkZFNEE0M0JCLTAwMjVfMzg1OF8wMTQyXzE0QkUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                       
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="Serdar.yavuz1988@gmx.de" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="VAIO Corporation-VV003111A-BFEBFBFF000806EB-78A943E4-CC308034C72D" UniqueIdSha512="VkFJTyBDb3Jwb3JhdGlvbi1WVjAwMzExMUEtQkZFQkZCRkYwMDA4MDZFQi03OEE5NDNFNC1DQzMwODAzNEM3MkQtMDAyNV8zODhDXzgxQjNfQUU3OC4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                        
 </UserList>
