@@ -443,5 +443,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="leko261188@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-20 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASRock-A520M Phantom Gaming 4-178BFBFF00870F10-DCA18215-A8A159EA2CA2" UniqueIdSha512="QVNSb2NrLUE1MjBNIFBoYW50b20gR2FtaW5nIDQtMTc4QkZCRkYwMDg3MEYxMC1EQ0ExODIxNS1BOEExNTlFQTJDQTItMDBBMF83NTYwX0QwMDBfMDAzMy4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                        
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="fionamaesibal@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME A320M-K-178BFBFF00860F01-C6017989-8C0551ECAC4F" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEEzMjBNLUstMTc4QkZCRkYwMDg2MEYwMS1DNjAxNzk4OS04QzA1NTFFQ0FDNEYtTlkxMU4wMzEzMTE4MDE4MU8gICBfMDAwMDAwMDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                         
 </UserList>
