@@ -451,5 +451,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="mystdragon@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-21 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK Computer INC.-P8Z68-V PRO-BFEBFBFF000206A7-9C9EF494-14DAE929BE20" UniqueIdSha512="QVNVU1RlSyBDb21wdXRlciBJTkMuLVA4WjY4LVYgUFJPLUJGRUJGQkZGMDAwMjA2QTctOUM5RUY0OTQtMTREQUU5MjlCRTIwLUR1YWwgVmVydGV4IDM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                         
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance Pay ID 242599425 " Paypal="savenkovevgeniy@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-21 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000906ED-5660F6D5-D8F883ACE57C" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gUzJILTE3OEJGQkZGMDA4MDBGODItRkEzRUU0NzAtMzg2QjFDQzE4RTUyLUFBMDAwMDAwMDAwMDAwMDAyNzQ3" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                          
 </UserList>
