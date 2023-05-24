@@ -503,5 +503,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="blueyellowbrown@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-24 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Oracle Corporation-VirtualBox-NotAvailablePID-C096BE01-0800271CA29A-VB4d2767b7" UniqueIdSha512="T3JhY2xlIENvcnBvcmF0aW9uLVZpcnR1YWxCb3gtTm90QXZhaWxhYmxlUElELUMwOTZCRTAxLTA4MDAyNzFDQTI5QS1WQjRkMjc2N2I3LTMxZjViMTY3" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="ryusekai36@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-24 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B450M GAMING-178BFBFF00800F82-32BE22D6-B42E99E29757" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gR0FNSU5HLTE3OEJGQkZGMDA4MDBGODItMzJCRTIyRDYtQjQyRTk5RTI5NzU3LTJLMDkyMDA2Mzg5MSAgICAgICAgXzAwMDAwMDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                   
 </UserList>
