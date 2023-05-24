@@ -499,5 +499,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="kinahvnzl@gmail.com">
     <LicenceData ActivationData="2023-05-24 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ECS-H61H2-CM-BFEBFBFF000206A7-E4F8AB78-D0374572F0E4" UniqueIdSha512="RUNTLUg2MUgyLUNNLUJGRUJGQkZGMDAwMjA2QTctRTRGOEFCNzgtRDAzNzQ1NzJGMEU0LTIwMDIxMjEyMDAwMDY5" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
+    <UserData Name="" NickName="" Paypal="blueyellowbrown@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-24 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Oracle Corporation-VirtualBox-NotAvailablePID-C096BE01-0800271CA29A-VB4d2767b7" UniqueIdSha512="T3JhY2xlIENvcnBvcmF0aW9uLVZpcnR1YWxCb3gtTm90QXZhaWxhYmxlUElELUMwOTZCRTAxLTA4MDAyNzFDQTI5QS1WQjRkMjc2N2I3LTMxZjViMTY3" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                
 </UserList>
