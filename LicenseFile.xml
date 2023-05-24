@@ -495,5 +495,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Binancepay: Grim#0406" Paypal="vlad.07.90@mail.ru" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-24 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450M Steel Legend-178BFBFF00870F10-D2B58C35-20768FD6A350" UniqueIdSha512="QVNSb2NrLUI0NTBNIFN0ZWVsIExlZ2VuZC0xNzhCRkJGRjAwODcwRjEwLUQyQjU4QzM1LTIwNzY4RkQ2QTM1MC0xOTI5RTE4RkJFNEI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                              
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="kinahvnzl@gmail.com">
+    <LicenceData ActivationData="2023-05-24 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ECS-H61H2-CM-BFEBFBFF000206A7-E4F8AB78-D0374572F0E4" UniqueIdSha512="RUNTLUg2MUgyLUNNLUJGRUJGQkZGMDAwMjA2QTctRTRGOEFCNzgtRDAzNzQ1NzJGMEU0LTIwMDIxMjEyMDAwMDY5" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                
 </UserList>
