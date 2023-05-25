@@ -523,5 +523,9 @@
   <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE USER DRAMA--> 
     <UserData Name="" NickName="Drama" Paypal="adelsonmagos@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-24 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H410M H-BFEBFBFF000A0653-F46FC145-D85ED3F19E01" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDQxME0gSC1CRkVCRkJGRjAwMEEwNjUzLUY0NkZDMTQ1LUQ4NUVEM0YxOUUwMS0gICAgIFdELVdDQzFVMTg5NjUzNw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="chardsonmartins@outlook.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-25 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B450M GAMING-178BFBFF00A50F00-1C2E1071-D85ED3F72020" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gR0FNSU5HLTE3OEJGQkZGMDBBNTBGMDAtMUMyRTEwNzEtRDg1RUQzRjcyMDIwLTJMMjgyOTE2QjZDWSAgICAgICAgXzAwMDAwMDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                      
 </UserList>
