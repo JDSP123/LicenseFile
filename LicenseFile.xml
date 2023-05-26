@@ -567,5 +567,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="yusuf41hilal@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="CASPER BILGISAYAR SISTEMLERI A.S-CASPER NIRVANA DESKTOP-BFEBFBFF000906ED-CE4A2A54-94C6913C3FE9" UniqueIdSha512="Q0FTUEVSIEJJTEdJU0FZQVIgU0lTVEVNTEVSSSBBLlMtQ0FTUEVSIE5JUlZBTkEgREVTS1RPUC1CRkVCRkJGRjAwMDkwNkVELUNFNEEyQTU0LTk0QzY5MTNDM0ZFOS01MDAyNkI3Njg1MDczNzRD" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay" Paypal="GOLDENCHEST" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-A320M-HDV R4.0-178BFBFF00810F10-E6537A2A-7085C2D46EEC" UniqueIdSha512="QVNSb2NrLUEzMjBNLUhEViBSNC4wLTE3OEJGQkZGMDA4MTBGMTAtRTY1MzdBMkEtNzA4NUMyRDQ2RUVDLVBCRUVEQ0IyMjAzMDMwMDYwNQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                         
 </UserList>
