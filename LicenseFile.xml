@@ -583,5 +583,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay" Paypal="Lavenda" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450 Gaming K4-178BFBFF00870F10-727BE758-00EBD808D711" UniqueIdSha512="QVNSb2NrLUI0NTAgR2FtaW5nIEs0LTE3OEJGQkZGMDA4NzBGMTAtNzI3QkU3NTgtMDBFQkQ4MDhENzExLTAxMDBfMDAwMF8wMDAwXzAwMDAu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay" Paypal="GOLDENCHEST" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000806C1-D4D61617-201E88672460" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwODA2QzEtRDRENjE2MTctMjAxRTg4NjcyNDYwLUFDRTRfMkUwMF8xQTkxXzc3RkFfMkVFNF9BQzAwXzAwMDBfMDAwMS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                           
 </UserList>
