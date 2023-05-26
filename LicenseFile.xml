@@ -555,5 +555,9 @@
   <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE USER JORGEVZLA--> 
     <UserData Name="" NickName="" Paypal="Kinahvnzl@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-26 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-H170 PRO GAMING-BFEBFBFF000506E3-9A7C40FD-022699BAA49B" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUgxNzAgUFJPIEdBTUlORy1CRkVCRkJGRjAwMDUwNkUzLTlBN0M0MEZELTAyMjY5OUJBQTQ5Qi0gICAgIFdELVdNQVlVUDM0NTIzNg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                        
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE USER JORGEVZLA--> 
+    <UserData Name="" NickName="" Paypal="jay.bumi1997@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-26 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H110M-DS2-CF-BFEBFBFF000506E3-84AD9724-0C4DE9521C5F" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDExME0tRFMyLUNGLUJGRUJGQkZGMDAwNTA2RTMtODRBRDk3MjQtMEM0REU5NTIxQzVGLSAgICAgICAgICAgIFc5QUtXR0dX" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                         
 </UserList>
