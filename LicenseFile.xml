@@ -571,5 +571,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay" Paypal="GOLDENCHEST" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-A320M-HDV R4.0-178BFBFF00810F10-E6537A2A-7085C2D46EEC" UniqueIdSha512="QVNSb2NrLUEzMjBNLUhEViBSNC4wLTE3OEJGQkZGMDA4MTBGMTAtRTY1MzdBMkEtNzA4NUMyRDQ2RUVDLVBCRUVEQ0IyMjAzMDMwMDYwNQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                         
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="oehjg@t-online.de" Paypal="paypal@dsjo.de" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-26 14:40:52,531" LicenseDurationDay="365" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z790 AORUS ELITE AX-BFEBFBFF000B0671-72D929AE-74563C44C139" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjc5MCBBT1JVUyBFTElURSBBWC1CRkVCRkJGRjAwMEIwNjcxLTcyRDkyOUFFLTc0NTYzQzQ0QzEzOS0wMDI1XzM4NTlfMDE0MF8yQUQxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="agelos_prada@yahoo.gr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z690-P-BFEBFBFF00090675-F2B8EC1F-50EBF67768B0" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFo2OTAtUC1CRkVCRkJGRjAwMDkwNjc1LUYyQjhFQzFGLTUwRUJGNjc3NjhCMC1TM1lKTkMwSzk2ODM3M1g" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                          
 </UserList>
