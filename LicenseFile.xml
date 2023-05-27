@@ -595,5 +595,9 @@
   <!-- Aion Classic NA/EU retail Temporal activation--> 
     <UserData Name="" NickName="" Paypal="vnzldfo@gmail.com">
     <LicenceData ActivationData="2023-05-27 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Haitech-F15K-BFEBFBFF000806E9-021C84E2-F0038C824A5F-031513" UniqueIdSha512="SGFpdGVjaC1GMTVLLUJGRUJGQkZGMDAwODA2RTktMDIxQzg0RTItRjAwMzhDODI0QTVGLTAzMTUxMy0yMTM2NzAxMDY" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="Sandleraion1@outlook.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-27 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MAG B550M MORTAR (MS-7C94)-178BFBFF00870F10-A657CD71-34EF8BDD84EF" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NQUcgQjU1ME0gTU9SVEFSIChNUy03Qzk0KS0xNzhCRkJGRjAwODcwRjEwLUE2NTdDRDcxLTM0RUY4QkREODRFRi1TQ1JXMjIwNjIwMDJBMDMxOA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                            
 </UserList>
