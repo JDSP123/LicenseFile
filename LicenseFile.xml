@@ -643,5 +643,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="nienke.vd.ende@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-28 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Acer-Aspire TC-780-BFEBFBFF000506E3-DCD287BC-58FB84202CEF" UniqueIdSha512="QWNlci1Bc3BpcmUgVEMtNzgwLUJGRUJGQkZGMDAwNTA2RTMtRENEMjg3QkMtNThGQjg0MjAyQ0VGLTUwMDI2QjcyNjkwNUE3RUM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal TRIAL activation USER IGOR WAITING FOR UNIQUE ID CHANGE--> 
+    <UserData Name="" NickName="" Paypal="manwlakis3@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-28 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B350 GAMING PRO CARBON (MS-7B00)-178BFBFF00800F11-0462A214-001E0EF34000" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CMzUwIEdBTUlORyBQUk8gQ0FSQk9OIChNUy03QjAwKS0xNzhCRkJGRjAwODAwRjExLTA0NjJBMjE0LTAwMUUwRUYzNDAwMC0gICAgIFdELVdNQzZOMEs1QURLTg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                               
 </UserList>
