@@ -639,5 +639,9 @@
   <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="wini4783@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-28 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G701VI-BFEBFBFF000506E3-A00D1D87-B88A60CBF66A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUc3MDFWSS1CRkVCRkJGRjAwMDUwNkUzLUEwMEQxRDg3LUI4OEE2MENCRjY2QS0wMDA4XzBEMDJfMDAwQ185OUM0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="nienke.vd.ende@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-28 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Acer-Aspire TC-780-BFEBFBFF000506E3-DCD287BC-58FB84202CEF" UniqueIdSha512="QWNlci1Bc3BpcmUgVEMtNzgwLUJGRUJGQkZGMDAwNTA2RTMtRENEMjg3QkMtNThGQjg0MjAyQ0VGLTUwMDI2QjcyNjkwNUE3RUM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                               
 </UserList>
