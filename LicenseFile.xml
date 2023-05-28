@@ -616,8 +616,16 @@
     <UserData Name="" NickName="" Paypal="tortulcharlie@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-28 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000A0652-341B6321-005056C00001" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwQTA2NTItMzQxQjYzMjEtMDA1MDU2QzAwMDAxLTA0NEFfNTAwMF9CMEEwXzBDRTgu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
-  <!-- Aion Classic NA/EU Temporal activation--> 
+  <!-- Aion Classic NA/EU Temporal TRIAL activation--> 
     <UserData Name="" NickName="" Paypal="werres89@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-28 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 AORUS ELITE AX V2-178BFBFF00A20F10-103AF365-D85ED332E549" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBBT1JVUyBFTElURSBBWCBWMi0xNzhCRkJGRjAwQTIwRjEwLTEwM0FGMzY1LUQ4NUVEMzMyRTU0OS1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ0QV80OUM1X0IwRDMu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="kev.dietze@icloud.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-28 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-FX706HCB-BFEBFBFF000806D1-EAC39CB9-50EBF6318FF0" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUZYNzA2SENCLUJGRUJGQkZGMDAwODA2RDEtRUFDMzlDQjktNTBFQkY2MzE4RkYwLTAwMDBfMDAwMF8wMTAwXzAwMDBfRTREMl81Q0ZGXzZCQUJfNTQwMS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="tartuga7@ya.ru" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-28 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="GIGABYTE-AORUS 17 XE4-BFEBFBFF000906A3-8C67EB95-88D82E786013" UniqueIdSha512="R0lHQUJZVEUtQU9SVVMgMTcgWEU0LUJGRUJGQkZGMDAwOTA2QTMtOEM2N0VCOTUtODhEODJFNzg2MDEzLTY0NzlfQTc1Ql9DMDIwXzAwMjUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                               
 </UserList>
