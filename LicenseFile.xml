@@ -711,5 +711,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="paulart2013@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-29 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Asus Corporation-ASUS PRIME X370-PRO-1F8BFBFFA9FB5AC4-18662400-C04A0001E60D" UniqueIdSha512="QXN1cyBDb3Jwb3JhdGlvbi1BU1VTIFBSSU1FIFgzNzAtUFJPLTFGOEJGQkZGQTlGQjVBQzQtMTg2NjI0MDAtQzA0QTAwMDFFNjBELWNjMjAxMDJkZGVmMTkwZjQ2MmU2ODEwYTBmYmMxOTk1" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                      
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="jclion1971@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-29 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-Z370 Pro4-BFEBFBFF000906EA-0A4088FA-7085C282F027" UniqueIdSha512="QVNSb2NrLVozNzAgUHJvNC1CRkVCRkJGRjAwMDkwNkVBLTBBNDA4OEZBLTcwODVDMjgyRjAyNy0xNzUxMDY0MjA2MTM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                       
 </UserList>
