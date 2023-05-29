@@ -715,5 +715,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="jclion1971@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-29 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-Z370 Pro4-BFEBFBFF000906EA-0A4088FA-7085C282F027" UniqueIdSha512="QVNSb2NrLVozNzAgUHJvNC1CRkVCRkJGRjAwMDkwNkVBLTBBNDA4OEZBLTcwODVDMjgyRjAyNy0xNzUxMDY0MjA2MTM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                       
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay" Paypal="ZigQ" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-29 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450 Gaming K4-178BFBFF00870F10-8E78397B-A8A1594BED1D" UniqueIdSha512="QVNSb2NrLUI0NTAgR2FtaW5nIEs0LTE3OEJGQkZGMDA4NzBGMTAtOEU3ODM5N0ItQThBMTU5NEJFRDFELTAwMjZfQjc2OF80MjNEX0FERTUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                        
 </UserList>
