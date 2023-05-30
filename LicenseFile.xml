@@ -719,5 +719,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay" Paypal="ZigQ" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-29 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450 Gaming K4-178BFBFF00870F10-8E78397B-A8A1594BED1D" UniqueIdSha512="QVNSb2NrLUI0NTAgR2FtaW5nIEs0LTE3OEJGQkZGMDA4NzBGMTAtOEU3ODM5N0ItQThBMTU5NEJFRDFELTAwMjZfQjc2OF80MjNEX0FERTUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                        
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="ramlacamen@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B450M K-CF-178BFBFF00A20F12-8C162453-0000BE21DA88" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gSy1DRi0xNzhCRkJGRjAwQTIwRjEyLThDMTYyNDUzLTAwMDBCRTIxREE4OC02NDc5X0E3NzJfNzBDMF8xMTI0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                          
 </UserList>
