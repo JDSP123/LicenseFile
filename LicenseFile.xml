@@ -735,5 +735,17 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="eduardoaether5@gmail.com" Paypal="eduardolopes_bg@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450M Steel Legend-178BFBFF00870F10-0EF1D906-A8A1594C6488" UniqueIdSha512="QVNSb2NrLUI0NTBNIFN0ZWVsIExlZ2VuZC0xNzhCRkJGRjAwODcwRjEwLTBFRjFEOTA2LUE4QTE1OTRDNjQ4OC0wMDAwXzAwMDBfMDAwMF8wMDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                            
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="johannsenjoern@web.de" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME X470-PRO-178BFBFF00800F82-A8FDF83A-2CFDA1BBA8E3" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFg0NzAtUFJPLTE3OEJGQkZGMDA4MDBGODItQThGREY4M0EtMkNGREExQkJBOEUzLSAgICAgICAgICAgIFoxREFTMzJU" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="jakeim9@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="365" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-Z370 GAMING PLUS (MS-7B61)-BFEBFBFF000906EA-0CF3AE79-309C238BFE64" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1aMzcwIEdBTUlORyBQTFVTIChNUy03QjYxKS1CRkVCRkJGRjAwMDkwNkVBLTBDRjNBRTc5LTMwOUMyMzhCRkU2NC1TM1lBTkIwSzIxNTQwNUQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="stanislav.larin@outlook.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="365" IgnoreMacAddress="true" UniqueId="LENOVO-33543XG-BFEBFBFF000306A9-1205073B-685D43890DFA" UniqueIdSha512="TEVOT1ZPLTMzNTQzWEctQkZFQkZCRkYwMDAzMDZBOS0xMjA1MDczQi02ODVENDM4OTBERkEtNTAwMjZCNzY4MjlBMkQ5Mw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                 
 </UserList>
