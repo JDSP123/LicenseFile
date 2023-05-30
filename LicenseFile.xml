@@ -750,6 +750,6 @@
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay" Paypal="eky92" AionServer="AionClassic">
-    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z390-P-BFEBFBFF000906EC-08880888-06EBC2C93A8C" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFozOTAtUC1CRkVCRkJGRjAwMDkwNkVDLTA4ODgwODg4LTA2RUJDMkM5M0E4Qy0xODQyNjU0NDY5MTI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z390-P-BFEBFBFF000906EC-08880888-06EBC2C93A8C" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFozOTAtUC1CRkVCRkJGRjAwMDkwNkVDLTA4ODgwODg4LTA2RUJDMkM5M0E4Qy0xODQyNjU0NDY5MTI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                  
 </UserList>
