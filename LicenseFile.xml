@@ -751,5 +751,17 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay" Paypal="eky92" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z390-P-BFEBFBFF000906EC-08880888-06EBC2C93A8C" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFozOTAtUC1CRkVCRkJGRjAwMDkwNkVDLTA4ODgwODg4LTA2RUJDMkM5M0E4Qy0xODQyNjU0NDY5MTI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                  
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="jps.rodrigues82@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MAG B550M BAZOOKA (MS-7C95)-178BFBFF00870F10-68840673-2CF05D5E0EFA" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NQUcgQjU1ME0gQkFaT09LQSAoTVMtN0M5NSktMTc4QkZCRkYwMDg3MEYxMC02ODg0MDY3My0yQ0YwNUQ1RTBFRkEtRTgyM184RkE2X0JGNTNfMDAwMV8wMDFCXzQ0NEFfNDRFQl8zNUM0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="gqgg123@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G15DK-178BFBFF00A20F10-1A059019-FC34973DDD6C" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUcxNURLLTE3OEJGQkZGMDBBMjBGMTAtMUEwNTkwMTktRkMzNDk3M0RERDZDLUU4MjNfOEZBNl9CRjUzXzAwMDFfMDAxQl80NDhCXzQ4QUZfMDUwQi4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="Eric.Neumann@mailbox.org" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z270 GAMING M6 AC (MS-7A78)-BFEBFBFF000906E9-1E014BC0-DC214816363B" UniqueIdSha512="TVNJLVoyNzAgR0FNSU5HIE02IEFDIChNUy03QTc4KS1CRkVCRkJGRjAwMDkwNkU5LTFFMDE0QkMwLURDMjE0ODE2MzYzQi0wMDI1XzM4NTRfNzFCMF82ODhDLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                   
 </UserList>
