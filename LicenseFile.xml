@@ -731,5 +731,9 @@
   <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE--> 
     <UserData Name="" NickName="" Paypal="jay.bumi1997@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME A320M-K-178BFBFF00860F01-C6011546-F4573E89828F" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEEzMjBNLUstMTc4QkZCRkYwMDg2MEYwMS1DNjAxMTU0Ni1GNDU3M0U4OTgyOEYtTlkxMU4wMzEzMTE4MDE4MU8gICBfMDAwMDAwMDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="eduardoaether5@gmail.com" Paypal="eduardolopes_bg@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450M Steel Legend-178BFBFF00870F10-0EF1D906-A8A1594C6488" UniqueIdSha512="QVNSb2NrLUI0NTBNIFN0ZWVsIExlZ2VuZC0xNzhCRkJGRjAwODcwRjEwLTBFRjFEOTA2LUE4QTE1OTRDNjQ4OC0wMDAwXzAwMDBfMDAwMF8wMDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                            
 </UserList>
