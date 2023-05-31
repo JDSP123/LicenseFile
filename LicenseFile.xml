@@ -791,5 +791,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="kitozzebay@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-31 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Hewlett-Packard-1905-BFEBFBFF000306C3-64361249-00E0202E879F" UniqueIdSha512="SGV3bGV0dC1QYWNrYXJkLTE5MDUtQkZFQkZCRkYwMDAzMDZDMy02NDM2MTI0OS0wMEUwMjAyRTg3OUYtMzAwNjY1OTAxODc" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                         
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="nguyenhoaichau1978@gmail.com" AionServer="AionClassicJapan">
+    <LicenceData ActivationData="2023-05-31 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99-F8D-BFEBFBFF000406F1-3AF07A10-22395C03106A" UniqueIdSha512="SFVBTkFOWkhJLVg5OS1GOEQtQkZFQkZCRkYwMDA0MDZGMS0zQUYwN0ExMC0yMjM5NUMwMzEwNkEtOUgyMDMwNDAwMDMyMCAgICAgICA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                          
 </UserList>
