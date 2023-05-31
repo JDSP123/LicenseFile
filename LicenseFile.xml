@@ -787,5 +787,9 @@
   <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE--> 
     <UserData Name="" NickName="" Paypal="levilima.email@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-31 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-X470GTN-178BFBFF00A20F12-DCE7B9B5-F4B52009C557" UniqueIdSha512="QklPU1RBUiBHcm91cC1YNDcwR1ROLTE3OEJGQkZGMDBBMjBGMTItRENFN0I5QjUtRjRCNTIwMDlDNTU3LUFBMDAwMDQ2NTQ0Njc3NzAxMjE2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="kitozzebay@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Hewlett-Packard-1905-BFEBFBFF000306C3-64361249-00E0202E879F" UniqueIdSha512="SGV3bGV0dC1QYWNrYXJkLTE5MDUtQkZFQkZCRkYwMDAzMDZDMy02NDM2MTI0OS0wMEUwMjAyRTg3OUYtMzAwNjY1OTAxODc" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                         
 </UserList>
