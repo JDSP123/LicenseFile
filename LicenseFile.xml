@@ -783,5 +783,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Botexcept" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-30 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-STRIX Z270I GAMING-BFEBFBFF000906E9-0854E5E5-2C4D54E56F76" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVNUUklYIFoyNzBJIEdBTUlORy1CRkVCRkJGRjAwMDkwNkU5LTA4NTRFNUU1LTJDNEQ1NEU1NkY3Ni1LNDUxNjNSMDAxMjc5" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE--> 
+    <UserData Name="" NickName="" Paypal="levilima.email@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-05-31 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-X470GTN-178BFBFF00A20F12-DCE7B9B5-F4B52009C557" UniqueIdSha512="QklPU1RBUiBHcm91cC1YNDcwR1ROLTE3OEJGQkZGMDBBMjBGMTItRENFN0I5QjUtRjRCNTIwMDlDNTU3LUFBMDAwMDQ2NTQ0Njc3NzAxMjE2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                         
 </UserList>
