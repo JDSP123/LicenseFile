@@ -807,5 +807,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="monsternekoes@outlook.es" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-01 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="RR-Freed_RRS-178BFBFF00810F10-60FD8E12-9828A620BF59" UniqueIdSha512="UlItRnJlZWRfUlJTLTE3OEJGQkZGMDA4MTBGMTAtNjBGRDhFMTItOTgyOEE2MjBCRjU5LTUwMDI2Qjc3ODRFRTIzRDE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Retail NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="panjo1974@gmail.com">
+    <LicenceData ActivationData="2023-06-01 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-0PXPYJ-BFEBFBFF000306C3-A408AF1E-80000BAF0168" UniqueIdSha512="RGVsbCBJbmMuLTBQWFBZSi1CRkVCRkJGRjAwMDMwNkMzLUE0MDhBRjFFLTgwMDAwQkFGMDE2OC01MDAyNkI3Nzg0RjVDNjU0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="arkepaypal@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-01 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ECS-H61H2-CM-BFEBFBFF000206A7-54B71C11-5853C06D8B82" UniqueIdSha512="RUNTLUg2MUgyLUNNLUJGRUJGQkZGMDAwMjA2QTctNTRCNzFDMTEtNTg1M0MwNkQ4QjgyLTEyMjAxMjEzMTcyMw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                           
 </UserList>
