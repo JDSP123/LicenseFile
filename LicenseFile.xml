@@ -799,5 +799,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="hering.marvin@web.de" AionServer="AionClassic">
     <LicenceData ActivationData="2023-05-31 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-178BFBFF00860F01-70C30865-F8E4E3DBC9D7" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LTE3OEJGQkZGMDA4NjBGMDEtNzBDMzA4NjUtRjhFNEUzREJDOUQ3LThDRTNfOEUwNF8wMDZBX0U4MDgu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                          
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="darfoufyoussef@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-01 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B460M-A PRO (MS-7C88)-BFEBFBFF000A0655-DEBC9A6F-2CF05DCD271F" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDYwTS1BIFBSTyAoTVMtN0M4OCktQkZFQkZCRkYwMDBBMDY1NS1ERUJDOUE2Ri0yQ0YwNURDRDI3MUYtRTgyM184RkE2X0JGNTNfMDAwMV8wMDFCXzQ0OEJfNDkwOV9FN0ZDLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                           
 </UserList>
