@@ -827,5 +827,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="wonderfulpuzzles@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-01 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-FA507RE-178BFBFF00A40F41-C8F7C4C5-E8FB1C723033" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUZBNTA3UkUtMTc4QkZCRkYwMEE0MEY0MS1DOEY3QzRDNS1FOEZCMUM3MjMwMzMtMDAwMF8wMDAwXzAxMDBfMDAwMF9FNEQyXzVDN0NfRUVCMF81NTAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                             
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation WAITING FOR UNIQUE ID CHANGE--> 
+    <UserData Name="" NickName="" Paypal="fwlcgppf@solarunited.net" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-01 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="Colorful Technology And Development Co.,LTD-C.H110M-K Pro-BFEBFBFF000906EB-643FBFA4-00CFE0425C55" UniqueIdSha512="Q29sb3JmdWwgVGVjaG5vbG9neSBBbmQgRGV2ZWxvcG1lbnQgQ28uLExURC1DLkgxMTBNLUsgUHJvLUJGRUJGQkZGMDAwOTA2RUItNjQzRkJGQTQtMDBDRkUwNDI1QzU1LVNDUlcxODA3MTYwM0YwNDA2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                              
 </UserList>
