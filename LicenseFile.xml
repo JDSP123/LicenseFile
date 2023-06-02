@@ -843,5 +843,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="nguyenhoaichau1978@gmail.com" AionServer="AionClassicJapan">
     <LicenceData ActivationData="2023-06-02 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99-F8D-BFEBFBFF000406F1-22DB24EF-22275C020B95" UniqueIdSha512="SFVBTkFOWkhJLVg5OS1GOEQtQkZFQkZCRkYwMDA0MDZGMS0yMkRCMjRFRi0yMjI3NUMwMjBCOTUtMDAyNV8zODg1XzIxQjNfRUY5QS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="kiedula2@poczta.ont.pl" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-02 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B550 Phantom Gaming 4-178BFBFF00A20F12-B4F246E2-7085C29D35AB" UniqueIdSha512="QVNSb2NrLUI1NTAgUGhhbnRvbSBHYW1pbmcgNC0xNzhCRkJGRjAwQTIwRjEyLUI0RjI0NkUyLTcwODVDMjlEMzVBQi0wMDI1XzM4REJfMTFCMF8wQzg0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                              
 </UserList>
