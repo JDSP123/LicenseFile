@@ -839,5 +839,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="kinahvnzl@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-01 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Haitech-F15K-BFEBFBFF000806E9-AE13C90C-1005014A310A-031513" UniqueIdSha512="SGFpdGVjaC1GMTVLLUJGRUJGQkZGMDAwODA2RTktQUUxM0M5MEMtMTAwNTAxNEEzMTBBLTAzMTUxMy0yMTM2NzAxMDY" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="nguyenhoaichau1978@gmail.com" AionServer="AionClassicJapan">
+    <LicenceData ActivationData="2023-06-02 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99-F8D-BFEBFBFF000406F1-22DB24EF-22275C020B95" UniqueIdSha512="SFVBTkFOWkhJLVg5OS1GOEQtQkZFQkZCRkYwMDA0MDZGMS0yMkRCMjRFRi0yMjI3NUMwMjBCOTUtMDAyNV8zODg1XzIxQjNfRUY5QS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                              
 </UserList>
