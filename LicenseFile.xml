@@ -931,5 +931,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="zylex97@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H270-Gaming 3-BFEBFBFF000906E9-F8A9905B-1C1B0DCA0768" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDI3MC1HYW1pbmcgMy1CRkVCRkJGRjAwMDkwNkU5LUY4QTk5MDVCLTFDMUIwRENBMDc2OC0DMA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="franziskatangri@yahoo.de" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX B450-F GAMING-178BFBFF00870F10-F25448DF-244BFE59FA5C" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBCNDUwLUYgR0FNSU5HLTE3OEJGQkZGMDA4NzBGMTAtRjI1NDQ4REYtMjQ0QkZFNTlGQTVDLSAgICAgV0QtV1hDMUU4NDlGSkUz" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                       
 </UserList>
