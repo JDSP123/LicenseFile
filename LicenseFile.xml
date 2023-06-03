@@ -879,5 +879,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="racsir1010@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd-B450 TOMAHAWK MAX (MS-7C02)-178BFBFF00870F10-A002C597-7C10C90F54CD" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLUI0NTAgVE9NQUhBV0sgTUFYIChNUy03QzAyKS0xNzhCRkJGRjAwODcwRjEwLUEwMDJDNTk3LTdDMTBDOTBGNTRDRC0wMDAwMDEyMTJkNzU2Njlk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                  
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="aion91.nico@gmail.com" Paypal="nico.sgobba@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z170X-Gaming 3-BFEBFBFF000506E3-CC266CA3-408D5C524453" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjE3MFgtR2FtaW5nIDMtQkZFQkZCRkYwMDA1MDZFMy1DQzI2NkNBMy00MDhENUM1MjQ0NTMtICAgICBXRC1XQ0MzRjVIQ1AzVUs" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData> 
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="arnaudduffau@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G701VI-BFEBFBFF000506E3-A00D1D87-B88A60CBF66A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUc3MDFWSS1CRkVCRkJGRjAwMDUwNkUzLUEwMEQxRDg3LUI4OEE2MENCRjY2QS0wMDA4XzBEMDJfMDAwQ185OUM0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                   
 </UserList>
