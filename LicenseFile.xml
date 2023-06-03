@@ -875,5 +875,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="gwendal.lasson@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-03 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG CROSSHAIR VIII HERO (WI-FI)-178BFBFF00A20F10-565A6BA9-68545AD3887B" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBDUk9TU0hBSVIgVklJSSBIRVJPIChXSS1GSSktMTc4QkZCRkYwMEEyMEYxMC01NjVBNkJBOS02ODU0NUFEMzg4N0ItMjAxN0UzRjhEMjND" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="racsir1010@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd-B450 TOMAHAWK MAX (MS-7C02)-178BFBFF00870F10-A002C597-7C10C90F54CD" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLUI0NTAgVE9NQUhBV0sgTUFYIChNUy03QzAyKS0xNzhCRkJGRjAwODcwRjEwLUEwMDJDNTk3LTdDMTBDOTBGNTRDRC0wMDAwMDEyMTJkNzU2Njlk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                  
 </UserList>
