@@ -899,5 +899,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="gricaenko.95a@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX B350-F GAMING-178BFBFF00870F10-8619FE94-88D7F6C73CBF" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBCMzUwLUYgR0FNSU5HLTE3OEJGQkZGMDA4NzBGMTAtODYxOUZFOTQtODhEN0Y2QzczQ0JGLTY0NzlfQTc1Q18xMDAwXzAwQTYu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                    
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="gricaenko.95a@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G733QS-178BFBFF00A50F00-B6A6E0FE-0A0027000016" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUc3MzNRUy0xNzhCRkJGRjAwQTUwRjAwLUI2QTZFMEZFLTBBMDAyNzAwMDAxNi0wMDAwXzAwMDBfMDEwMF8wMDAwX0U0RDJfNUMwM19CRjkxXzU0MDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                     
 </UserList>
