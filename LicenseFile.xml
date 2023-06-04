@@ -983,5 +983,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="156233304@qq.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Colorful-CVN B660M GAMING FROZEN V20-1F8BFBFF000306E4-C03ABED0-00174C05CA35" UniqueIdSha512="Q29sb3JmdWwtQ1ZOIEI2NjBNIEdBTUlORyBGUk9aRU4gVjIwLTFGOEJGQkZGMDAwMzA2RTQtQzAzQUJFRDAtMDAxNzRDMDVDQTM1LTAwRkY3NUJCMjVBM0M0MzA2MkFE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="mickaelkerrouche@yahoo.fr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 GAMING X V2-178BFBFF00A20F10-F4840142-D85ED35D069C" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBHQU1JTkcgWCBWMi0xNzhCRkJGRjAwQTIwRjEwLUY0ODQwMTQyLUQ4NUVEMzVEMDY5Qy0wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMjZfQjc2OF81NjI4X0UyRDUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                        
 </UserList>
