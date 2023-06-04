@@ -1011,5 +1011,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: NovaHS" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="MSI-Z97 GAMING 3 (MS-7918)-BFEBFBFF000306C3-405A4534-448A5BCDB322" UniqueIdSha512="TVNJLVo5NyBHQU1JTkcgMyAoTVMtNzkxOCktQkZFQkZCRkYwMDAzMDZDMy00MDVBNDUzNC00NDhBNUJDREIzMjItNTAwMjZCNzI1NjA4RjY5QQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                         
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Sokey92" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME H510M-A-BFEBFBFF000A0653-1A60FBCB-5811228F6579" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEg1MTBNLUEtQkZFQkZCRkYwMDBBMDY1My0xQTYwRkJDQi01ODExMjI4RjY1NzktVFBCRjIyMDcwNzAwNDAxMDYwNDk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                          
 </UserList>
