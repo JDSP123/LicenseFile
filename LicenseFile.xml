@@ -971,5 +971,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="k.koilakos@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-H87M-PRO-BFEBFBFF000306C3-30408110-74D02B7E02F6" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUg4N00tUFJPLUJGRUJGQkZGMDAwMzA2QzMtMzA0MDgxMTAtNzREMDJCN0UwMkY2LVM2MkJOWDBSQTE2NTMwSg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="vision97441@outlook.fr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Acer-Predator G3-710-BFEBFBFF000506E3-761ADF3B-98EECB2A943F" UniqueIdSha512="QWNlci1QcmVkYXRvciBHMy03MTAtQkZFQkZCRkYwMDA1MDZFMy03NjFBREYzQi05OEVFQ0IyQTk0M0YtS04xMjgwTDAxMzYwMTAwOTEwSEM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                       
 </UserList>
