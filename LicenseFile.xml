@@ -999,5 +999,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="mercuri.stefano22@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Acer-Nitro N50-100-178BFBFF00800F11-B028773B-48A472EA5628" UniqueIdSha512="QWNlci1OaXRybyBONTAtMTAwLTE3OEJGQkZGMDA4MDBGMTEtQjAyODc3M0ItNDhBNDcyRUE1NjI4LTAwMjZfQjc2OF8yM0U4XzhCMDUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Vormo" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-H110M-CS-BFEBFBFF000906E9-EAAB52A6-04D9F57B4D6D" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUgxMTBNLUNTLUJGRUJGQkZGMDAwOTA 2RTktRUFBQjUyQTYtMDREOUY1N0I0RDZELSAgICAgV0QtV0NDNEoxTlVLRVk0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                        
 </UserList>
