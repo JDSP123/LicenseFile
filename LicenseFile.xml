@@ -951,5 +951,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Binance: bimbaloid#6806" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H510M S2-BFEBFBFF000A0671-102058EF-023352619FA5" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDUxME0gUzItQkZFQkZCRkYwMDBBMDY3MS0xMDIwNThFRi0wMjMzNTI2MTlGQTUtMDAwMF8wMDAwXzAwMDBfMDAwMF8wMEUwXzRDNkNfOUVDMF9GQkU2Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="9alqubaisi@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-03PVDF-BFEBFBFF000906EA-0A1DEFEA-3C6AA7A1BF62" UniqueIdSha512="RGVsbCBJbmMuLTAzUFZERi1CRkVCRkJGRjAwMDkwNkVBLTBBMURFRkVBLTNDNkFBN0ExQkY2Mi0gICAgICAgICAgICBXTDFFUEVIRw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                       
 </UserList>
