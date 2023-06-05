@@ -1059,5 +1059,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="axx74@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX Z490-F GAMING-BFEBFBFF000A0655-CE267BC2-244BFE893065" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBaNDkwLUYgR0FNSU5HLUJGRUJGQkZGMDAwQTA2NTUtQ0UyNjdCQzItMjQ0QkZFODkzMDY1LTAwMjVfMzg1Q18wMTkwXzQyNUIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: beckks" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99 F8D-BFEBFBFF000306F2-1401C4CB-2005280001AC" UniqueIdSha512="SFVBTkFOWkhJLVg5OSBGOEQtQkZFQkZCRkYwMDAzMDZGMi0xNDAxQzRDQi0yMDA1MjgwMDAxQUMtNjQ3OV9BNzQwX0UwNTBfMEEzOS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                            
 </UserList>
