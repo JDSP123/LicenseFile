@@ -1055,5 +1055,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="mpalampanisg@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASRock-B460M Pro4-BFEBFBFF000A0653-0E9DFBA3-A8A159958A1C" UniqueIdSha512="QVNSb2NrLUI0NjBNIFBybzQtQkZFQkZCRkYwMDBBMDY1My0wRTlERkJBMy1BOEExNTk5NThBMUMtUzZQWU5aMFRDMjMyNjhB" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="axx74@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX Z490-F GAMING-BFEBFBFF000A0655-CE267BC2-244BFE893065" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBaNDkwLUYgR0FNSU5HLUJGRUJGQkZGMDAwQTA2NTUtQ0UyNjdCQzItMjQ0QkZFODkzMDY1LTAwMjVfMzg1Q18wMTkwXzQyNUIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                            
 </UserList>
