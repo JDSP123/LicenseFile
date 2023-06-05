@@ -1027,5 +1027,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="Alistair.co@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z68MA-D2H-B3-BFEBFBFF000206A7-AEAE3F42-50E5494F18FE" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY4TUEtRDJILUIzLUJGRUJGQkZGMDAwMjA2QTctQUVBRTNGNDItNTBFNTQ5NEYxOEZFLSAgICAgICAgICAgIFcyQTBXSE4x" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="mawiesel@web.de" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Acer-VA70_HW-BFEBFBFF000306C3-FA8FA0B7-70188B28BD15" UniqueIdSha512="QWNlci1WQTcwX0hXLUJGRUJGQkZGMDAwMzA2QzMtRkE4RkEwQjctNzAxODhCMjhCRDE1LVMyMUpOWEFHNDIyMjE4TA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                           
 </UserList>
