@@ -1051,5 +1051,9 @@
   <!-- Aion Classic NA/EU Temporal activation HI BRO, THIS IS THE GUY FROM THE REFUNDED PAYPAL PAYMENT, I ADDED SOME EXTRA DAYS TO BE THE GOOD GUY, ETC--> 
     <UserData Name="" NickName="" Paypal="neetleyla@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="35" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H510M H-BFEBFBFF000A0655-544C0974-74563C03EB41" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDUxME0gSC1CRkVCRkJGRjAwMEEwNjU1LTU0NEMwOTc0LTc0NTYzQzAzRUI0MS0wMDI1XzM4RDJfMzFBMV82Rjk5Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="mpalampanisg@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASRock-B460M Pro4-BFEBFBFF000A0653-0E9DFBA3-A8A159958A1C" UniqueIdSha512="QVNSb2NrLUI0NjBNIFBybzQtQkZFQkZCRkYwMDBBMDY1My0wRTlERkJBMy1BOEExNTk5NThBMUMtUzZQWU5aMFRDMjMyNjhB" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                            
 </UserList>
