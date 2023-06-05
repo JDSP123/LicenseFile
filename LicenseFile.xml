@@ -1031,5 +1031,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="mawiesel@web.de" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Acer-VA70_HW-BFEBFBFF000306C3-FA8FA0B7-70188B28BD15" UniqueIdSha512="QWNlci1WQTcwX0hXLUJGRUJGQkZGMDAwMzA2QzMtRkE4RkEwQjctNzAxODhCMjhCRDE1LVMyMUpOWEFHNDIyMjE4TA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="raksimi55@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B760M DS3H DDR4-BFEBFBFF00090672-A67766D8-74563C2BA155" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjc2ME0gRFMzSCBERFI0LUJGRUJGQkZGMDAwOTA2NzItQTY3NzY2RDgtNzQ1NjNDMkJBMTU1LUU4MjNfOEZBNl9CRjUzXzAwMDFfMDAxQl80NDhCXzRCMzBfMzQ1MC4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                           
 </UserList>
