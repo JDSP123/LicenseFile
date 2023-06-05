@@ -1017,7 +1017,15 @@
     <LicenceData ActivationData="2023-06-04 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME H510M-A-BFEBFBFF000A0653-1A60FBCB-5811228F6579" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEg1MTBNLUEtQkZFQkZCRkYwMDBBMDY1My0xQTYwRkJDQi01ODExMjI4RjY1NzktVFBCRjIyMDcwNzAwNDAxMDYwNDk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation--> 
-    <UserData Name="" NickName="niwrad_123@hotmail.com" Paypal="" AionServer="AionClassic">
+    <UserData Name="" NickName="niwrad_123@hotmail.com" Paypal="darwirin@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z270 GAMING PRO CARBON (MS-7A63)-BFEBFBFF000906E9-8A9B6BD4-309C2329FF29" UniqueIdSha512="TVNJLVoyNzAgR0FNSU5HIFBSTyBDQVJCT04gKE1TLTdBNjMpLUJGRUJGQkZGMDAwOTA2RTktOEE5QjZCRDQtMzA5QzIzMjlGRjI5LTIxMDk4NzY1NDMyMQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                          
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="daniopkj@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B450M PRO-VDH MAX (MS-7A38)-178BFBFF00A50F00-D8FAC3AE-047C16168002" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDUwTSBQUk8tVkRIIE1BWCAoTVMtN0EzOCktMTc4QkZCRkYwMEE1MEYwMC1EOEZBQzNBRS0wNDdDMTYxNjgwMDItNTAwMjZCNzM4MTY4RTlGMw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="Alistair.co@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-05 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z68MA-D2H-B3-BFEBFBFF000206A7-AEAE3F42-50E5494F18FE" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY4TUEtRDJILUIzLUJGRUJGQkZGMDAwMjA2QTctQUVBRTNGNDItNTBFNTQ5NEYxOEZFLSAgICAgICAgICAgIFcyQTBXSE4x" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                           
 </UserList>
