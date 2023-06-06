@@ -1119,5 +1119,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: beckks" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="TIMI-TM2121-BFEBFBFF000906A3-B0C8A36C-701AB8B94123" UniqueIdSha512="VElNSS1UTTIxMjEtQkZFQkZCRkYwMDA5MDZBMy1CMEM4QTM2Qy03MDFBQjhCOTQxMjMtMDAwMF8wMDAwXzAwMDBfMDAwMF84Q0UzXzhFMDRfMDM5NF9CNDFDLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                          
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="Ginns.triller@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd-B450 GAMING PLUS MAX (MS-7B86)-178BFBFF00870F10-E860A614-D8BBC11B090C" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLUI0NTAgR0FNSU5HIFBMVVMgTUFYIChNUy03Qjg2KS0xNzhCRkJGRjAwODcwRjEwLUU4NjBBNjE0LUQ4QkJDMTFCMDkwQy1TNFg2TkYwTjkwMzg4NVk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                           
 </UserList>
