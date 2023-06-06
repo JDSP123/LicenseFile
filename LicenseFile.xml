@@ -1108,5 +1108,8 @@
     <UserData Name="" NickName="" Paypal="wikiz974@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-06 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="HP-843B-BFEBFBFF000906EA-60E47837-F4390934FD4B" UniqueIdSha512="SFAtODQzQi1CRkVCRkJGRjAwMDkwNkVBLTYwRTQ3ODM3LUY0MzkwOTM0RkQ0Qi0xODQwXzQyODBfMDEzNF8wMDAxXzAwMUJfNDQ4Ql80NDYwXzUxNjUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
-                                                                                                                                            
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: qFriend" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Acer-Wasp_BR-178BFBFF00660F51-DC0E7B73-74DFBF8DCCE5" UniqueIdSha512="QWNlci1XYXNwX0JSLTE3OEJGQkZGMDA2NjBGNTEtREMwRTdCNzMtNzRERkJGOERDQ0U1LSAgICAgICAgICAgNDYyNVBXSVRU" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                          
 </UserList>
