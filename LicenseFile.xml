@@ -1075,5 +1075,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="felicho.50@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450M-HDV R4.0-178BFBFF00810F81-BA42E4DC-7085C2D4A3A1" UniqueIdSha512="QVNSb2NrLUI0NTBNLUhEViBSNC4wLTE3OEJGQkZGMDA4MTBGODEtQkE0MkU0REMtNzA4NUMyRDRBM0ExLVMyWURKOUREODA0NDYz" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="koloaion@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-06 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="GIGABYTE-AORUS 15P XD-BFEBFBFF000806D1-6225C779-82D333BBF072" UniqueIdSha512="R0lHQUJZVEUtQU9SVVMgMTVQIFhELUJGRUJGQkZGMDAwODA2RDEtNjIyNUM3NzktODJEMzMzQkJGMDcyLTY0NzlfQTc1OF85MDMwXzEzRDMu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                            
 </UserList>
