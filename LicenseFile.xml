@@ -1279,5 +1279,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: NgamahuFlame" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 GAMING X V2-178BFBFF00870F10-1EDC6F03-18C04D8D6DD7" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBHQU1JTkcgWCBWMi0xNzhCRkJGRjAwODcwRjEwLTFFREM2RjAzLTE4QzA0RDhENkRENy02NDc5X0E3RkZfRjAwMF8wMDAwLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="paulart2013@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Asus Corporation-ASUS TUF Z370-Plus Gaming-1F8BFBFFD065823F-8CCBFFB9-0CD2920CC550" UniqueIdSha512="QXN1cyBDb3Jwb3JhdGlvbi1BU1VTIFRVRiBaMzcwLVBsdXMgR2FtaW5nLTFGOEJGQkZGRDA2NTgyM0YtOENDQkZGQjktMENEMjkyMENDNTUwLTdlMmJiYTk5ODFjN2YyZDdjY2ZjYzJiZDlmYTI1ZmQ0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                    
 </UserList>
