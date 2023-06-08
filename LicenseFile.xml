@@ -1235,5 +1235,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: missblack" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-TA970XE-178BFBFF00600F20-E4DF0FEA-B8975A0970B9" UniqueIdSha512="QklPU1RBUiBHcm91cC1UQTk3MFhFLTE3OEJGQkZGMDA2MDBGMjAtRTRERjBGRUEtQjg5NzVBMDk3MEI5LSAgICAgV0QtV0NBVjU4ODMwODYz" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Countzz" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-Z370 Extreme4-BFEBFBFF000906EA-1E8A0C1C-7085C2749739" UniqueIdSha512="QVNSb2NrLVozNzAgRXh0cmVtZTQtQkZFQkZCRkYwMDA5MDZFQS0xRThBMEMxQy03MDg1QzI3NDk3MzktQUEwMDAwMDAwMDAwMDAwMDA3NTk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                  
 </UserList>
