@@ -1267,5 +1267,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="paulart2013@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUS Corporation-ASUS P8H67-1F8BFBFF8EF07D2D-5E531D27-C04A004B8B35" UniqueIdSha512="QVNVUyBDb3Jwb3JhdGlvbi1BU1VTIFA4SDY3LTFGOEJGQkZGOEVGMDdEMkQtNUU1MzFEMjctQzA0QTAwNEI4QjM1LTg4MzQwNzMwZDhmNWE4MTFlYmE4MjI3NjQzMjIxODA4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="pumpkinpunk01@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B365M GAMING HD-BFEBFBFF000906EA-104DF14A-18C04D29EA53" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjM2NU0gR0FNSU5HIEhELUJGRUJGQkZGMDAwOTA2RUEtMTA0REYxNEEtMThDMDREMjlFQTUzLTAxMDBfMDAwMF8wMDAwXzAwMDAu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                    
 </UserList>
