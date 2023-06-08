@@ -1191,5 +1191,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="A.Alzahrani@hotmail.co.uk" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z370-P-BFEBFBFF000906EA-A6FA1EE3-B06EBFC55219" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFozNzAtUC1CRkVCRkJGRjAwMDkwNkVBLUE2RkExRUUzLUIwNkVCRkM1NTIxOS0xNzQ0Mjk0MjEwODE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                              
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="fryking@126.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-B75 PRO-BFEBFBFF000306A9-D4C2EADE-22524D04000F" UniqueIdSha512="SFVBTkFOWkhJLUI3NSBQUk8tQkZFQkZCRkYwMDAzMDZBOS1ENEMyRUFERS0yMjUyNEQwNDAwMEYtQUEwMDAwMDAwMDAwMDAwMDIwMDg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData> 
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="d1neo@ymail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Microsoft Corporation-Surface Laptop Studio-BFEBFBFF000806C1-803D0C49-A04A5ED50B47" UniqueIdSha512="TWljcm9zb2Z0IENvcnBvcmF0aW9uLVN1cmZhY2UgTGFwdG9wIFN0dWRpby1CRkVCRkJGRjAwMDgwNkMxLTgwM0QwQzQ5LUEwNEE1RUQ1MEI0Ny1BQ0U0XzJFMDBfMTVFNF85NkNDXzJFRTRfQUMwMF8wMDAwXzAwMDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                               
 </UserList>
