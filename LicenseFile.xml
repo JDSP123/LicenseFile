@@ -1251,5 +1251,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="fryking@126.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B660M GAMING AC DDR4-BFEBFBFF00090675-E2452B0A-D85ED3A8E2BD" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjY2ME0gR0FNSU5HIEFDIEREUjQtQkZFQkZCRkYwMDA5MDY3NS1FMjQ1MkIwQS1EODVFRDNBOEUyQkQtQTEyQTA5MDUwMEMw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                                  
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="lukasz.waldon@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Microsoft Corporation-Virtual Machine-0000000000000000-0E865415" UniqueIdSha512="TWljcm9zb2Z0IENvcnBvcmF0aW9uLVZpcnR1YWwgTWFjaGluZS0wMDAwMDAwMDAwMDAwMDAwLTBFODY1NDE1LTAwMTU1RDAxNDMwMA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                                   
 </UserList>
