@@ -1215,5 +1215,13 @@
   <!-- Aion Classic NA/EU Temporal trial activation--> 
     <UserData Name="" NickName="Careless#9864" Paypal="euroranger123@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX B650E-E GAMING WIFI-178BFBFF00A60F12-6E056F2E-A036BCBBCBA7" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBCNjUwRS1FIEdBTUlORyBXSUZJLTE3OEJGQkZGMDBBNjBGMTItNkUwNTZGMkUtQTAzNkJDQkJDQkE3LTIxNDlFNUVEOTVEMQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: terpila322" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-PRO H410M-B(MS-7D82)-BFEBFBFF000A0653-54AF3EED-D8BBC1CFE9D6" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1QUk8gSDQxME0tQihNUy03RDgyKS1CRkVCRkJGRjAwMEEwNjUzLTU0QUYzRUVELUQ4QkJDMUNGRTlENi0yMDIwXzIwMjBfMjAyMF8yMDIwLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: marach1993" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF GAMING H670-PRO WIFI D4-BFEBFBFF00090672-18BCEF79-70A6CC14BDB0" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgSDY3MC1QUk8gV0lGSSBENC1CRkVCRkJGRjAwMDkwNjcyLTE4QkNFRjc5LTcwQTZDQzE0QkRCMC0wMDI1XzM4REFfMTFCNl84QjBELg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                 
 </UserList>
