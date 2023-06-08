@@ -1239,5 +1239,17 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Countzz" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-Z370 Extreme4-BFEBFBFF000906EA-1E8A0C1C-7085C2749739" UniqueIdSha512="QVNSb2NrLVozNzAgRXh0cmVtZTQtQkZFQkZCRkYwMDA5MDZFQS0xRThBMEMxQy03MDg1QzI3NDk3MzktQUEwMDAwMDAwMDAwMDAwMDA3NTk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="fryking@126.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B75M-D3V-BFEBFBFF000306A9-06126836-94DE80734B75" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjc1TS1EM1YtQkZFQkZCRkYwMDAzMDZBOS0wNjEyNjgzNi05NERFODA3MzRCNzUtQUEwMDAwMDAwMDAwMDAwMDMyODQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="fryking@126.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-B75-BFEBFBFF000306A9-9ED58291-0AE0AFEC0AD2" UniqueIdSha512="SFVBTkFOWkhJLUI3NS1CRkVCRkJGRjAwMDMwNkE5LTlFRDU4MjkxLTBBRTBBRkVDMEFEMi1BQTAwMDAwMDAwMDAwMDAwMTQyMQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="fryking@126.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B660M GAMING AC DDR4-BFEBFBFF00090675-E2452B0A-D85ED3A8E2BD" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjY2ME0gR0FNSU5HIEFDIEREUjQtQkZFQkZCRkYwMDA5MDY3NS1FMjQ1MkIwQS1EODVFRDNBOEUyQkQtQTEyQTA5MDUwMEMw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                  
 </UserList>
