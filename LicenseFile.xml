@@ -1199,5 +1199,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="d1neo@ymail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Microsoft Corporation-Surface Laptop Studio-BFEBFBFF000806C1-803D0C49-A04A5ED50B47" UniqueIdSha512="TWljcm9zb2Z0IENvcnBvcmF0aW9uLVN1cmZhY2UgTGFwdG9wIFN0dWRpby1CRkVCRkJGRjAwMDgwNkMxLTgwM0QwQzQ5LUEwNEE1RUQ1MEI0Ny1BQ0U0XzJFMDBfMTVFNF85NkNDXzJFRTRfQUMwMF8wMDAwXzAwMDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                               
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="sciki1989@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G750JW-BFEBFBFF000306C3-E64ACADB-6C71D9AC08F5" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUc3NTBKVy1CRkVCRkJGRjAwMDMwNkMzLUU2NEFDQURCLTZDNzFEOUFDMDhGNS0yMTI2RTVCNEI2QTI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                                 
 </UserList>
