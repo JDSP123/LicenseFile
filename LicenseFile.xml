@@ -1207,5 +1207,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Qulity" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z590 GAMING X-BFEBFBFF000A0655-3AF1AB16-D85ED35A362D" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjU5MCBHQU1JTkcgWC1CRkVCRkJGRjAwMEEwNjU1LTNBRjFBQjE2LUQ4NUVEMzVBMzYyRC1TMlI0TlgwSjExNzMyNUU" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="pan0s_gf@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-A320M-DS2-CF-178BFBFF00800F11-AADAED31-1C1B0DE4CBCE" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQTMyME0tRFMyLUNGLTE3OEJGQkZGMDA4MDBGMTEtQUFEQUVEMzEtMUMxQjBERTRDQkNFLTUwMDI2Qjc3ODNCOEIwMUI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                 
 </UserList>
