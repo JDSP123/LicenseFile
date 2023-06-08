@@ -1231,5 +1231,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: missblack" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z97 PC Mate(MS-7850)-BFEBFBFF000306C3-B692D601-D8CB8AC05C11" UniqueIdSha512="TVNJLVo5NyBQQyBNYXRlKE1TLTc4NTApLUJGRUJGQkZGMDAwMzA2QzMtQjY5MkQ2MDEtRDhDQjhBQzA1QzExLTUwMDI2Qjc3ODQ0NDRFNEY" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: missblack" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-TA970XE-178BFBFF00600F20-E4DF0FEA-B8975A0970B9" UniqueIdSha512="QklPU1RBUiBHcm91cC1UQTk3MFhFLTE3OEJGQkZGMDA2MDBGMjAtRTRERjBGRUEtQjg5NzVBMDk3MEI5LSAgICAgV0QtV0NBVjU4ODMwODYz" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                  
 </UserList>
