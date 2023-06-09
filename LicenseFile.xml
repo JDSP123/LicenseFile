@@ -1319,5 +1319,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="paulart2013@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-09 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUS Corporation-ASUS PRIME B350M-A-1F8BFBFF8A3B6104-3C1E8F27-94EB2C93A647" UniqueIdSha512="QVNVUyBDb3Jwb3JhdGlvbi1BU1VTIFBSSU1FIEIzNTBNLUEtMUY4QkZCRkY4QTNCNjEwNC0zQzFFOEYyNy05NEVCMkM5M0E2NDctNTgwYjllMzk5MGU1ZTQ1NWFkOGFiZTdlODA1N2I4ZmM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Qulity" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-09 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z270 TOMAHAWK (MS-7A68)-BFEBFBFF000906E9-0A7633F7-4CCC6AD6BD14" UniqueIdSha512="TVNJLVoyNzAgVE9NQUhBV0sgKE1TLTdBNjgpLUJGRUJGQkZGMDAwOTA2RTktMEE3NjMzRjctNENDQzZBRDZCRDE0LSAgICAgV0QtV0NDNEo3VVgwVTVS" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                      
 </UserList>
