@@ -1323,5 +1323,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Qulity" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-09 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z270 TOMAHAWK (MS-7A68)-BFEBFBFF000906E9-0A7633F7-4CCC6AD6BD14" UniqueIdSha512="TVNJLVoyNzAgVE9NQUhBV0sgKE1TLTdBNjgpLUJGRUJGQkZGMDAwOTA2RTktMEE3NjMzRjctNENDQzZBRDZCRDE0LSAgICAgV0QtV0NDNEo3VVgwVTVS" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="mathieuclemencelouis@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-09 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="MSI-B150 PC MATE (MS-7971)-BFEBFBFF000506E3-8AD94DAE-4CCC6A2ADF74" UniqueIdSha512="TVNJLUIxNTAgUEMgTUFURSAoTVMtNzk3MSktQkZFQkZCRkYwMDA1MDZFMy04QUQ5NERBRS00Q0NDNkEyQURGNzQtMDEyMzQ1Njc4OUFCQ0RFRg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                      
 </UserList>
