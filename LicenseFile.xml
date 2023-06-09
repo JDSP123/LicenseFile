@@ -1335,5 +1335,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="d0pc94@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-09 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="INTEL-X79 INTEL (INTEL Xeon E5/Corei7 DMI2 - C600/C200 Cipset-BFEBFBFF000306E4-08080899-00E01A680405" UniqueIdSha512="SU5URUwtWDc5IElOVEVMIChJTlRFTCBYZW9uIEU1L0NvcmVpNyBETUkyIC0gQzYwMC9DMjAwIENpcHNldC1CRkVCRkJGRjAwMDMwNkU0LTA4MDgwODk5LTAwRTAxQTY4MDQwNS01MDAyNkI3NzgzQzBGMTNC" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Kuvaldad" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-09 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-H610MH-BFEBFBFF00090675-6C0281CB-F4B5205241CE" UniqueIdSha512="QklPU1RBUiBHcm91cC1INjEwTUgtQkZFQkZCRkYwMDA5MDY3NS02QzAyODFDQi1GNEI1MjA1MjQxQ0UtTkZSMjIwNzEyMDEwMDM3Ng" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                      
 </UserList>
