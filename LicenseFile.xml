@@ -1347,5 +1347,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="artem.ovanesyan@gmail.com" Paypal="daniilborzenkov@mail.ru" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-09 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B350-PLUS-178BFBFF00800F11-12C4B2E1-B06EBF373B76" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEIzNTAtUExVUy0xNzhCRkJGRjAwODAwRjExLTEyQzRCMkUxLUIwNkVCRjM3M0I3Ni0wODE5MjIyMVQwMDA0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Tenzc01" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-09 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-178BFBFF00A50F00-6AC86800-BCF1713DACF7" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LTE3OEJGQkZGMDBBNTBGMDAtNkFDODY4MDAtQkNGMTcxM0RBQ0Y3LTAwMjVfMzhEOV8xMTAxXzQzRTYu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                      
 </UserList>
