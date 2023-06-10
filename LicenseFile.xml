@@ -1383,5 +1383,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="paulart2013@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Asus Corporation-ASUS TUF Z370-Plus Gaming-1F8BFBFFD065823F-8CCBFFB9-0CD2920CC550" UniqueIdSha512="QXN1cyBDb3Jwb3JhdGlvbi1BU1VTIFRVRiBaMzcwLVBsdXMgR2FtaW5nLTFGOEJGQkZGRDA2NTgyM0YtOENDQkZGQjktMENEMjkyMENDNTUwLTdlMmJiYTk5ODFjN2YyZDdjY2ZjYzJiZDlmYTI1ZmQ0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                                       
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation HI BRO, THIS SUBSCRIPTION WAS NOT ACTIVATED YESTERDAY, PROBABLY DUE TO PAYPAL DELAY, THE USER CONTACTED ME VIA DM, SO I ACTIVATED IT. ADDED 4 DAYS AS COMPENSATION--> 
+    <UserData Name="" NickName="" Paypal="soufianeelhardouze@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="95" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B550M-A WIFI II-178BFBFF00A20F12-5AB5E948-50EBF63FD5DF" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEI1NTBNLUEgV0lGSSBJSS0xNzhCRkJGRjAwQTIwRjEyLTVBQjVFOTQ4LTUwRUJGNjNGRDVERi1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ4Ql80RTYyXzRDNkIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                                        
 </UserList>
