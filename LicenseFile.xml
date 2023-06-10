@@ -1359,5 +1359,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: FedorB" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-09 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-X470 GAMING PLUS (MS-7B79)-178BFBFF00800F82-C3E2C265-00C070337F00" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1YNDcwIEdBTUlORyBQTFVTIChNUy03Qjc5KS0xNzhCRkJGRjAwODAwRjgyLUMzRTJDMjY1LTAwQzA3MDMzN0YwMC1ZRjA2MzNZRkI3MTgyMzAwMzE4Ng" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                                      
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="bmgshb@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000906EA-88199982-283A4D74A6EB" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwOTA2RUEtODgxOTk5ODItMjgzQTRENzRBNkVCLTAwMjVfMzg4QV84MUI4X0ZGRDQu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                                       
 </UserList>
