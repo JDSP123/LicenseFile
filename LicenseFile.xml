@@ -1415,5 +1415,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="pernatui1@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B350-PLUS-178BFBFF00800F11-3EAA6586-2CFDA1E3E5BB" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEIzNTAtUExVUy0xNzhCRkJGRjAwODAwRjExLTNFQUE2NTg2LTJDRkRBMUUzRTVCQi0wMDI1XzM4NTdfMjFCMF8wQzAyLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                                        
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="helderjnbernardo@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B450 AORUS ELITE-178BFBFF00870F10-A24E8488-B42E99960ACB" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1MCBBT1JVUyBFTElURS0xNzhCRkJGRjAwODcwRjEwLUEyNEU4NDg4LUI0MkU5OTk2MEFDQi02NDc5X0E3MkJfRTMyMl80MTQzLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                                         
 </UserList>
