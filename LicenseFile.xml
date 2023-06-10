@@ -1395,5 +1395,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Countzz" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-H310M-HDV-BFEBFBFF000906EA-3054E85C-7085C28AFD4D" UniqueIdSha512="QVNSb2NrLUgzMTBNLUhEVi1CRkVCRkJGRjAwMDkwNkVBLTMwNTRFODVDLTcwODVDMjhBRkQ0RC0gICAgICBKUDE1MjFGTjFTRDlISA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Dozzka" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-Z170 PRO GAMING-BFEBFBFF000506E3-D0882E90-38D547E01D6F" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVoxNzAgUFJPIEdBTUlORy1CRkVCRkJGRjAwMDUwNkUzLUQwODgyRTkwLTM4RDU0N0UwMUQ2Ri1TNVkxTkoxUjEzMjQyOVk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                        
 </UserList>
