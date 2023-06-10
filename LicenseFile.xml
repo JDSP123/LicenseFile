@@ -1391,5 +1391,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="madioguediawara@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-20UJS20000-178BFBFF00860F01-5CA6986E-C03C590096C8" UniqueIdSha512="TEVOT1ZPLTIwVUpTMjAwMDAtMTc4QkZCRkYwMDg2MEYwMS01Q0E2OTg2RS1DMDNDNTkwMDk2QzgtMDAxQl80NDhCXzQ4OEJfMzJBOC4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Countzz" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-H310M-HDV-BFEBFBFF000906EA-3054E85C-7085C28AFD4D" UniqueIdSha512="QVNSb2NrLUgzMTBNLUhEVi1CRkVCRkJGRjAwMDkwNkVBLTMwNTRFODVDLTcwODVDMjhBRkQ0RC0gICAgICBKUDE1MjFGTjFTRDlISA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                        
 </UserList>
