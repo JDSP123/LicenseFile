@@ -1411,5 +1411,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="sergiocamara.619@hotmail.com" Paypal="finder619@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B450-PLUS-178BFBFF00A20F12-68200BCB-162593E35229" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEI0NTAtUExVUy0xNzhCRkJGRjAwQTIwRjEyLTY4MjAwQkNCLTE2MjU5M0UzNTIyOS0yMDI3NEM4MDA2NTE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="pernatui1@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B350-PLUS-178BFBFF00800F11-3EAA6586-2CFDA1E3E5BB" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEIzNTAtUExVUy0xNzhCRkJGRjAwODAwRjExLTNFQUE2NTg2LTJDRkRBMUUzRTVCQi0wMDI1XzM4NTdfMjFCMF8wQzAyLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                        
 </UserList>
