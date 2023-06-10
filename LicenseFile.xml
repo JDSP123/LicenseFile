@@ -1387,5 +1387,9 @@
   <!-- Aion Classic NA/EU Temporal activation HI BRO, THIS SUBSCRIPTION WAS NOT ACTIVATED YESTERDAY, PROBABLY DUE TO PAYPAL DELAY, THE USER CONTACTED ME VIA DM, SO I ACTIVATED IT. ADDED 4 DAYS AS COMPENSATION--> 
     <UserData Name="" NickName="" Paypal="soufianeelhardouze@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="95" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B550M-A WIFI II-178BFBFF00A20F12-5AB5E948-50EBF63FD5DF" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEI1NTBNLUEgV0lGSSBJSS0xNzhCRkJGRjAwQTIwRjEyLTVBQjVFOTQ4LTUwRUJGNjNGRDVERi1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ4Ql80RTYyXzRDNkIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="madioguediawara@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-20UJS20000-178BFBFF00860F01-5CA6986E-C03C590096C8" UniqueIdSha512="TEVOT1ZPLTIwVUpTMjAwMDAtMTc4QkZCRkYwMDg2MEYwMS01Q0E2OTg2RS1DMDNDNTkwMDk2QzgtMDAxQl80NDhCXzQ4OEJfMzJBOC4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                        
 </UserList>
