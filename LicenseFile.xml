@@ -1399,5 +1399,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Dozzka" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-Z170 PRO GAMING-BFEBFBFF000506E3-D0882E90-38D547E01D6F" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVoxNzAgUFJPIEdBTUlORy1CRkVCRkJGRjAwMDUwNkUzLUQwODgyRTkwLTM4RDU0N0UwMUQ2Ri1TNVkxTkoxUjEzMjQyOVk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="corey12221@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B365M Pro4-BFEBFBFF000906ED-9ADB24C9-A8A1595B1366" UniqueIdSha512="QVNSb2NrLUIzNjVNIFBybzQtQkZFQkZCRkYwMDA5MDZFRC05QURCMjRDOS1BOEExNTk1QjEzNjYtTko5Nk42MDQwMTA0MDdDMFEgICBfMDAwMDAwMDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="fyfy#5492" Paypal="adriana.r318@yahoo.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-H110M-C-BFEBFBFF000506E3-441CD5CC-F832E48C996E" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUgxMTBNLUMtQkZFQkZCRkYwMDA1MDZFMy00NDFDRDVDQy1GODMyRTQ4Qzk5NkUtMkY1MjIwMDMzMDYx" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                        
 </UserList>
