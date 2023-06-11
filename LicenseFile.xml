@@ -1423,5 +1423,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: terpila322" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-PRO H410M-B(MS-7D82)-BFEBFBFF000A0653-22221110-D8BBC1CFE94A" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1QUk8gSDQxME0tQihNUy03RDgyKS1CRkVCRkJGRjAwMEEwNjUzLTIyMjIxMTEwLUQ4QkJDMUNGRTk0QS0yMDIwXzIwMjBfMjAyMF8yMDIwLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="yohnnys.orozco92@yahoo.com">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Inspur-Inspur Computer All in one PC-BFEBFBFF000306C3-766D3BC7-C03FD5AAC3D7" UniqueIdSha512="SW5zcHVyLUluc3B1ciBDb21wdXRlciBBbGwgaW4gb25lIFBDLUJGRUJGQkZGMDAwMzA2QzMtNzY2RDNCQzctQzAzRkQ1QUFDM0Q3LQMw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                         
 </UserList>
