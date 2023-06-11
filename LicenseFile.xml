@@ -1427,5 +1427,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="yohnnys.orozco92@yahoo.com">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Inspur-Inspur Computer All in one PC-BFEBFBFF000306C3-766D3BC7-C03FD5AAC3D7" UniqueIdSha512="SW5zcHVyLUluc3B1ciBDb21wdXRlciBBbGwgaW4gb25lIFBDLUJGRUJGQkZGMDAwMzA2QzMtNzY2RDNCQzctQzAzRkQ1QUFDM0Q3LQMw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="mosse01_@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z170A PC MATE (MS-7971)-BFEBFBFF000506E3-4C1A6003-4CCC6A0C0210" UniqueIdSha512="TVNJLVoxNzBBIFBDIE1BVEUgKE1TLTc5NzEpLUJGRUJGQkZGMDAwNTA2RTMtNEMxQTYwMDMtNENDQzZBMEMwMjEwLTAwMDBfMDAwMF8wMDAwXzAwMDAu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                                                                                                                                                         
 </UserList>
