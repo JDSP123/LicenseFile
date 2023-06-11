@@ -1459,5 +1459,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: sinchr" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-H77MA-G43 (MS-7756)-BFEBFBFF000306A9-52321235-8C89A5C6BAC4" UniqueIdSha512="TVNJLUg3N01BLUc0MyAoTVMtNzc1NiktQkZFQkZCRkYwMDAzMDZBOS01MjMyMTIzNS04Qzg5QTVDNkJBQzQtMjIwNkU2MDkwOTc2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: ndru666" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-H61M-K-BFEBFBFF000306A9-DA94FFB9-1C872C5F193D" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUg2MU0tSy1CRkVCRkJGRjAwMDMwNkE5LURBOTRGRkI5LTFDODcyQzVGMTkzRC0gICAgICAgICAgICBTMUREUEU3Tg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>  
 </UserList>
