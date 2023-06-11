@@ -1468,7 +1468,7 @@
     <UserData Name="" NickName="" Paypal="ninachelle@yahoo.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-Z490-A PRO (MS-7C75)-BFEBFBFF000A0655-4801C66E-2CF05D5AE2C1" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1aNDkwLUEgUFJPIChNUy03Qzc1KS1CRkVCRkJGRjAwMEEwNjU1LTQ4MDFDNjZFLTJDRjA1RDVBRTJDMS0gICAgICAgICAgIDc0NUtBMldQUw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
-    <!-- Aion Classic NA/EU Temporal activation BRO, THIS GUY BOUGHT AN AION RETAIL SUBSCRIPTION MY MISTAKE. I SUGGESTED TO CONVERT THE REMAINING DAYS TO AION CLASIC EU, WHICH IS 13 DAYS--> 
+    <!-- Aion Classic NA/EU Temporal activation BRO, THIS GUY BOUGHT AN AION RETAIL SUBSCRIPTION BY ERROR. I SUGGESTED TO CONVERT THE REMAINING DAYS TO AION CLASIC EU, WHICH IS 13 DAYS--> 
     <UserData Name="" NickName="dimaii#9422" Paypal="krawasum@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="13" IgnoreMacAddress="true" UniqueId="ASRock-A320M-DVS R3.0-178BFBFF00860F01-F2B438E4-74A78E40C069" UniqueIdSha512="QVNSb2NrLUEzMjBNLURWUyBSMy4wLTE3OEJGQkZGMDA4NjBGMDEtRjJCNDM4RTQtNzRBNzhFNDBDMDY5LTUwMDI2Qjc3ODQ3QjdCODA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
@@ -1479,5 +1479,9 @@
     <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Gloom#9157" Paypal="Binance: 418754947" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z690M AORUS ELITE AX DDR4-BFEBFBFF00090672-CC9FD2F8-D85ED3AF2B61" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY5ME0gQU9SVVMgRUxJVEUgQVggRERSNC1CRkVCRkJGRjAwMDkwNjcyLUNDOUZEMkY4LUQ4NUVEM0FGMkI2MS0wMDI1XzM4NTdfMjFCMV8yODEyLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="bulentcimen20@hotmail.com" Paypal="bulentcimen20@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-FA707RR-178BFBFF00A40F41-F6FAE420-5811223A1818" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUZBNzA3UlItMTc4QkZCRkYwMEE0MEY0MS1GNkZBRTQyMC01ODExMjIzQTE4MTgtMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDI2X0I3NjhfNjI0Rl9EMjQ1Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>  
 </UserList>
