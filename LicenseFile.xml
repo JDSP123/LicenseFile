@@ -1483,5 +1483,9 @@
     <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="bulentcimen20@hotmail.com" Paypal="bulentcimen20@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-FA707RR-178BFBFF00A40F41-F6FAE420-5811223A1818" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUZBNzA3UlItMTc4QkZCRkYwMEE0MEY0MS1GNkZBRTQyMC01ODExMjIzQTE4MTgtMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDI2X0I3NjhfNjI0Rl9EMjQ1Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Glebon2014" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Intel-X99H-BFEBFBFF000306F2-16A4C547-AC15A2471D86" UniqueIdSha512="SW50ZWwtWDk5SC1CRkVCRkJGRjAwMDMwNkYyLTE2QTRDNTQ3LUFDMTVBMjQ3MUQ4Ni0gICAgICAgICAgICA5Vk1GOTBNVA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>  
 </UserList>
