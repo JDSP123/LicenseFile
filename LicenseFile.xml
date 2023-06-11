@@ -1430,6 +1430,10 @@
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="mosse01_@hotmail.com" AionServer="AionClassic">
-    <LicenceData ActivationData="2023-06-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z170A PC MATE (MS-7971)-BFEBFBFF000506E3-4C1A6003-4CCC6A0C0210" UniqueIdSha512="TVNJLVoxNzBBIFBDIE1BVEUgKE1TLTc5NzEpLUJGRUJGQkZGMDAwNTA2RTMtNEMxQTYwMDMtNENDQzZBMEMwMjEwLTAwMDBfMDAwMF8wMDAwXzAwMDAu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                                                                                                                                                         
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z170A PC MATE (MS-7971)-BFEBFBFF000506E3-4C1A6003-4CCC6A0C0210" UniqueIdSha512="TVNJLVoxNzBBIFBDIE1BVEUgKE1TLTc5NzEpLUJGRUJGQkZGMDAwNTA2RTMtNEMxQTYwMDMtNENDQzZBMEMwMjEwLTAwMDBfMDAwMF8wMDAwXzAwMDAu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="rebeca.leandra32@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF H310M-PLUS GAMING/BR-BFEBFBFF000906ED-1EAE63D6-000A43005F93" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBIMzEwTS1QTFVTIEdBTUlORy9CUi1CRkVCRkJGRjAwMDkwNkVELTFFQUU2M0Q2LTAwMEE0MzAwNUY5My1LMjE3MjJKMDAyODA3" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                                                                                                                                                          
 </UserList>
