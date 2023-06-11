@@ -1471,5 +1471,13 @@
     <!-- Aion Classic NA/EU Temporal activation BRO, THIS GUY BOUGHT AN AION RETAIL SUBSCRIPTION MY MISTAKE. I SUGGESTED TO CONVERT THE REMAINING DAYS TO AION CLASIC EU, WHICH IS 13 DAYS--> 
     <UserData Name="" NickName="dimaii#9422" Paypal="krawasum@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="13" IgnoreMacAddress="true" UniqueId="ASRock-A320M-DVS R3.0-178BFBFF00860F01-F2B438E4-74A78E40C069" UniqueIdSha512="QVNSb2NrLUEzMjBNLURWUyBSMy4wLTE3OEJGQkZGMDA4NjBGMDEtRjJCNDM4RTQtNzRBNzhFNDBDMDY5LTUwMDI2Qjc3ODQ3QjdCODA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Gloom#9157" Paypal="Binance: 418754947" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B450M S2H-178BFBFF00800F82-A8D83975-0E2112343466" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gUzJILTE3OEJGQkZGMDA4MDBGODItQThEODM5NzUtMEUyMTEyMzQzNDY2LTMyNEJfMzQzM18zMjM5XzQxNDhfNENFMF8wMDE4XzM1NEVfNEE1NC4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Gloom#9157" Paypal="Binance: 418754947" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z690M AORUS ELITE AX DDR4-BFEBFBFF00090672-CC9FD2F8-D85ED3AF2B61" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY5ME0gQU9SVVMgRUxJVEUgQVggRERSNC1CRkVCRkJGRjAwMDkwNjcyLUNDOUZEMkY4LUQ4NUVEM0FGMkI2MS0wMDI1XzM4NTdfMjFCMV8yODEyLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>  
 </UserList>
