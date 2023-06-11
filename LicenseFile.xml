@@ -1451,5 +1451,13 @@
     <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="nik.kulgin2002@gmail.com" Paypal="nik.kulagin2002@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-GA-78LMT-USB3 R2-178BFBFF00600F20-F2946FB2-E0D55E72340C" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tR0EtNzhMTVQtVVNCMyBSMi0xNzhCRkJGRjAwNjAwRjIwLUYyOTQ2RkIyLUUwRDU1RTcyMzQwQy1MTDMyNDhSMDAxODEx" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: terpila322" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-PRO H410M-B(MS-7D82)-BFEBFBFF000A0653-A4531231-D8BBC1CFE1CE" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1QUk8gSDQxME0tQihNUy03RDgyKS1CRkVCRkJGRjAwMEEwNjUzLUE0NTMxMjMxLUQ4QkJDMUNGRTFDRS0wMDAwXzAwMDBfMDAwMF8wMDAwXzcwN0NfMTg3RV8zOEU1XzYwRjku" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: sinchr" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-H77MA-G43 (MS-7756)-BFEBFBFF000306A9-52321235-8C89A5C6BAC4" UniqueIdSha512="TVNJLUg3N01BLUc0MyAoTVMtNzc1NiktQkZFQkZCRkYwMDAzMDZBOS01MjMyMTIzNS04Qzg5QTVDNkJBQzQtMjIwNkU2MDkwOTc2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>  
 </UserList>
