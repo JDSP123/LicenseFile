@@ -1487,5 +1487,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Glebon2014" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Intel-X99H-BFEBFBFF000306F2-16A4C547-AC15A2471D86" UniqueIdSha512="SW50ZWwtWDk5SC1CRkVCRkJGRjAwMDMwNkYyLTE2QTRDNTQ3LUFDMTVBMjQ3MUQ4Ni0gICAgICAgICAgICA5Vk1GOTBNVA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance: 470425858" Paypal="demonhunter1987@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 AORUS ELITE AX V2-178BFBFF00A20F12-8463728B-74563C67EB24" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBBT1JVUyBFTElURSBBWCBWMi0xNzhCRkJGRjAwQTIwRjEyLTg0NjM3MjhCLTc0NTYzQzY3RUIyNC1lYzcxNzU2MDY4MTkwMDAw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>  
 </UserList>
