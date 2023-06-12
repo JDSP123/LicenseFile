@@ -1512,4 +1512,8 @@
     <UserData Name="" NickName="Funpay: Dilemmafixer" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z370 HD3P-CF-BFEBFBFF000906EA-FA85EC23-E0D55E43592E" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjM3MCBIRDNQLUNGLUJGRUJGQkZGMDAwOTA2RUEtRkE4NUVDMjMtRTBENTVFNDM1OTJFLTUwMDI2Qjc3ODQ3NjM3QUQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="krawasum@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-A320M-DVS R3.0-178BFBFF00860F01-F2B438E4-74A78E40C069" UniqueIdSha512="QVNSb2NrLUEzMjBNLURWUyBSMy4wLTE3OEJGQkZGMDA4NjBGMDEtRjJCNDM4RTQtNzRBNzhFNDBDMDY5LTUwMDI2Qjc3ODQ3QjdCODA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
