@@ -1487,5 +1487,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Binance: 470425858" Paypal="demonhunter1987@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 AORUS ELITE AX V2-178BFBFF00A20F12-8463728B-74563C67EB24" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBBT1JVUyBFTElURSBBWCBWMi0xNzhCRkJGRjAwQTIwRjEyLTg0NjM3MjhCLTc0NTYzQzY3RUIyNC1lYzcxNzU2MDY4MTkwMDAw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>  
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: mixa611" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Intel Corporation-440BX Desktop Reference Platform-178BFBFF00A50F00-5A59DB67" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tNDQwQlggRGVza3RvcCBSZWZlcmVuY2UgUGxhdGZvcm0tMTc4QkZCRkYwMEE1MEYwMC01QTU5REI2Ny0wMDBDMjlBQ0JDQzA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Prizrakpi" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MPG Z390 GAMING PRO CARBON AC (MS-7B17)-BFEBFBFF000906ED-6AAA909F-00D861D4B514" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUEcgWjM5MCBHQU1JTkcgUFJPIENBUkJPTiBBQyAoTVMtN0IxNyktQkZFQkZCRkYwMDA5MDZFRC02QUFBOTA5Ri0wMEQ4NjFENEI1MTQtICAgICBXRC1XQ0M0SjJWQzY1OFQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
