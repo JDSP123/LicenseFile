@@ -1516,4 +1516,8 @@
     <UserData Name="" NickName="" Paypal="krawasum@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-17L1-BFEBFBFF000806D1-DC1EDD30-14857F7EB1ED" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xN0wxLUJGRUJGQkZGMDAwODA2RDEtREMxRUREMzAtMTQ4NTdGN0VCMUVELTAwMjZfQjc2OF80Q0M2X0ZGQTUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="aury_s@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME H610M-K D4-BFEBFBFF00090675-5AB567FB-50EBF6B71E19" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEg2MTBNLUsgRDQtQkZFQkZCRkYwMDA5MDY3NS01QUI1NjdGQi01MEVCRjZCNzFFMTktMjI0OTEwOTA3OTA0ODY0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
