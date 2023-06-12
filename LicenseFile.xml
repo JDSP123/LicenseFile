@@ -1514,11 +1514,11 @@
   </UserData>
     <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="krawasum@gmail.com" AionServer="AionClassic">
-    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-17L1-BFEBFBFF000806D1-DC1EDD30-14857F7EB1ED" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xN0wxLUJGRUJGQkZGMDAwODA2RDEtREMxRUREMzAtMTQ4NTdGN0VCMUVELTAwMjZfQjc2OF80Q0M2X0ZGQTUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+    <LicenceData ActivationData="2023-06-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-17L1-BFEBFBFF000806D1-DC1EDD30-14857F7EB1ED" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xN0wxLUJGRUJGQkZGMDAwODA2RDEtREMxRUREMzAtMTQ4NTdGN0VCMUVELTAwMjZfQjc2OF80Q0M2X0ZGQTUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
     <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="aury_s@hotmail.com" AionServer="AionClassic">
-    <LicenceData ActivationData="2023-06-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME H610M-K D4-BFEBFBFF00090675-5AB567FB-50EBF6B71E19" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEg2MTBNLUsgRDQtQkZFQkZCRkYwMDA5MDY3NS01QUI1NjdGQi01MEVCRjZCNzFFMTktMjI0OTEwOTA3OTA0ODY0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+    <LicenceData ActivationData="2023-06-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME H610M-K D4-BFEBFBFF00090675-5AB567FB-50EBF6B71E19" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEg2MTBNLUsgRDQtQkZFQkZCRkYwMDA5MDY3NS01QUI1NjdGQi01MEVCRjZCNzFFMTktMjI0OTEwOTA3OTA0ODY0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
     <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Binance: 527282872" Paypal="Discord: TOD#5511" AionServer="AionClassic">
@@ -1531,5 +1531,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: NovaHS" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-12 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology-C246M-WU4-1F8BFBFF00010677-929F839F-A48D3BDB367E" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neS1DMjQ2TS1XVTQtMUY4QkZCRkYwMDAxMDY3Ny05MjlGODM5Ri1BNDhEM0JEQjM2N0UtNjAwMGMyOWFiN2QzOTBlNTliZTYyZjk5N2UzOWU2NTQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="niwrad_123@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-2A9C-BFEBFBFF00020655-F4947918-6C626D5DCC46" UniqueIdSha512="TVNJLTJBOUMtQkZFQkZCRkYwMDAyMDY1NS1GNDk0NzkxOC02QzYyNkQ1RENDNDYtICAgICAgICAgICAgUjZDQUI1OUg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
 </UserList>
