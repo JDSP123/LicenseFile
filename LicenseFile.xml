@@ -1556,4 +1556,8 @@
     <UserData Name="" NickName="" Paypal="nook93ukr@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-13 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="MACHINIST-X99-RS9-BFEBFBFF000306F2-C9473DBC-00603DC3F844" UniqueIdSha512="TUFDSElOSVNULVg5OS1SUzktQkZFQkZCRkYwMDAzMDZGMi1DOTQ3M0RCQy0wMDYwM0RDM0Y4NDQtQUQyMDIyMDkxNUEwMTAwMDIyICA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: nikalasss" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd-B350M PRO-VD PLUS (MS-7B38)-178BFBFF00800F11-7EF83168-984827ED16E0" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLUIzNTBNIFBSTy1WRCBQTFVTIChNUy03QjM4KS0xNzhCRkJGRjAwODAwRjExLTdFRjgzMTY4LTk4NDgyN0VEMTZFMC01MDAyNkI3NzgyMkJFNjY2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
