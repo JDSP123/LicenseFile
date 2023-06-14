@@ -1592,4 +1592,16 @@
     <UserData Name="" NickName="Discord: Mr. Banana Split, nasty22539@web.de" Paypal="david.thie@web.de" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-PRO Z690-A DDR4(MS-7D25)-BFEBFBFF00090672-2AD8D290-D8BBC16FF4B5" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1QUk8gWjY5MC1BIEREUjQoTVMtN0QyNSktQkZFQkZCRkYwMDA5MDY3Mi0yQUQ4RDI5MC1EOEJCQzE2RkY0QjUtICAgICAgICAgICA3MTVOOE1STVM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="linuxbalack@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Hewlett-Packard-339A-BFEBFBFF000306A9-08DF9A03-0002B31F4E0E-OCZ" UniqueIdSha512="SGV3bGV0dC1QYWNrYXJkLTMzOUEtQkZFQkZCRkYwMDAzMDZBOS0wOERGOUEwMy0wMDAyQjMxRjRFMEUtT0NaLUZFSDc0VVNBODRDVzhVUjM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="critrow92@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG MAXIMUS XI HERO-BFEBFBFF000906EC-CAA63848-0C9D9283F60A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBNQVhJTVVTIFhJIEhFUk8tQkZFQkZCRkYwMDA5MDZFQy1DQUE2Mzg0OC0wQzlEOTI4M0Y2MEEtVm9sdW1lMQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="baturinamon@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HP-86D5-178BFBFF00810F81-686CFD06-6C02E070CF36" UniqueIdSha512="SFAtODZENS0xNzhCRkJGRjAwODEwRjgxLTY4NkNGRDA2LTZDMDJFMDcwQ0YzNi1BQ0U0XzJFMDBfMEE5RV9DRjE5Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
