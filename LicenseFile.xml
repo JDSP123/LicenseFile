@@ -1636,4 +1636,8 @@
     <UserData Name="" NickName="Funpay:	Igital" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B460M-A PRO (MS-7C88)-BFEBFBFF000A0653-1837C4A2-984827C5A278" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDYwTS1BIFBSTyAoTVMtN0M4OCktQkZFQkZCRkYwMDBBMDY1My0xODM3QzRBMi05ODQ4MjdDNUEyNzgtICAgICAgICAgICBZMFVOQU4yRlM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="Funpay:	terpila322" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-30D9-BFEBFBFF000506E3-345F1255-4CCC6A9FC624" UniqueIdSha512="TEVOT1ZPLTMwRDktQkZFQkZCRkYwMDA1MDZFMy0zNDVGMTI1NS00Q0NDNkE5RkM2MjQtMkwzODJMQU42OFdV" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
