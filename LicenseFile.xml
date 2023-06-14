@@ -1604,4 +1604,8 @@
     <UserData Name="" NickName="" Paypal="baturinamon@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HP-86D5-178BFBFF00810F81-686CFD06-6C02E070CF36" UniqueIdSha512="SFAtODZENS0xNzhCRkJGRjAwODEwRjgxLTY4NkNGRDA2LTZDMDJFMDcwQ0YzNi1BQ0U0XzJFMDBfMEE5RV9DRjE5Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="Funpay:	Botexcept" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550M DS3H-178BFBFF00870F10-7A778DCB-1A4067385366" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1ME0gRFMzSC0xNzhCRkJGRjAwODcwRjEwLTdBNzc4RENCLTFBNDA2NzM4NTM2Ni0wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMjZfQjc2OF81MTY1X0U0MTUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
