@@ -1652,4 +1652,8 @@
     <UserData Name="" NickName="Funpay:	Pups1995" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-970A-DS3P-178BFBFF00600F20-2AE28B31-E0D55E3D7797" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tOTcwQS1EUzNQLTE3OEJGQkZGMDA2MDBGMjAtMkFFMjhCMzEtRTBENTVFM0Q3Nzk3LVlTMjAyMjA4OTc0ODQ2SFA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="Funpay:	daemer" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-0MYTFF-BFEBFBFF000206D7-90223475-90B11C6726C9" UniqueIdSha512="RGVsbCBJbmMuLTBNWVRGRi1CRkVC RkJGRjAwMDIwNkQ3LTkwMjIzNDc1LTkwQjExQzY3MjZDOS0wRDc0MDZBMDgwQjA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
