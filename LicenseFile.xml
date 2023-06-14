@@ -1632,4 +1632,8 @@
     <UserData Name="" NickName="Funpay:	Dollypo" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MPG Z490 GAMING PLUS (MS-7C75)-BFEBFBFF000A0655-BA8B2B0D-2CF05D77DB9C" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUEcgWjQ5MCBHQU1JTkcgUExVUyAoTVMtN0M3NSktQkZFQkZCRkYwMDBBMDY1NS1CQThCMkIwRC0yQ0YwNUQ3N0RCOUMtU04yMTQ4MDg5MjUxMDM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="Funpay:	Igital" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B460M-A PRO (MS-7C88)-BFEBFBFF000A0653-1837C4A2-984827C5A278" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDYwTS1BIFBSTyAoTVMtN0M4OCktQkZFQkZCRkYwMDBBMDY1My0xODM3QzRBMi05ODQ4MjdDNUEyNzgtICAgICAgICAgICBZMFVOQU4yRlM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
