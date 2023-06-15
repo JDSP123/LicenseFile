@@ -1684,4 +1684,8 @@
     <UserData Name="" NickName="" Paypal="ziopeppe@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-STRIX H270F GAMING-BFEBFBFF000906E9-2EFFE835-704D7B881AC9" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVNUUklYIEgyNzBGIEdBTUlORy1CRkVCRkJGRjAwMDkwNkU5LTJFRkZFODM1LTcwNEQ3Qjg4MUFDOS1TMUQ1TlNCRjIzNDQ2MEs" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="Funpay:	KuuaTIf" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-B150M Night Elf (MS-7979)-BFEBFBFF000506E3-76EEF964-4CCC6A8D0B0F" UniqueIdSha512="TVNJLUIxNTBNIE5pZ2h0IEVsZiAoTVMtNzk3OSktQkZFQkZCRkYwMDA1MDZFMy03NkVFRjk2NC00Q0NDNkE4RDBCMEYtU0NSVzIxMTAyNTA3QTA3MTg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
