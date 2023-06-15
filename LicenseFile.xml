@@ -1650,7 +1650,7 @@
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation --> 
     <UserData Name="" NickName="Funpay:	daemer" Paypal="" AionServer="AionClassic">
-    <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-0MYTFF-BFEBFBFF000206D7-90223475-90B11C6726C9" UniqueIdSha512="RGVsbCBJbmMuLTBNWVRGRi1CRkVCRkJGRjAwMDIwNkQ3LTkwMjIzNDc1LTkwQjExQzY3MjZDOS0wRDc0MDZBMDgwQjA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+    <LicenceData ActivationData="2023-06-14 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="Dell Inc.-0MYTFF-BFEBFBFF000206D7-90223475-90B11C6726C9" UniqueIdSha512="RGVsbCBJbmMuLTBNWVRGRi1CRkVCRkJGRjAwMDIwNkQ3LTkwMjIzNDc1LTkwQjExQzY3MjZDOS0wRDc0MDZBMDgwQjA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation --> 
     <UserData Name="" NickName="Funpay:	baksina" Paypal="" AionServer="AionClassic">
