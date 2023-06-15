@@ -1680,4 +1680,8 @@
     <UserData Name="" NickName="" Paypal="pernatui1@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-15 14:40:52,531" LicenseDurationDay="1" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99-BD4-BFEBFBFF000306F2-951E37C9-001A204435C6" UniqueIdSha512="SFVBTkFOWkhJLVg5OS1CRDQtQkZFQkZCRkYwMDAzMDZGMi05NTFFMzdDOS0wMDFBMjA0NDM1QzYtQUEwMDAzOTY2MzE4MDc0NTEyOTg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+      <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="ziopeppe@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-STRIX H270F GAMING-BFEBFBFF000906E9-2EFFE835-704D7B881AC9" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVNUUklYIEgyNzBGIEdBTUlORy1CRkVCRkJGRjAwMDkwNkU5LTJFRkZFODM1LTcwNEQ3Qjg4MUFDOS1TMUQ1TlNCRjIzNDQ2MEs" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
