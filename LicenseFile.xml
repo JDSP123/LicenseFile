@@ -1688,4 +1688,8 @@
     <UserData Name="" NickName="Funpay:	KuuaTIf" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-B150M Night Elf (MS-7979)-BFEBFBFF000506E3-76EEF964-4CCC6A8D0B0F" UniqueIdSha512="TVNJLUIxNTBNIE5pZ2h0IEVsZiAoTVMtNzk3OSktQkZFQkZCRkYwMDA1MDZFMy03NkVFRjk2NC00Q0NDNkE4RDBCMEYtU0NSVzIxMTAyNTA3QTA3MTg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Kuvaldad" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-H610MH-BFEBFBFF00090675-12C9099C-F4B5204BEB8F" UniqueIdSha512="QklPU1RBUiBHcm91cC1INjEwTUgtQkZFQkZCRkYwMDA5MDY3NS0xMkM5MDk5Qy1GNEI1MjA0QkVCOEYtTkZYMjMwMjE2MDEwMDg0NA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
