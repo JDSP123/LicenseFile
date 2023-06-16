@@ -1732,4 +1732,8 @@
     <UserData Name="" NickName="" Paypal="jay.bumi1997@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-16 14:40:52,531" LicenseDurationDay="29" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H410M H V2-BFEBFBFF000A0653-42507967-18C04DF665CA" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDQxME0gSCBWMi1CRkVCRkJGRjAwMEEwNjUzLTQyNTA3OTY3LTE4QzA0REY2NjVDQS0gICAgIFdELVdNQzJFME0zUjVYNw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="rn_mn@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF GAMING X570-PLUS (WI-FI)-178BFBFF00A20F10-0025A157-3C7C3FEE50A1" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgWDU3MC1QTFVTIChXSS1GSSktMTc4QkZCRkYwMEEyMEYxMC0wMDI1QTE1Ny0zQzdDM0ZFRTUwQTEtMDAwMF8wMDAwXzAxMDBfMDAwMF9FNEQyXzVDNEFfNUQwM181NDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
