@@ -1742,6 +1742,6 @@
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="adn191930@gmail.com" AionServer="AionClassic">
-    <LicenceData ActivationData="2023-06-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME X570-P-178BFBFF00800F82-7EF8EBA6-50EBF65C2147" QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFg1NzAtUC0xNzhCRkJGRjAwODAwRjgyLTdFRjhFQkE2LTUwRUJGNjVDMjE0Ny0gICAgIFdELVdDQzZZNVNDTEpUSg="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgWDU3MC1QTFVTIChXSS1GSSktMTc4QkZCRkYwMEEyMEYxMC0wMDI1QTE1Ny0zQzdDM0ZFRTUwQTEtMDAwMF8wMDAwXzAxMDBfMDAwMF9FNEQyXzVDNEFfNUQwM181NDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+    <LicenceData ActivationData="2023-06-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME X570-P-178BFBFF00800F82-7EF8EBA6-50EBF65C2147" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFg1NzAtUC0xNzhCRkJGRjAwODAwRjgyLTdFRjhFQkE2LTUwRUJGNjVDMjE0Ny0gICAgIFdELVdDQzZZNVNDTEpUSg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
 </UserList>
