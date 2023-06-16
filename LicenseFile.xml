@@ -1744,4 +1744,8 @@
     <UserData Name="" NickName="" Paypal="adn191930@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME X570-P-178BFBFF00800F82-7EF8EBA6-50EBF65C2147" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFg1NzAtUC0xNzhCRkJGRjAwODAwRjgyLTdFRjhFQkE2LTUwRUJGNjVDMjE0Ny0gICAgIFdELVdDQzZZNVNDTEpUSg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: LostInside666" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-16 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-Z370 GAMING PRO CARBON (MS-7B45)-BFEBFBFF000906EA-96AA7D67-309C2363E078" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1aMzcwIEdBTUlORyBQUk8gQ0FSQk9OIChNUy03QjQ1KS1CRkVCRkJGRjAwMDkwNkVBLTk2QUE3RDY3LTMwOUMyMzYzRTA3OC1TM05ZTkIwSkIxMzE4NEY" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
