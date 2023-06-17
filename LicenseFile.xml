@@ -1820,4 +1820,8 @@
     <UserData Name="" NickName="sosiomartino@icloud.com" Paypal="sossiomartino@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ADL-Evoque_ADH-BFEBFBFF000906A3-5480C8AC-847B577664CF" UniqueIdSha512="QURMLUV2b3F1ZV9BREgtQkZFQkZCRkYwMDA5MDZBMy01NDgwQzhBQy04NDdCNTc3NjY0Q0YtRTgyM184RkE2X0JGNTNfMDAwMV8wMDFCXzQ0OEJfNDEyQ19GNUJCLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance:206218134, Discord:ranger322" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Intel Corporation-440BX Desktop Reference Platform-1F8BFBFF000306F2-6AC664CE-000C29C0DC23" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tNDQwQlggRGVza3RvcCBSZWZlcmVuY2UgUGxhdGZvcm0tMUY4QkZCRkYwMDAzMDZGMi02QUM2NjRDRS0wMDBDMjlDMERDMjMtVk1XYXJlIE5WTUVfMDAwMF8wMDAwMDAwMS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
