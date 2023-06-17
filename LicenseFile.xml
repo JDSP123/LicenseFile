@@ -1804,4 +1804,8 @@
     <UserData Name="" NickName="" Paypal="al_mooog101@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z390 AORUS XTREME-CF-BFEBFBFF000906ED-766088B6-B42E99374108" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjM5MCBBT1JVUyBYVFJFTUUtQ0YtQkZFQkZCRkYwMDA5MDZFRC03NjYwODhCNi1CNDJFOTkzNzQxMDgtMDAyNV8zODU4XzkxQjBfOENCMi4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance:449446282, Discord:Rostyslav#3813" Paypal="r0st20slav1998@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="FUJITSU-D3171-A1-BFEBFBFF000306A9-12846CDF-00158AA9576E" UniqueIdSha512="RlVKSVRTVS1EMzE3MS1BMS1CRkVCRkJGRjAwMDMwNkE5LTEyODQ2Q0RGLTAwMTU4QUE5NTc2RS1KQUpTMzAwMjQwMjAwODAwMzkzUA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
