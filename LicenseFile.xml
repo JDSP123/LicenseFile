@@ -1808,4 +1808,8 @@
     <UserData Name="" NickName="Binance:449446282, Discord:Rostyslav#3813" Paypal="r0st20slav1998@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="FUJITSU-D3171-A1-BFEBFBFF000306A9-12846CDF-00158AA9576E" UniqueIdSha512="RlVKSVRTVS1EMzE3MS1BMS1CRkVCRkJGRjAwMDMwNkE5LTEyODQ2Q0RGLTAwMTU4QUE5NTc2RS1KQUpTMzAwMjQwMjAwODAwMzkzUA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: ninjamoney" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK Computer Inc.-N53SV-BFEBFBFF000206A7-3414D0DF-020385956D2C" UniqueIdSha512="QVNVU1RlSyBDb21wdXRlciBJbmMuLU41M1NWLUJGRUJGQkZGMDAwMjA2QTctMzQxNEQwREYtMDIwMzg1OTU2RDJDLTIwNDJFNEI4RjYzMQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
