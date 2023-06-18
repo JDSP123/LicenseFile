@@ -1840,4 +1840,12 @@
     <UserData Name="" NickName="Funpay: missblack" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-A320M-HDV-178BFBFF00810F10-F60FEEC9-7085C284AB75" UniqueIdSha512="QVNSb2NrLUEzMjBNLUhEVi0xNzhCRkJGRjAwODEwRjEwLUY2MEZFRUM5LTcwODVDMjg0QUI3NS0xODI4OTM4MDI5NTM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="xavier.ledu1@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX Z790-A GAMING WIFI D4-BFEBFBFF000B0671-0255A78B-A036BCADF69F" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBaNzkwLUEgR0FNSU5HIFdJRkkgRDQtQkZFQkZCRkYwMDBCMDY3MS0wMjU1QTc4Qi1BMDM2QkNBREY2OUYtMDAyNV8zOEJBXzIxQTVfMjdCOS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="iamlola1234@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="HP-83B2-BFEBFBFF000806EA-C4B79AC3-A0A4C5EEEF6C" UniqueIdSha512="SFAtODNCMi1CRkVCRkJGRjAwMDgwNkVBLUM0Qjc5QUMzLUEwQTRDNUVFRUY2Qy0wMDI1XzM4OEFfODFCOV83NEUyLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
