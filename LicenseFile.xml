@@ -1848,4 +1848,8 @@
     <UserData Name="" NickName="" Paypal="iamlola1234@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="HP-83B2-BFEBFBFF000806EA-C4B79AC3-A0A4C5EEEF6C" UniqueIdSha512="SFAtODNCMi1CRkVCRkJGRjAwMDgwNkVBLUM0Qjc5QUMzLUEwQTRDNUVFRUY2Qy0wMDI1XzM4OEFfODFCOV83NEUyLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Viktor31" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-H81M-K-BFEBFBFF000306C3-94DC8098-AC9E17B378DA" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUg4MU0tSy1CRkVCRkJGRjAwMDMwNkMzLTk0REM4MDk4LUFDOUUxN0IzNzhEQS0xMUVGMDcwQTFCRjAwMDEwMTIwMw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>  
 </UserList>
