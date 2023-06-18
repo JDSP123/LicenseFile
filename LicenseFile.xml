@@ -1824,4 +1824,16 @@
     <UserData Name="" NickName="Binance:206218134, Discord:ranger322" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Intel Corporation-440BX Desktop Reference Platform-1F8BFBFF000306F2-6AC664CE-000C29C0DC23" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tNDQwQlggRGVza3RvcCBSZWZlcmVuY2UgUGxhdGZvcm0tMUY4QkZCRkYwMDAzMDZGMi02QUM2NjRDRS0wMDBDMjlDMERDMjMtVk1XYXJlIE5WTUVfMDAwMF8wMDAwMDAwMS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="MANUEh#7995" Paypal="manusimplemente@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX B450-E GAMING-178BFBFF00870F10-E2299446-049226C30452" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBCNDUwLUUgR0FNSU5HLTE3OEJGQkZGMDA4NzBGMTAtRTIyOTk0NDYtMDQ5MjI2QzMwNDUyLTUwMDI2Qjc3ODJCOEJFOUQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="delavaud.bruno@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450 Steel Legend-178BFBFF00870F10-16635D80-7085C297D709" UniqueIdSha512="QVNSb2NrLUI0NTAgU3RlZWwgTGVnZW5kLTE3OEJGQkZGMDA4NzBGMTAtMTY2MzVEODAtNzA4NUMyOTdENzA5LTUwMDI2Qjc3NDcwMkVGMTg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="m93170@live.Fr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Dell Inc.-0NWP76-BFEBFBFF000A0652-46F20EEC-4C796EC6787A" UniqueIdSha512="RGVsbCBJbmMuLTBOV1A3Ni1CRkVCRkJGRjAwMEEwNjUyLTQ2RjIwRUVDLTRDNzk2RUM2Nzg3QS1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ4Ql80OEQyXzYyQjEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
