@@ -1836,4 +1836,8 @@
     <UserData Name="" NickName="" Paypal="m93170@live.Fr" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Dell Inc.-0NWP76-BFEBFBFF000A0652-46F20EEC-4C796EC6787A" UniqueIdSha512="RGVsbCBJbmMuLTBOV1A3Ni1CRkVCRkJGRjAwMEEwNjUyLTQ2RjIwRUVDLTRDNzk2RUM2Nzg3QS1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ4Ql80OEQyXzYyQjEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: missblack" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-A320M-HDV-178BFBFF00810F10-F60FEEC9-7085C284AB75" UniqueIdSha512="QVNSb2NrLUEzMjBNLUhEVi0xNzhCRkJGRjAwODEwRjEwLUY2MEZFRUM5LTcwODVDMjg0QUI3NS0xODI4OTM4MDI5NTM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
