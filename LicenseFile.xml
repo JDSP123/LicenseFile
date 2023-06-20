@@ -1896,4 +1896,8 @@
     <UserData Name="" NickName="" Paypal="parabakas8101@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Default string-Default string-BFEBFBFF000B06E0-08E0544F-681DEF31C43C" UniqueIdSha512="RGVmYXVsdCBzdHJpbmctRGVmYXVsdCBzdHJpbmctQkZFQkZCRkYwMDBCMDZFMC0wOEUwNTQ0Ri02ODFERUYzMUM0M0MtRkQ1MTIxMjMzMTAwNjgw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="goidam.gaming@gmail.com" Paypal="madioguediawara@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK Computer INC.-P8P67-BFEBFBFF000206A7-EECD3FB8-F46D049D53D5" UniqueIdSha512="QVNVU1RlSyBDb21wdXRlciBJTkMuLVA4UDY3LUJGRUJGQkZGMDAwMjA2QTctRUVDRDNGQjgtRjQ2RDA0OUQ1M0Q1LVMyMVBOU0FGQzUzNzgzUA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
