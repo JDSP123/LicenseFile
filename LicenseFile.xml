@@ -1861,8 +1861,8 @@
     <LicenceData ActivationData="2023-06-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd-B450 TOMAHAWK (MS-7C02)-178BFBFF00800F82-92B10FE8-00D861368E6F" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLUI0NTAgVE9NQUhBV0sgKE1TLTdDMDIpLTE3OEJGQkZGMDA4MDBGODItOTJCMTBGRTgtMDBEODYxMzY4RTZGLVMyNDZKOUNaOTEwMzQ2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
     <!-- Aion Classic NA/EU Temporal activation--> 
-    <UserData Name="" NickName="" Paypal="alexeyn87.an@gmail.com">
-    <LicenceData ActivationData="2023-06-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B450M PRO-M2 MAX (MS-7B84)-178BFBFF00810F81-80E69C83-2CF05D258714" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDUwTSBQUk8tTTIgTUFYIChNUy03Qjg0KS0xNzhCRkJGRjAwODEwRjgxLTgwRTY5QzgzLTJDRjA1RDI1ODcxNC02NDc5X0E3NkVfN0EzMF85QkZCLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+    <UserData Name="" NickName="" Paypal="alexeyn87.an@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-20 14:40:52,531" LicenseDurationDay="12" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B450M PRO-M2 MAX (MS-7B84)-178BFBFF00810F81-80E69C83-2CF05D258714" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDUwTSBQUk8tTTIgTUFYIChNUy03Qjg0KS0xNzhCRkJGRjAwODEwRjgxLTgwRTY5QzgzLTJDRjA1RDI1ODcxNC02NDc5X0E3NkVfN0EzMF85QkZCLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
     <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="inessaismyname@gmail.com" Paypal="adas@inetforbnet.ru" AionServer="AionClassic">
