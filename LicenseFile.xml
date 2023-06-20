@@ -1900,4 +1900,8 @@
     <UserData Name="" NickName="goidam.gaming@gmail.com" Paypal="madioguediawara@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK Computer INC.-P8P67-BFEBFBFF000206A7-EECD3FB8-F46D049D53D5" UniqueIdSha512="QVNVU1RlSyBDb21wdXRlciBJTkMuLVA4UDY3LUJGRUJGQkZGMDAwMjA2QTctRUVDRDNGQjgtRjQ2RDA0OUQ1M0Q1LVMyMVBOU0FGQzUzNzgzUA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="patricia.seabra.marcao@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-20 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-H81-GAMER-BFEBFBFF000306C3-CE1E6D70-9C5C8E92D7F9" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUg4MS1HQU1FUi1CRkVCRkJGRjAwMDMwNkMzLUNFMUU2RDcwLTlDNUM4RTkyRDdGOS0gICAgICAgICAgIFk1RUJENVJGUw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
