@@ -1904,4 +1904,8 @@
     <UserData Name="" NickName="" Paypal="patricia.seabra.marcao@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-20 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-H81-GAMER-BFEBFBFF000306C3-CE1E6D70-9C5C8E92D7F9" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUg4MS1HQU1FUi1CRkVCRkJGRjAwMDMwNkMzLUNFMUU2RDcwLTlDNUM4RTkyRDdGOS0gICAgICAgICAgIFk1RUJENVJGUw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="rokudaimeaion@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-20 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="LENOVO-Lancer 4A1-BFEBFBFF000306D4-3A6E1FD8-641C677DCB76" UniqueIdSha512="TEVOT1ZPLUxhbmNlciA0QTEtQkZFQkZCRkYwMDAzMDZENC0zQTZFMUZEOC02NDFDNjc3RENCNzYtSEJTQTIwMDMxMjA2OTE4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
