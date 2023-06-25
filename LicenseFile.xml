@@ -1948,4 +1948,8 @@
     <UserData Name="" NickName="" Paypal="x_demetriou28@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-Z490 Phantom Gaming 4-BFEBFBFF000A0653-24855F0F-A8A15924DCAC" UniqueIdSha512="QVNSb2NrLVo0OTAgUGhhbnRvbSBHYW1pbmcgNC1CRkVCRkJGRjAwMEEwNjUzLTI0ODU1RjBGLUE4QTE1OTI0RENBQy0wMTAwXzAwMDBfMDAwMF8wMDAwLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: daemer" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-X570 UD-178BFBFF00870F10-E0E9FB12-B42E9982BC99" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWDU3MCBVRC0xNzhCRkJGRjAwODcwRjEwLUUwRTlGQjEyLUI0MkU5OTgyQkM5OS0wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMjZfQjc2OF81NUIwXzY0MjUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
