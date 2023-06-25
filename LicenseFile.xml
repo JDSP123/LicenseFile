@@ -1964,4 +1964,8 @@
     <UserData Name="" NickName="Funpay: NAMANA1" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="GIGABYTE-AORUS 17G YC-BFEBFBFF000A0652-58CA64BC-00C0CA97A85F" UniqueIdSha512="R0lHQUJZVEUtQU9SVVMgMTdHIFlDLUJGRUJGQkZGMDAwQTA2NTItNThDQTY0QkMtMDBDMENBOTdBODVGLTJMMDIyTDJOQTJSNyAgICAgICAgXzAwMDAwMDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance:732467589, Discord:notentai" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z790-A WIFI-BFEBFBFF000B0671-E6D5AE33-00E04C1F9E1A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFo3OTAtQSBXSUZJLUJGRUJGQkZGMDAwQjA2NzEtRTZENUFFMzMtMDBFMDRDMUY5RTFBLTUwMDI2Qjc2ODJBNjhFRDg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
