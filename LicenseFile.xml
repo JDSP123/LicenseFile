@@ -1924,4 +1924,24 @@
     <UserData Name="" NickName="Funpay: ZigQ" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-M5A97 R2.0-178BFBFF00600F20-64E93046-7824AFD8C95E" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLU01QTk3IFIyLjAtMTc4QkZCRkYwMDYwMEYyMC02NEU5MzA0Ni03ODI0QUZEOEM5NUUtICAgICAgICAgICAgNlJZMlNQWEU" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="jburggraaf@protonmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRockRack-X470D4U2-2T-178BFBFF00A20F12-F09B3694-D05099FD8F84" UniqueIdSha512="QVNSb2NrUmFjay1YNDcwRDRVMi0yVC0xNzhCRkJGRjAwQTIwRjEyLUYwOUIzNjk0LUQwNTA5OUZEOEY4NC0zNDMzXzM3MzBfNTQ2MF8wOTkzXzAwMjVfMzg0M18wMDAwXzAwMDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="dmitriykrivonog@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-178BFBFF00A50F00-C42E9AB5-3A75CA8E2694" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LTE3OEJGQkZGMDBBNTBGMDAtQzQyRTlBQjUtM0E3NUNBOEUyNjk0LTAwMjVfMzhEMl8yMUIwXzI0QUEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="kevin9499@laposte.net" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z270 GAMING PRO (MS-7A59)-BFEBFBFF000906E9-7469EDA2-005056C00008" UniqueIdSha512="TVNJLVoyNzAgR0FNSU5HIFBSTyAoTVMtN0E1OSktQkZFQkZCRkYwMDA5MDZFOS03NDY5RURBMi0wMDUwNTZDMDAwMDgtUzJSNk5YQUgyNjYwOTFI" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="dmitriykrivonog@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-FX506HCB-BFEBFBFF000806D1-68F04683-346F240CEF1F" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUZYNTA2SENCLUJGRUJGQkZGMDAwODA2RDEtNjhGMDQ2ODMtMzQ2RjI0MENFRjFGLTAwMDBfMDAwMF8wMTAwXzAwMDBfRTREMl81QzhFX0U2OTlfNTQwMS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+    <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="giovanni.4story@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-Z370 KRAIT GAMING (MS-7B46)-BFEBFBFF000906EA-4A9BA494-309C238AE993" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1aMzcwIEtSQUlUIEdBTUlORyAoTVMtN0I0NiktQkZFQkZCRkYwMDA5MDZFQS00QTlCQTQ5NC0zMDlDMjM4QUU5OTMtMjIxNUU2MjYxNDcx" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
