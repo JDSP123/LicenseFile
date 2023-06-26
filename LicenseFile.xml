@@ -2048,4 +2048,8 @@
     <UserData Name="" NickName="Funpay: MrFreeFreeFree" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99-TF GAMING-BFEBFBFF000306F2-5CFF0149-1A12535F86C7" UniqueIdSha512="SFVBTkFOWkhJLVg5OS1URiBHQU1JTkctQkZFQkZCRkYwMDAzMDZGMi01Q0ZGMDE0OS0xQTEyNTM1Rjg2QzctMk0zNjJMQTc5TlVZ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="nikitasalexiss@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B450 GAMING PRO CARBON MAX WIFI (MS-7B85)-178BFBFF00870F10-A41D58F8-0050B60EC5E9" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDUwIEdBTUlORyBQUk8gQ0FSQk9OIE1BWCBXSUZJIChNUy03Qjg1KS0xNzhCRkJGRjAwODcwRjEwLUE0MUQ1OEY4LTAwNTBCNjBFQzVFOS1TMzNDTlgwSjQwNTkyMVg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
