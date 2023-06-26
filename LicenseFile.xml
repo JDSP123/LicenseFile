@@ -2044,4 +2044,8 @@
     <UserData Name="" NickName="" Paypal="ivasyuk25@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-GA-78LMT-USB3-178BFBFF00600F12-18C63FD3-902B34AFEEB0" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tR0EtNzhMTVQtVVNCMy0xNzhCRkJGRjAwNjAwRjEyLTE4QzYzRkQzLTkwMkIzNEFGRUVCMC0xNzQ4ODE4MDM1NDg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: MrFreeFreeFree" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99-TF GAMING-BFEBFBFF000306F2-5CFF0149-1A12535F86C7" UniqueIdSha512="SFVBTkFOWkhJLVg5OS1URiBHQU1JTkctQkZFQkZCRkYwMDAzMDZGMi01Q0ZGMDE0OS0xQTEyNTM1Rjg2QzctMk0zNjJMQTc5TlVZ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
