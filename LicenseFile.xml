@@ -2016,4 +2016,12 @@
     <UserData Name="" NickName="" Paypal="martin.pierret@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="GIGABYTE-AORUS 15 XE5-BFEBFBFF000906A3-6EBC9DC5-70CD0DA4554C" UniqueIdSha512="R0lHQUJZVEUtQU9SVVMgMTUgWEU1LUJGRUJGQkZGMDAwOTA2QTMtNkVCQzlEQzUtNzBDRDBEQTQ1NTRDLTY0NzlfQTc1RV9GQTMwXzVDRjIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: nfq" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-P8H61-M LX3 R2.0-BFEBFBFF000306A9-52A36087-50465D6F8ADF" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVA4SDYxLU0gTFgzIFIyLjAtQkZFQkZCRkYwMDAzMDZBOS01MkEzNjA4Ny01MDQ2NUQ2RjhBREYtICAgICAgSlAyOTQwTjEwWFhUMFY" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: GoldCwh" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Intel-X99H-BFEBFBFF000306F2-0A3BA503-00E04F1771C5" UniqueIdSha512="SW50ZWwtWDk5SC1CRkVCRkJGRjAwMDMwNkYyLTBBM0JBNTAzLTAwRTA0RjE3NzFDNS0wMDAwXzAwMDBfMDAwMF8wMDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
