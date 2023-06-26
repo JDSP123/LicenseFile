@@ -2056,4 +2056,8 @@
     <UserData Name="" NickName="Funpay: raDostb1" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-17L4-BFEBFBFF000906A3-84D6854A-F4C88AAF2FB2" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xN0w0LUJGRUJGQkZGMDAwOTA2QTMtODRENjg1NEEtRjRDODhBQUYyRkIyLTAwMDBfMDAwMF8wMDAwXzAwMDFfMDBBMF83NTIyXzNDRkZfQkZCQy4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="funexpert123@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-970A-DS3P-178BFBFF00600F20-4E5956DF-1C1B0DD4D803" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tOTcwQS1EUzNQLTE3OEJGQkZGMDA2MDBGMjAtNEU1OTU2REYtMUMxQjBERDREODAzLTUwMDI2Qjc3NkIwMUI2NTE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
