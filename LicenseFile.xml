@@ -2000,4 +2000,8 @@
     <UserData Name="" NickName="" Paypal="paulart2013@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-25 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Asus Corporation-asus strix x399-e gaming-1F8BFBFFB2DDFDF7-06A1AF74-C09879AE03DF" UniqueIdSha512="QXN1cyBDb3Jwb3JhdGlvbi1hc3VzIHN0cml4IHgzOTktZSBnYW1pbmctMUY4QkZCRkZCMkRERkRGNy0wNkExQUY3NC1DMDk4NzlBRTAzREYtYjJmMGFmNGNmNDhjZWVmYmZkMDNhODg0YzY0NzhhNTA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+      <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="justevilvaet@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z170M-D3H-CF-BFEBFBFF000506E3-DAF1FEEE-9CA2F469041A" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjE3ME0tRDNILUNGLUJGRUJGQkZGMDAwNTA2RTMtREFGMUZFRUUtOUNBMkY0NjkwNDFBLUNWREE0MzM0MDFIRzEyMDdHTg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
