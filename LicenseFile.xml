@@ -2068,4 +2068,12 @@
     <UserData Name="" NickName="" Paypal="daniele.sinese92@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd-B450 TOMAHAWK MAX (MS-7C02)-178BFBFF00870F10-0EFB617C-00D861C1147A" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLUI0NTAgVE9NQUhBV0sgTUFYIChNUy03QzAyKS0xNzhCRkJGRjAwODcwRjEwLTBFRkI2MTdDLTAwRDg2MUMxMTQ3QS0xOTQyRTIyM0I4Rjk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="1287868760@qq.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="JGINYUE-X99M-PRO D4-BFEBFBFF000406F1-8A778482-22164D0121FB" UniqueIdSha512="SkdJTllVRS1YOTlNLVBSTyBENC1CRkVCRkJGRjAwMDQwNkYxLThBNzc4NDgyLTIyMTY0RDAxMjFGQi1BNDI4X0I3MDJfRTlBNV8wMDgxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="junio_nba@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="INTEL Corporation-H61-BFEBFBFF000306A9-E64E2FBB-00E04C3391B2" UniqueIdSha512="SU5URUwgQ29ycG9yYXRpb24tSDYxLUJGRUJGQkZGMDAwMzA2QTktRTY0RTJGQkItMDBFMDRDMzM5MUIyLVlTMjAyMDEwMDEzODczQUE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
