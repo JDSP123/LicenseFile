@@ -2076,4 +2076,8 @@
     <UserData Name="" NickName="" Paypal="junio_nba@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="INTEL Corporation-H61-BFEBFBFF000306A9-E64E2FBB-00E04C3391B2" UniqueIdSha512="SU5URUwgQ29ycG9yYXRpb24tSDYxLUJGRUJGQkZGMDAwMzA2QTktRTY0RTJGQkItMDBFMDRDMzM5MUIyLVlTMjAyMDEwMDEzODczQUE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance: 474559690" Paypal="denisk8754@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z390-A-BFEBFBFF000906ED-2449A64F-A85E45E3C2B7" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFozOTAtQS1CRkVCRkJGRjAwMDkwNkVELTI0NDlBNjRGLUE4NUU0NUUzQzJCNy1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ4Ql80NTdGXzkyRTQu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
