@@ -2013,7 +2013,7 @@
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-Z690 Steel Legend-BFEBFBFF00090672-46960879-0024F8BF8000" UniqueIdSha512="QVNSb2NrLVo2OTAgU3RlZWwgTGVnZW5kLUJGRUJGQkZGMDAwOTA2NzItNDY5NjA4NzktMDAyNEY4QkY4MDAwLUFSQ0hJVk9T" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation--> 
-    <UserData Name="" NickName="" Paypal="martin.pierret@hotmail.com" AionServer="AionClassic">
+    <UserData Name="" NickName="Discord: Shiver" Paypal="martin.pierret@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="GIGABYTE-AORUS 15 XE5-BFEBFBFF000906A3-6EBC9DC5-70CD0DA4554C" UniqueIdSha512="R0lHQUJZVEUtQU9SVVMgMTUgWEU1LUJGRUJGQkZGMDAwOTA2QTMtNkVCQzlEQzUtNzBDRDBEQTQ1NTRDLTY0NzlfQTc1RV9GQTMwXzVDRjIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation--> 
@@ -2023,5 +2023,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: GoldCwh" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Intel-X99H-BFEBFBFF000306F2-0A3BA503-00E04F1771C5" UniqueIdSha512="SW50ZWwtWDk5SC1CRkVCRkJGRjAwMDMwNkYyLTBBM0JBNTAzLTAwRTA0RjE3NzFDNS0wMDAwXzAwMDBfMDAwMF8wMDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="sucker-candy@hotmail.fr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-Z170-A-BFEBFBFF000506E3-60B015E8-02317F751F6A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVoxNzAtQS1CRkVCRkJGRjAwMDUwNkUzLTYwQjAxNUU4LTAyMzE3Rjc1MUY2QS0gICAgIFdELVdNQzZZMEY2NThMTg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
 </UserList>
