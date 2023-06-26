@@ -2080,4 +2080,16 @@
     <UserData Name="" NickName="Binance: 474559690" Paypal="denisk8754@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z390-A-BFEBFBFF000906ED-2449A64F-A85E45E3C2B7" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFozOTAtQS1CRkVCRkJGRjAwMDkwNkVELTI0NDlBNjRGLUE4NUU0NUUzQzJCNy1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ4Ql80NTdGXzkyRTQu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="sossiomartino@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-PRO Z790-P WIFI (MS-7E06)-BFEBFBFF000B0671-C2AD5BCE-047C1649B36B" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1QUk8gWjc5MC1QIFdJRkkgKE1TLTdFMDYpLUJGRUJGQkZGMDAwQjA2NzEtQzJBRDVCQ0UtMDQ3QzE2NDlCMzZCLTY0NzlfQTc2RF8zRjAwX0YyQzIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="alexandros.stratos1@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-X470 GAMING PRO CARBON (MS-7B78)-178BFBFF00800F82-3E9D6DC3-309C23D6B3F7" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1YNDcwIEdBTUlORyBQUk8gQ0FSQk9OIChNUy03Qjc4KS0xNzhCRkJGRjAwODAwRjgyLTNFOUQ2REMzLTMwOUMyM0Q2QjNGNy0gICAgICAgICAgICBaRFoyWVlLQQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="nook93ukr@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="To be filled by O.E.M.-Intel X79-BFEBFBFF000306E4-64604FAC-00E04C78660B" UniqueIdSha512="VG8gYmUgZmlsbGVkIGJ5IE8uRS5NLi1JbnRlbCBYNzktQkZFQkZCRkYwMDAzMDZFNC02NDYwNEZBQy0wMEUwNEM3ODY2MEItMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDI2X0I3NjhfNUZDQ184Mjc1Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
