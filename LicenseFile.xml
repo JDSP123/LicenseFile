@@ -2100,4 +2100,8 @@
     <UserData Name="" NickName="chevio.chase@gmail.com" Paypal="Michael.ziehm1988@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-28 14:40:52,531" LicenseDurationDay="95" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B350-PLUS-178BFBFF00800F11-08F9AFD2-107B444DAE0C" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEIzNTAtUExVUy0xNzhCRkJGRjAwODAwRjExLTA4RjlBRkQyLTEwN0I0NDREQUUwQy0gICAgICAgICAgICBaOUFEQTQ1Rg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: GoldCwh" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-29 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H410M H V3-BFEBFBFF000A0653-5C2C1FD3-022106E51697" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDQxME0gSCBWMy1CRkVCRkJGRjAwMEEwNjUzLTVDMkMxRkQzLTAyMjEwNkU1MTY5Ny0wMEEwXzc1NjBfRTAwMF8wMDFBLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 </UserList>
