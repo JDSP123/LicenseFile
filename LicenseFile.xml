@@ -2106,6 +2106,6 @@
   </UserData>
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="adelsonmagos@gmail.com" AionServer="AionClassic">
-    <LicenceData ActivationData="2023-06-29 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H410M H-BFEBFBFF000A0653-F46FC145-D85ED3F19E01" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDQxME0gSC1CRkVCRkJGRjAwMEEwNjUzLUY0NkZDMTQ1LUQ4NUVEM0YxOUUwMS0gICAgIFdELVdDQzFVMTg5NjUzNw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+    <LicenceData ActivationData="2023-06-29 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H410M H-BFEBFBFF000A0653-305F45B4-D85ED3F19E01" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDQxME0gSC1CRkVCRkJGRjAwMEEwNjUzLTMwNUY0NUI0LUQ4NUVEM0YxOUUwMS0gICAgIFdELVdDQzFVMTg5NjUzNw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
 </UserList>
