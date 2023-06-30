@@ -2123,5 +2123,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="mscesny2@rochester.rr.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-06-26 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-09M8Y8-BFEBFBFF000306E4-D0D428D6-9890969A0C10" UniqueIdSha512="RGVsbCBJbmMuLTA5TThZOC1CRkVCRkJGRjAwMDMwNkU0LUQwRDQyOEQ2LTk4OTA5NjlBMEMxMC1FMjAyMTEwMTkwMDIwMzk1" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData> 
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="liujunting91@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-30 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-SABERTOOTH Z77-BFEBFBFF000306A9-92AF2046-60A44C52395B" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVNBQkVSVE9PVEggWjc3LUJGRUJGQkZGMDAwMzA2QTktOTJBRjIwNDYtNjBBNDRDNTIzOTVCLSAgICAgV0QtV01DMVMzMDA0MjI1" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="BlakeP843@yahoo.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-06-30 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-X570 Phantom Gaming 4S-178BFBFF00A20F10-D4C4FFDB-A8A1593225FB" UniqueIdSha512="QVNSb2NrLVg1NzAgUGhhbnRvbSBHYW1pbmcgNFMtMTc4QkZCRkYwMEEyMEYxMC1ENEM0RkZEQi1BOEExNTkzMjI1RkItRTgyM184RkE2X0JGNTNfMDAwMV8wMDFCXzQ0OEJfNDg2QV85REIzLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>  
 </UserList>
