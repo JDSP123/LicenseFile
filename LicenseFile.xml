@@ -2143,5 +2143,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="d.medziul@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-01 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-FX707ZM-BFEBFBFF000906A3-98A82395-50EBF6E6DA4D" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUZYNzA3Wk0tQkZFQkZCRkYwMDA5MDZBMy05OEE4MjM5NS01MEVCRjZFNkRBNEQtMDAwMF8wMDAwXzAxMDBfMDAwMF9FNEQyXzVDQ0ZfNDRGQl81NDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>    
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="katerina.manitsa19@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-01 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MS-1763-BFEBFBFF000306C3-DA52F45B-8C89A50E1CA0" UniqueIdSha512="TVMtMTc2My1CRkVCRkJGRjAwMDMwNkMzLURBNTJGNDVCLThDODlBNTBFMUNBMC01MDAyNkI3MjQxMERDNkMx" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>     
 </UserList>
