@@ -2135,5 +2135,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="ppalarid@gmail.com">
     <LicenceData ActivationData="2023-07-01 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-A520M-A PRO (MS-7C96)-178BFBFF00A50F00-C45C2E45-047C164A6A76" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1BNTIwTS1BIFBSTyAoTVMtN0M5NiktMTc4QkZCRkYwMEE1MEYwMC1DNDVDMkU0NS0wNDdDMTY0QTZBNzYtMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDI2X0I3NzhfNTAyNl9BNzk1Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="Imbalance.get@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-01 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG MAXIMUS XI CODE-BFEBFBFF000906EC-786A2483-645D8667993B" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBNQVhJTVVTIFhJIENPREUtQkZFQkZCRkYwMDA5MDZFQy03ODZBMjQ4My02NDVEODY2Nzk5M0ItMDAyNV8zODUyXzkxNTBfM0YxMy4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>   
 </UserList>
