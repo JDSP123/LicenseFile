@@ -2139,5 +2139,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="Imbalance.get@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-01 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG MAXIMUS XI CODE-BFEBFBFF000906EC-786A2483-645D8667993B" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBNQVhJTVVTIFhJIENPREUtQkZFQkZCRkYwMDA5MDZFQy03ODZBMjQ4My02NDVEODY2Nzk5M0ItMDAyNV8zODUyXzkxNTBfM0YxMy4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>   
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="d.medziul@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-01 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-FX707ZM-BFEBFBFF000906A3-98A82395-50EBF6E6DA4D" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUZYNzA3Wk0tQkZFQkZCRkYwMDA5MDZBMy05OEE4MjM5NS01MEVCRjZFNkRBNEQtMDAwMF8wMDAwXzAxMDBfMDAwMF9FNEQyXzVDQ0ZfNDRGQl81NDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>    
 </UserList>
