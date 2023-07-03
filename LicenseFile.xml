@@ -2243,5 +2243,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Binance:448316341, Discord:Sib" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-16R3-BFEBFBFF000906EA-5AABFF12-00D861E17972" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xNlIzLUJGRUJGQkZGMDAwOTA2RUEtNUFBQkZGMTItMDBEODYxRTE3OTcyLTAwMDhfMEQwNF8wMEI1XzlGOEEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="ziggsbox@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-03 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX Z370-G GAMING-BFEBFBFF000906EA-02492179-2CFDA15D4632" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBaMzcwLUcgR0FNSU5HLUJGRUJGQkZGMDAwOTA2RUEtMDI0OTIxNzktMkNGREExNUQ0NjMyLSAgICAgICAgICAgIFo0WkFQTTNW" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>         
 </UserList>
