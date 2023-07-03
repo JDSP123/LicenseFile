@@ -2235,5 +2235,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="eduardoaether5@gmail.com" Paypal="eduardolopes_bg@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450M Steel Legend-178BFBFF00870F10-0EF1D906-A8A1594C6488" UniqueIdSha512="QVNSb2NrLUI0NTBNIFN0ZWVsIExlZ2VuZC0xNzhCRkJGRjAwODcwRjEwLTBFRjFEOTA2LUE4QTE1OTRDNjQ4OC0wMDAwXzAwMDBfMDAwMF8wMDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="chr.behrens.1@web.de" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-03 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z77A-G41 (MS-7758)-BFEBFBFF000306A9-A02C6974-D43D7E280D5B" UniqueIdSha512="TVNJLVo3N0EtRzQxIChNUy03NzU4KS1CRkVCRkJGRjAwMDMwNkE5LUEwMkM2OTc0LUQ0M0Q3RTI4MEQ1Qi0DMA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>         
 </UserList>
