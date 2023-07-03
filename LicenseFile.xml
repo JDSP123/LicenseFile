@@ -2203,5 +2203,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="1287868760@qq.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-02 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Colorful-CVN B660M GAMING FROZEN V20-1F8BFBFF000406F1-897B35A8-0012C82F8445" UniqueIdSha512="Q29sb3JmdWwtQ1ZOIEI2NjBNIEdBTUlORyBGUk9aRU4gVjIwLTFGOEJGQkZGMDAwNDA2RjEtODk3QjM1QTgtMDAxMkM4MkY4NDQ1LTAwRkY3NUJCMjVBM0M0MzA2MkFE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation Activating a trial for the missing subscription to prevent paypal issues--> 
+    <UserData Name="" NickName="" Paypal="156233304@qq.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-03 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Colorful-CVN B660M GAMING FROZEN V20-1F8BFBFF000406F1-D372B18D-00212558DBF8" UniqueIdSha512="Q29sb3JmdWwtQ1ZOIEI2NjBNIEdBTUlORyBGUk9aRU4gVjIwLTFGOEJGQkZGMDAwNDA2RjEtRDM3MkIxOEQtMDAyMTI1NThEQkY4LTAwRkY3NUJCMjVBM0M0MzA2MkFE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>       
 </UserList>
