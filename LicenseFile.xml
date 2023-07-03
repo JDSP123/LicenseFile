@@ -2255,5 +2255,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="Jemelkaalen@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-03 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="LENOVO-3704-BFEBFBFF000906EA-443D63F7-98EECBC9E0C6" UniqueIdSha512="TEVOT1ZPLTM3MDQtQkZFQkZCRkYwMDA5MDZFQS00NDNENjNGNy05OEVFQ0JDOUUwQzYtMDQ0QV81MDEwXzQxNDNfQkEwQ181MDRBXzA0MENfMDAwMF8wMDAwLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="mylovesweety@outlook.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASRock-B760M-HDV/M.2 D4-BFEBFBFF00090675-FEACD793-A8A159F5CEAA" UniqueIdSha512="QVNSb2NrLUI3NjBNLUhEVi9NLjIgRDQtQkZFQkZCRkYwMDA5MDY3NS1GRUFDRDc5My1BOEExNTlGNUNFQUEtWVRBTDIzMDMwMDA3OA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>         
 </UserList>
