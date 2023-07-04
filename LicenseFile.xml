@@ -2260,7 +2260,7 @@
     <UserData Name="" NickName="" Paypal="mylovesweety@outlook.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASRock-B760M-HDV/M.2 D4-BFEBFBFF00090675-FEACD793-A8A159F5CEAA" UniqueIdSha512="QVNSb2NrLUI3NjBNLUhEVi9NLjIgRDQtQkZFQkZCRkYwMDA5MDY3NS1GRUFDRDc5My1BOEExNTlGNUNFQUEtWVRBTDIzMDMwMDA3OA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
-  <!-- Aion Classic NA/EU Temporal activation--> 
+  <!-- Aion Classic NA/EU Temporal activation Waiting For Unique ID change--> 
     <UserData Name="" NickName="" Paypal="fehrat69@live.fr" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Intel Corporation-440BX Desktop Reference Platform-178BFBFF00800F82-76DEF88A-000C2953CF97" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tNDQwQlggRGVza3RvcCBSZWZlcmVuY2UgUGxhdGZvcm0tMTc4QkZCRkYwMDgwMEY4Mi03NkRFRjg4QS0wMDBDMjk1M0NGOTctVk1XYXJlIE5WTUVfMDAwMA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>          
