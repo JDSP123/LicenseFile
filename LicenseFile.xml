@@ -2279,5 +2279,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: daemer" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-H110M PRO-D (MS-7996)-BFEBFBFF000906E9-B6C6D142-309C23060653" UniqueIdSha512="TVNJLUgxMTBNIFBSTy1EIChNUy03OTk2KS1CRkVCRkJGRjAwMDkwNkU5LUI2QzZEMTQyLTMwOUMyMzA2MDY1My0yMDAzUzA2MDNBMDAwNDYy" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="angelboypacatos@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z690 AORUS MASTER-BFEBFBFF00090672-F279AFD1-00155D19D7E9" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY5MCBBT1JVUyBNQVNURVItQkZFQkZCRkYwMDA5MDY3Mi1GMjc5QUZEMS0wMDE1NUQxOUQ3RTktNjQ3OV9BNzU3XzAwMjBfMkZFMi4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>             
 </UserList>
