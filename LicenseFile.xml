@@ -2275,5 +2275,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="forkrasnodar23@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="8d6f56ec8be0b56-6ec994ef58d14f6-BFEBFBFF000206A7-08A63DB4-0252C4F39702" UniqueIdSha512="OGQ2ZjU2ZWM4YmUwYjU2LTZlYzk5NGVmNThkMTRmNi1CRkVCRkJGRjAwMDIwNkE3LTA4QTYzREI0LTAyNTJDNEYzOTcwMi03TFowMThYVQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>            
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: daemer" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-H110M PRO-D (MS-7996)-BFEBFBFF000906E9-B6C6D142-309C23060653" UniqueIdSha512="TVNJLUgxMTBNIFBSTy1EIChNUy03OTk2KS1CRkVCRkJGRjAwMDkwNkU5LUI2QzZEMTQyLTMwOUMyMzA2MDY1My0yMDAzUzA2MDNBMDAwNDYy" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>             
 </UserList>
