@@ -2271,5 +2271,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="johannsenjoern@web.de" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Microsoft Corporation-Virtual Machine-0000000000000000-78F48689-00155DB22304" UniqueIdSha512="TWljcm9zb2Z0IENvcnBvcmF0aW9uLVZpcnR1YWwgTWFjaGluZS0wMDAwMDAwMDAwMDAwMDAwLTc4RjQ4Njg5LTAwMTU1REIyMjMwNA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>          
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="forkrasnodar23@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="8d6f56ec8be0b56-6ec994ef58d14f6-BFEBFBFF000206A7-08A63DB4-0252C4F39702" UniqueIdSha512="OGQ2ZjU2ZWM4YmUwYjU2LTZlYzk5NGVmNThkMTRmNi1CRkVCRkJGRjAwMDIwNkE3LTA4QTYzREI0LTAyNTJDNEYzOTcwMi03TFowMThYVQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>            
 </UserList>
