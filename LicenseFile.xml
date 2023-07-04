@@ -2287,5 +2287,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: smashdog" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX B450-F GAMING-178BFBFF00A20F12-C4482426-049226D4214A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBCNDUwLUYgR0FNSU5HLTE3OEJGQkZGMDBBMjBGMTItQzQ0ODI0MjYtMDQ5MjI2RDQyMTRBLSAgICAgV0QtV0NDM0Y3QUxEVlJQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Oldrain" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-04 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-3728-178BFBFF00860F01-DED48FA2-1C697A464F57" UniqueIdSha512="TEVOT1ZPLTM3MjgtMTc4QkZCRkYwMDg2MEYwMS1ERUQ0OEZBMi0xQzY5N0E0NjRGNTctMDAxQ0MwRUMyRjE4QzAzMDU2QjAwNkI3" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>             
 </UserList>
