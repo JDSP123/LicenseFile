@@ -2371,5 +2371,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="Ginopug@protonmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="62" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-1544-BFEBFBFF000906A3-0050E2F6-C4BDE5236342" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xNTQ0LUJGRUJGQkZGMDAwOTA2QTMtMDA1MEUyRjYtQzRCREU1MjM2MzQyLTAwMDBfMDAwMF8wMDAwXzAwMDFfMDBBMF83NTIxXzMyRTRfQzQyRS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance:227657442, Discord:mryesiller" Paypal="gokselspace@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B365M PRO-VH (MS-7C31)-BFEBFBFF000906EA-0A536200-2CF05D6C71F1" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CMzY1TSBQUk8tVkggKE1TLTdDMzEpLUJGRUJGQkZGMDAwOTA2RUEtMEE1MzYyMDAtMkNGMDVENkM3MUYxLTAwMjVfMzg1QV8wMUIyXzg4QzEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                 
 </UserList>
