@@ -2375,5 +2375,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Binance:227657442, Discord:mryesiller" Paypal="gokselspace@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B365M PRO-VH (MS-7C31)-BFEBFBFF000906EA-0A536200-2CF05D6C71F1" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CMzY1TSBQUk8tVkggKE1TLTdDMzEpLUJGRUJGQkZGMDAwOTA2RUEtMEE1MzYyMDAtMkNGMDVENkM3MUYxLTAwMjVfMzg1QV8wMUIyXzg4QzEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: beckks" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99 F8D-BFEBFBFF000306F2-1401C4CB-2005280001AC" UniqueIdSha512="SFVBTkFOWkhJLVg5OSBGOEQtQkZFQkZCRkYwMDAzMDZGMi0xNDAxQzRDQi0yMDA1MjgwMDAxQUMtNjQ3OV9BNzQwX0UwNTBfMEEzOS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                 
 </UserList>
