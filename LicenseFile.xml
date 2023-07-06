@@ -2343,5 +2343,17 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="ramlacamen@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z690 GAMING X DDR4-BFEBFBFF00090672-48E908DB-D85ED3574B3C" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY5MCBHQU1JTkcgWCBERFI0LUJGRUJGQkZGMDAwOTA2NzItNDhFOTA4REItRDg1RUQzNTc0QjNDLTY0NzlfQTc2MF8xMEMwXzA0NTgu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Limecrime" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B450M H-178BFBFF00870F10-A3B4F9CB-0245254825BB" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gSC0xNzhCRkJGRjAwODcwRjEwLUEzQjRGOUNCLTAyNDUyNTQ4MjVCQi1UMjI3MTUyNTUxMkcwMzc3" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Limecrime" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="8d6f56ec8be0b56-6ec994ef58d14f6-BFEBFBFF000206A7-45ED126E-0252C4F39702" UniqueIdSha512="OGQ2ZjU2ZWM4YmUwYjU2LTZlYzk5NGVmNThkMTRmNi1CRkVCRkJGRjAwMDIwNkE3LTQ1RUQxMjZFLTAyNTJDNEYzOTcwMi03TFowMThYVQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Limecrime" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-A320M-DGS-178BFBFF00800F11-1A94F602-7085C2776072" UniqueIdSha512="QVNSb2NrLUEzMjBNLURHUy0xNzhCRkJGRjAwODAwRjExLTFBOTRGNjAyLTcwODVDMjc3NjA3Mi0xODA1NTU4MDYzOTg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>               
 </UserList>
