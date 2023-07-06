@@ -2359,5 +2359,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Sergey42143" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MAG B660M MORTAR DDR4 (MS-7D42)-BFEBFBFF00090675-4AA31F0A-8CB87EF7385C" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NQUcgQjY2ME0gTU9SVEFSIEREUjQgKE1TLTdENDIpLUJGRUJGQkZGMDAwOTA2NzUtNEFBMzFGMEEtOENCODdFRjczODVDLTAwMjVfMzhEQV8yMUE0Xzg4ODYu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: Dozzka" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-Z170 PRO GAMING-BFEBFBFF000506E3-D0882E90-38D547E01D6F" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVoxNzAgUFJPIEdBTUlORy1CRkVCRkJGRjAwMDUwNkUzLUQwODgyRTkwLTM4RDU0N0UwMUQ2Ri1TNVkxTkoxUjEzMjQyOVk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                 
 </UserList>
