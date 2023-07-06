@@ -2363,5 +2363,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Dozzka" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-Z170 PRO GAMING-BFEBFBFF000506E3-D0882E90-38D547E01D6F" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVoxNzAgUFJPIEdBTUlORy1CRkVCRkJGRjAwMDUwNkUzLUQwODgyRTkwLTM4RDU0N0UwMUQ2Ri1TNVkxTkoxUjEzMjQyOVk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="9alqubaisi@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Dell Inc.-03PVDF-BFEBFBFF000906EA-0A1DEFEA-3C6AA7A1BF62" UniqueIdSha512="RGVsbCBJbmMuLTAzUFZERi1CRkVCRkJGRjAwMDkwNkVBLTBBMURFRkVBLTNDNkFBN0ExQkY2Mi0gICAgICAgICAgICBXTDFFUEVIRw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="Ginopug@protonmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-1544-BFEBFBFF000906A3-0050E2F6-C4BDE5236342" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xNTQ0LUJGRUJGQkZGMDAwOTA2QTMtMDA1MEUyRjYtQzRCREU1MjM2MzQyLTAwMDBfMDAwMF8wMDAwXzAwMDFfMDBBMF83NTIxXzMyRTRfQzQyRS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                 
 </UserList>
