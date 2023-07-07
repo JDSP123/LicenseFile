@@ -2419,5 +2419,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="kitozzebay@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B660M GAMING X DDR4-BFEBFBFF00090675-96A1CB55-00020373AEF2" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjY2ME0gR0FNSU5HIFggRERSNC1CRkVCRkJGRjAwMDkwNjc1LTk2QTFDQjU1LTAwMDIwMzczQUVGMi0wMEEwXzc1NjBfMDAwMF8wMjY0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="tyagomtjj@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-06 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-X470 GAMING M7 AC (MS-7B77)-178BFBFF00800F82-F0B8BB8B-309C23A885FE" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1YNDcwIEdBTUlORyBNNyBBQyAoTVMtN0I3NyktMTc4QkZCRkYwMDgwMEY4Mi1GMEI4QkI4Qi0zMDlDMjNBODg1RkUtRTgyM184RkE2X0JGNTNfMDAwMV8wMDFCXzQ0OEJfNDFGMV9BNDZBLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                  
 </UserList>
