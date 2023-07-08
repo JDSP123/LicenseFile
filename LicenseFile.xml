@@ -2471,5 +2471,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Discord: ARam#0353" Paypal="ramlacamen@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 AORUS ELITE-178BFBFF00A20F10-C067F0CE-18C04D974735" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBBT1JVUyBFTElURS0xNzhCRkJGRjAwQTIwRjEwLUMwNjdGMENFLTE4QzA0RDk3NDczNS02NDc5X0E3NTVfODBDMF8wNTk0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="daniimoni92@gmail.com" Paypal="dannycullen@abv.bg" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z690 GAMING X DDR4-BFEBFBFF00090672-60AFC174-D85ED3E59CCD" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY5MCBHQU1JTkcgWCBERFI0LUJGRUJGQkZGMDAwOTA2NzItNjBBRkMxNzQtRDg1RUQzRTU5Q0NELTAwMjVfMzhCQV8yMUI0XzlGRTQu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                    
 </UserList>
