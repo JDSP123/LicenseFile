@@ -2467,5 +2467,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="swatmg@gmail.com" Paypal="gustavo@lasitalia.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="HP-87B2-178BFBFF00860F01-52D70084-7412B314AE11" UniqueIdSha512="SFAtODdCMi0xNzhCRkJGRjAwODYwRjAxLTUyRDcwMDg0LTc0MTJCMzE0QUUxMS0wMDAwXzAwMDBfMDEwMF8wMDAwX0U0RDJfNUMwMF9FMTI2XzU0MDEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Discord: ARam#0353" Paypal="ramlacamen@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 AORUS ELITE-178BFBFF00A20F10-C067F0CE-18C04D974735" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBBT1JVUyBFTElURS0xNzhCRkJGRjAwQTIwRjEwLUMwNjdGMENFLTE4QzA0RDk3NDczNS02NDc5X0E3NTVfODBDMF8wNTk0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                    
 </UserList>
