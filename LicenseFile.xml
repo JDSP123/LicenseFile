@@ -2447,5 +2447,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="giannis.1234521@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="365" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 AORUS PRO V2-178BFBFF00A20F12-35FA45CE-1A024C3D0702" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBBT1JVUyBQUk8gVjItMTc4QkZCRkYwMEEyMEYxMi0zNUZBNDVDRS0xQTAyNEMzRDA3MDItMTQzMTc1NDAyMjIw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                   
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation USER WAITING FOR UNIQUE ID CHANGE--> 
+    <UserData Name="" NickName="" Paypal="angelboypacatos@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z690 AORUS MASTER-BFEBFBFF00090672-C07AFEA5-D85ED30C1BDA" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY5MCBBT1JVUyBNQVNURVItQkZFQkZCRkYwMDA5MDY3Mi1DMDdBRkVBNS1EODVFRDMwQzFCREEtNjQ3OV9BNzU3XzAwMjBfMkZFMi4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                    
 </UserList>
