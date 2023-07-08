@@ -2443,5 +2443,9 @@
   <!-- Aion Classic NA/EU Temporal activation HI BRO, THIS GUY GOT AN AION CLASSIC SUBSCRIPTION BUT HE HAD AION RETAIL ACTIVE, I ACTIVATED IT TEMPORALLY--> 
     <UserData Name="" NickName="" Paypal="mariluzy4@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B360M-A-BFEBFBFF000906EA-C0067A30-04D9F5327754" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEIzNjBNLUEtQkZFQkZCRkYwMDA5MDZFQS1DMDA2N0EzMC0wNEQ5RjUzMjc3NTQtUEJFSUlCQjIxMDMwMTI1NjU5" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="giannis.1234521@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="365" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550 AORUS PRO V2-178BFBFF00A20F12-35FA45CE-1A024C3D0702" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1MCBBT1JVUyBQUk8gVjItMTc4QkZCRkYwMEEyMEYxMi0zNUZBNDVDRS0xQTAyNEMzRDA3MDItMTQzMTc1NDAyMjIw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                   
 </UserList>
