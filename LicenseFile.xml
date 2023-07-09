@@ -2475,5 +2475,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="daniimoni92@gmail.com" Paypal="dannycullen@abv.bg" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z690 GAMING X DDR4-BFEBFBFF00090672-60AFC174-D85ED3E59CCD" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjY5MCBHQU1JTkcgWCBERFI0LUJGRUJGQkZGMDAwOTA2NzItNjBBRkMxNzQtRDg1RUQzRTU5Q0NELTAwMjVfMzhCQV8yMUI0XzlGRTQu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                    
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="tyagomtjj@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-08 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF GAMING B550M-PLUS-178BFBFF00A20F10-60FC765A-3C7C3F7AE2DA" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgQjU1ME0tUExVUy0xNzhCRkJGRjAwQTIwRjEwLTYwRkM3NjVBLTNDN0MzRjdBRTJEQS1CVExUNjM2NTAxWVgyNDBDR04" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                     
 </UserList>
