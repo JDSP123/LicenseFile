@@ -2503,5 +2503,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="fehrat69@live.fr" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-10 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B450M DS3H-CF-178BFBFF00800F82-67891011-BC52B72EA370" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gRFMzSC1DRi0xNzhCRkJGRjAwODAwRjgyLTY3ODkxMDExLUJDNTJCNzJFQTM3MC01MDAyNkI3NzY3MDFCRjQ2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="zaneiel@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="CFL-Octavia_CFS-BFEBFBFF000906EA-AC6E484F-A0510BBE429F" UniqueIdSha512="Q0ZMLU9jdGF2aWFfQ0ZTLUJGRUJGQkZGMDAwOTA2RUEtQUM2RTQ4NEYtQTA1MTBCQkU0MjlGLUhCU0IzOTA0MjcwMDA2OA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                       
 </UserList>
