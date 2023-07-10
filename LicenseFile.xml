@@ -2499,5 +2499,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="lusiulis@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-09 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000A0652-AE54DE26-988D46523014" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwQTA2NTItQUU1NERFMjYtOTg4RDQ2NTIzMDE0LThDRTNfOEUwNF8wMTE0XzAyNkMu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                      
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="fehrat69@live.fr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-10 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000A0652-AE54DE26-988D46523014" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gRFMzSC1DRi0xNzhCRkJGRjAwODAwRjgyLTY3ODkxMDExLUJDNTJCNzJFQTM3MC01MDAyNkI3NzY3MDFCRjQ2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                       
 </UserList>
