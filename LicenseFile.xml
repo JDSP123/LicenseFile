@@ -2515,5 +2515,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: missblack" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z97 PC Mate(MS-7850)-BFEBFBFF000306C3-B692D601-D8CB8AC05C11" UniqueIdSha512="TVNJLVo5NyBQQyBNYXRlKE1TLTc4NTApLUJGRUJGQkZGMDAwMzA2QzMtQjY5MkQ2MDEtRDhDQjhBQzA1QzExLTUwMDI2Qjc3ODQ0NDRFNEY" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="emeric.schmaltz@free.fr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-10 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-16R6-BFEBFBFF000806D1-D48EE980-F4267935917A" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xNlI2LUJGRUJGQkZGMDAwODA2RDEtRDQ4RUU5ODAtRjQyNjc5MzU5MTdBLTAwMjZfQjc2OF81M0MxXzFFQzUu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                       
 </UserList>
