@@ -2543,5 +2543,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: Qulity" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z270 TOMAHAWK (MS-7A68)-BFEBFBFF000906E9-0A7633F7-4CCC6AD6BD14" UniqueIdSha512="TVNJLVoyNzAgVE9NQUhBV0sgKE1TLTdBNjgpLUJGRUJGQkZGMDAwOTA2RTktMEE3NjMzRjctNENDQzZBRDZCRDE0LSAgICAgV0QtV0NDNEo3VVgwVTVS" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: sinchr" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-0654JC-BFEBFBFF000906EB-66510401-6C2B59E317F3" UniqueIdSha512="RGVsbCBJbmMuLTA2NTRKQy1CRkVCRkJGRjAwMDkwNkVCLTY2NTEwNDAxLTZDMkI1OUUzMTdGMy0gICAgICAgICAgICBaOTk0QUhRSg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                         
 </UserList>
