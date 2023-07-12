@@ -2575,5 +2575,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="baturinamon@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000906ED-2130A2D4-D8F883ACE57C" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwOTA2RUQtMjEzMEEyRDQtRDhGODgzQUNFNTdDLUU4MjNfOEZBNl9CRjUzXzAwMDFfMDAxQl80NDhCXzQ5OTdfOTdGMS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="critrow92@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG MAXIMUS XI HERO-BFEBFBFF000906EC-CAA63848-0C9D9283F60A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBNQVhJTVVTIFhJIEhFUk8tQkZFQkZCRkYwMDA5MDZFQy1DQUE2Mzg0OC0wQzlEOTI4M0Y2MEEtVm9sdW1lMQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                          
 </UserList>
