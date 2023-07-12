@@ -2591,5 +2591,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="mscesny2@rochester.rr.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450M Pro4-178BFBFF00800F82-96416FDB-A8A15949298C" UniqueIdSha512="QVNSb2NrLUI0NTBNIFBybzQtMTc4QkZCRkYwMDgwMEY4Mi05NjQxNkZEQi1BOEExNTk0OTI5OEMtTUsyMDAzMDUxMDA2MURFNEU" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation FUNPAY USER: nfq ASKED FOR A UNIQUE ID CHANGE, 16 DAYS REMAINING--> 
+    <UserData Name="" NickName="Funpay: nfq" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="16" IgnoreMacAddress="true" UniqueId="Intel-X99H-BFEBFBFF000306F2-F880D8C3-00E04F19960D" UniqueIdSha512="SW50ZWwtWDk5SC1CRkVCRkJGRjAwMDMwNkYyLUY4ODBEOEMzLTAwRTA0RjE5OTYwRC1BRUIwM0gyNVlFMDcwMDA1MjM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                          
 </UserList>
