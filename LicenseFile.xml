@@ -2587,5 +2587,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Binance:527282872, Discord: tod19" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME A320M-K-178BFBFF00810F10-544C0974-40B076D95667" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEEzMjBNLUstMTc4QkZCRkYwMDgxMEYxMC01NDRDMDk3NC00MEIwNzZEOTU2NjctMDAwMDAwMDA0NTgw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="mscesny2@rochester.rr.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B450M Pro4-178BFBFF00800F82-96416FDB-A8A15949298C" UniqueIdSha512="QVNSb2NrLUI0NTBNIFBybzQtMTc4QkZCRkYwMDgwMEY4Mi05NjQxNkZEQi1BOEExNTk0OTI5OEMtTUsyMDAzMDUxMDA2MURFNEU" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                          
 </UserList>
