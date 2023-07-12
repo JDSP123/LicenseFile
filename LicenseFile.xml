@@ -2579,5 +2579,13 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="critrow92@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG MAXIMUS XI HERO-BFEBFBFF000906EC-CAA63848-0C9D9283F60A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBNQVhJTVVTIFhJIEhFUk8tQkZFQkZCRkYwMDA5MDZFQy1DQUE2Mzg0OC0wQzlEOTI4M0Y2MEEtVm9sdW1lMQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="compparty1@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Standard-Standard-BFEBFBFF000906A3-B0687B7D-84144DBFEFB9" UniqueIdSha512="U3RhbmRhcmQtU3RhbmRhcmQtQkZFQkZCRkYwMDA5MDZBMy1CMDY4N0I3RC04NDE0NERCRkVGQjktNjQ3OV9BNzZCX0NBRDBfMEQwNy4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance:527282872, Discord: tod19" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME A320M-K-178BFBFF00810F10-544C0974-40B076D95667" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEEzMjBNLUstMTc4QkZCRkYwMDgxMEYxMC01NDRDMDk3NC00MEIwNzZEOTU2NjctMDAwMDAwMDA0NTgw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                          
 </UserList>
