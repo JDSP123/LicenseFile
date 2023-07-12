@@ -2563,5 +2563,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Binance: 470425858, Discord: monya." Paypal="analfairy@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-11 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B660M GAMING DDR4-BFEBFBFF00090675-E2F4156A-D85ED3DAEB15" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjY2ME0gR0FNSU5HIEREUjQtQkZFQkZCRkYwMDA5MDY3NS1FMkY0MTU2QS1EODVFRDNEQUVCMTUtMDAwMF8wMDAwXzAwMDBfMDAwMF8wMEUwXzRDMTRfMDUwRl80QzVDLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="cyberdynesystems@hotmail.co.jp" AionServer="AionClassicJapan">
+    <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B550 Steel Legend-178BFBFF00A20F10-30416D61-A8A159627907" UniqueIdSha512="QVNSb2NrLUI1NTAgU3RlZWwgTGVnZW5kLTE3OEJGQkZGMDBBMjBGMTAtMzA0MTZENjEtQThBMTU5NjI3OTA3LSAgICAgV0QtV0NBV1owNTM5OTM0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                          
 </UserList>
