@@ -2603,5 +2603,9 @@
   <!-- Aion Classic NA/EU Temporal activation HI BRO, THIS GUY IS WAITING FOR UNIQUE ID CHANGE, DISCORD: KOTORO--> 
     <UserData Name="" NickName="" Paypal="fehrat69@live.fr" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-13 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B450M DS3H-CF-178BFBFF00800F82-67891011-BC52B72EA370" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gRFMzSC1DRi0xNzhCRkJGRjAwODAwRjgyLTY3ODkxMDExLUJDNTJCNzJFQTM3MC01MDAyNkI3NzY3MDFCRjQ2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="lephenix13@hotmail.fr" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-FX505GE-BFEBFBFF000906EA-5E1B620B-D0C6377712C6" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUZYNTA1R0UtQkZFQkZCRkYwMDA5MDZFQS01RTFCNjIwQi1EMEM2Mzc3NzEyQzYtICAgICAgICAgICAgV0wxUE5LRVM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                          
 </UserList>
