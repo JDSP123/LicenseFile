@@ -2595,5 +2595,9 @@
   <!-- Aion Classic NA/EU Temporal activation FUNPAY USER: nfq ASKED FOR A UNIQUE ID CHANGE, 16 DAYS REMAINING--> 
     <UserData Name="" NickName="Funpay: nfq" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-12 14:40:52,531" LicenseDurationDay="16" IgnoreMacAddress="true" UniqueId="Intel-X99H-BFEBFBFF000306F2-F880D8C3-00E04F19960D" UniqueIdSha512="SW50ZWwtWDk5SC1CRkVCRkJGRjAwMDMwNkYyLUY4ODBEOEMzLTAwRTA0RjE5OTYwRC1BRUIwM0gyNVlFMDcwMDA1MjM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="liliananita02@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-A320M-S2H-CF-178BFBFF00810F81-1ED9340F-00C0CFF17725" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQTMyME0tUzJILUNGLTE3OEJGQkZGMDA4MTBGODEtMUVEOTM0MEYtMDBDMENGRjE3NzI1LSAgICAgICAgICAgIFMwVjhGTEZG" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                          
 </UserList>
