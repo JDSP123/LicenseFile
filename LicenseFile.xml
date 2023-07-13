@@ -2607,5 +2607,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="lephenix13@hotmail.fr" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-FX505GE-BFEBFBFF000906EA-5E1B620B-D0C6377712C6" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUZYNTA1R0UtQkZFQkZCRkYwMDA5MDZFQS01RTFCNjIwQi1EMEM2Mzc3NzEyQzYtICAgICAgICAgICAgV0wxUE5LRVM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                          
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="Tony28150@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-13 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Alienware-02XRCM-BFEBFBFF000906ED-5A27CE3B-9CB6D0C9BB65" UniqueIdSha512="QWxpZW53YXJlLTAyWFJDTS1CRkVCRkJGRjAwMDkwNkVELTVBMjdDRTNCLTlDQjZEMEM5QkI2NS0wMDAwXzAwMDBfMDAwMF8wMDAxXzAwQTBfNzUxOV8yM0JCX0Y1RTAu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                           
 </UserList>
