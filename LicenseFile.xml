@@ -2615,5 +2615,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: xpatr1otx" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-H310M S2V-BFEBFBFF000906EA-58239DED-E0D55E7EBA6E" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tSDMxME0gUzJWLUJGRUJGQkZGMDAwOTA2RUEtNTgyMzlERUQtRTBENTVFN0VCQTZFLTUwMDI2Qjc2ODMxNzc4Mjc" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation --> 
+    <UserData Name="" NickName="Funpay:random52 Discord: ana." Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME X370-A-178BFBFF00800F82-6C1D0E73-88D7F6C954E9" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFgzNzAtQS0xNzhCRkJGRjAwODAwRjgyLTZDMUQwRTczLTg4RDdGNkM5NTRFOS01MDAyNkI3Nzg0NzAyRUMy" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                           
 </UserList>
