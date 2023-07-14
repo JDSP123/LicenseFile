@@ -2631,5 +2631,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="cronosvr180@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF GAMING X570-PLUS (WI-FI)-178BFBFF00870F10-4CC17ED2-F02F74510A86" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgWDU3MC1QTFVTIChXSS1GSSktMTc4QkZCRkYwMDg3MEYxMC00Q0MxN0VEMi1GMDJGNzQ1MTBBODYtMDAwMF8wMDAwXzAxMDBfMDAwMF80Q0UwXzAwMThfREQ4Q185MDg0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation USER BECK WAITING FOR UNIQUE ID CHANGE--> 
+    <UserData Name="" NickName="" Paypal="nicolaabell021@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G531GT-BFEBFBFF000906EA-CCCC9133-04D4C46FE0D3" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUc1MzFHVC1CRkVCRkJGRjAwMDkwNkVBLUNDQ0M5MTMzLTA0RDRDNDZGRTBEMy0wMDAwXzAwMDBfMDAwMF8wMDAxXzAwQTBfNzUyMF8yQUQ4XzJFOUQu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                            
 </UserList>
