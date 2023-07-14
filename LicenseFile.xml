@@ -2627,5 +2627,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: baksina" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MPG Z590 GAMING PLUS (MS-7D07)-BFEBFBFF000A0671-2AA6B6C4-D8BBC1435BF1" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUEcgWjU5MCBHQU1JTkcgUExVUyAoTVMtN0QwNyktQkZFQkZCRkYwMDBBMDY3MS0yQUE2QjZDNC1EOEJCQzE0MzVCRjEtICAgICBXRC1XQ0M2TjNQRkVaWFA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="cronosvr180@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF GAMING X570-PLUS (WI-FI)-178BFBFF00870F10-4CC17ED2-F02F74510A86" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgWDU3MC1QTFVTIChXSS1GSSktMTc4QkZCRkYwMDg3MEYxMC00Q0MxN0VEMi1GMDJGNzQ1MTBBODYtMDAwMF8wMDAwXzAxMDBfMDAwMF80Q0UwXzAwMThfREQ4Q185MDg0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                            
 </UserList>
