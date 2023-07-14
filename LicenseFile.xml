@@ -2623,5 +2623,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: terpila322" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HP-8062-BFEBFBFF000506E3-AD341345-DC4A3E4405C3" UniqueIdSha512="SFAtODA2Mi1CRkVCRkJGRjAwMDUwNkUzLUFEMzQxMzQ1LURDNEEzRTQ0MDVDMy1aQTQxODNZUA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>                           
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: baksina" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MPG Z590 GAMING PLUS (MS-7D07)-BFEBFBFF000A0671-2AA6B6C4-D8BBC1435BF1" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUEcgWjU5MCBHQU1JTkcgUExVUyAoTVMtN0QwNyktQkZFQkZCRkYwMDBBMDY3MS0yQUE2QjZDNC1EOEJCQzE0MzVCRjEtICAgICBXRC1XQ0M2TjNQRkVaWFA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>                            
 </UserList>
