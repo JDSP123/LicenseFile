@@ -2639,5 +2639,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="arnaudduffau@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G701VI-BFEBFBFF000506E3-A00D1D87-B88A60CBF66A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUc3MDFWSS1CRkVCRkJGRjAwMDUwNkUzLUEwMEQxRDg3LUI4OEE2MENCRjY2QS0wMDA4XzBEMDJfMDAwQ185OUM0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="tortulcharlie@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000A0652-341B6321-005056C00001" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwQTA2NTItMzQxQjYzMjEtMDA1MDU2QzAwMDAxLTA0NEFfNTAwMF9CMEEwXzBDRTgu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                            
 </UserList>
