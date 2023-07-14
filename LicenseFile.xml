@@ -2635,5 +2635,9 @@
   <!-- Aion Classic NA/EU Temporal activation USER BECK WAITING FOR UNIQUE ID CHANGE--> 
     <UserData Name="" NickName="" Paypal="nicolaabell021@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G531GT-BFEBFBFF000906EA-CCCC9133-04D4C46FE0D3" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUc1MzFHVC1CRkVCRkJGRjAwMDkwNkVBLUNDQ0M5MTMzLTA0RDRDNDZGRTBEMy0wMDAwXzAwMDBfMDAwMF8wMDAxXzAwQTBfNzUyMF8yQUQ4XzJFOUQu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="" Paypal="arnaudduffau@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-G701VI-BFEBFBFF000506E3-A00D1D87-B88A60CBF66A" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLUc3MDFWSS1CRkVCRkJGRjAwMDUwNkUzLUEwMEQxRDg3LUI4OEE2MENCRjY2QS0wMDA4XzBEMDJfMDAwQ185OUM0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                            
 </UserList>
