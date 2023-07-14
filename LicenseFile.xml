@@ -2643,5 +2643,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="" Paypal="tortulcharlie@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000A0652-341B6321-005056C00001" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwQTA2NTItMzQxQjYzMjEtMDA1MDU2QzAwMDAxLTA0NEFfNTAwMF9CMEEwXzBDRTgu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Funpay: BIGSTOCK" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-374B-BFEBFBFF000806C1-A6B13A5B-C42360D76D8D" UniqueIdSha512="TEVOT1ZPLTM3NEItQkZFQkZCRkYwMDA4MDZDMS1BNkIxM0E1Qi1DNDIzNjBENzZEOEQtMDBBMF83NTAxXzJGNDhfRDJENC4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                            
 </UserList>
