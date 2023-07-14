@@ -2647,5 +2647,9 @@
   <!-- Aion Classic NA/EU Temporal activation--> 
     <UserData Name="" NickName="Funpay: BIGSTOCK" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-374B-BFEBFBFF000806C1-A6B13A5B-C42360D76D8D" UniqueIdSha512="TEVOT1ZPLTM3NEItQkZFQkZCRkYwMDA4MDZDMS1BNkIxM0E1Qi1DNDIzNjBENzZEOEQtMDBBMF83NTAxXzJGNDhfRDJENC4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- Aion Classic NA/EU Temporal activation--> 
+    <UserData Name="" NickName="Binance: 155738740, Discord: Freezee#2025" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2023-07-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B460M Pro4-BFEBFBFF000A0655-C285EE41-A8A159626CBD" UniqueIdSha512="QVNSb2NrLUI0NjBNIFBybzQtQkZFQkZCRkYwMDBBMDY1NS1DMjg1RUU0MS1BOEExNTk2MjZDQkQtICAgICAgICAgICAgWk4xTE5IMVY" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>                            
 </UserList>
